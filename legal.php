@@ -61,11 +61,11 @@
                     <h2 class="text-2xl font-bold text-gray-900">Copyright & DMCA</h2>
                 </div>
                 <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. No Hosting Policy</strong><br>This Service strictly adheres to a "No Hosting" policy. We transmit no files through our own servers. All "Read" and "Download" links direct users to the original source servers (e.g., archive.org, nih.gov).</p>
+                    <p><strong>1. Information Location Tool (Safe Harbor)</strong><br>The Akashic Library operates as an "Information Location Tool" under the Digital Millennium Copyright Act (17 U.S.C. § 512(d)). We do not host, store, or transmit copyrighted files. We index metadata and provide links to third-party public repositories.</p>
                     
-                    <p><strong>2. Third-Party Content</strong><br>We have no control over the content hosted on third-party websites. If you believe content found via our search engine infringes your copyright, you must contact the hosting provider (e.g., The Internet Archive) directly to have it removed.</p>
+                    <p><strong>2. Third-Party Liability</strong><br>Content accessed via this tool is hosted by external organizations (e.g., Internet Archive, National Institutes of Health). Providing a link to these resources does not imply endorsement or ownership. Takedown requests for the underlying file must be directed to the hosting site.</p>
                     
-                    <p><strong>3. DMCA Compliance</strong><br>While we do not host content, we respect intellectual property rights. If a search result on our specific interface links to a resource you own and wish to have de-listed from our <em>search results</em>, please contact us. However, removing it from our search results does not remove the file from the internet, as the source remains elsewhere.</p>
+                    <p><strong>3. Takedown Procedure</strong><br>If you believe a link in our search index facilitates infringement of your valid copyright, you may send a notice to our Designated Agent at <strong>legal@akashic-record.app</strong>. Upon receipt of a valid notice, we will disable the specific link from our search results. Note that this does not remove the content from the source repository.</p>
                 </div>
             </section>
 
