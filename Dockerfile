@@ -1,7 +1,9 @@
 FROM php:8.2-apache
 
-# Enable mod_rewrite for extensive routing (if needed later)
-RUN a2enmod rewrite
+# Resolve MPM conflict and enable Rewrite
+RUN a2dismod mpm_event mpm_worker || true \
+    && a2enmod mpm_prefork \
+    && a2enmod rewrite
 
 # Copy application source
 COPY . /var/www/html/
