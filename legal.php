@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Legal & Terms - Akashic Library</title>
+    <title>Legal & Compliance - Akashic Library</title>
     <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,70 +31,77 @@
                 <i data-lucide="arrow-left" class="w-5 h-5"></i>
                 <span class="font-semibold">Back to Library</span>
             </a>
-            <div class="font-bold text-lg tracking-tight">Legal & Terms</div>
+            <div class="font-bold text-lg tracking-tight">Legal & Compliance Hub</div>
         </div>
     </nav>
 
     <!-- Content -->
-    <main class="flex-grow pt-28 pb-20 px-4 sm:px-6">
-        <div class="max-w-3xl mx-auto space-y-8">
+    <main class="flex-grow pt-32 pb-20 px-4 sm:px-6">
+        <div class="max-w-5xl mx-auto">
+            
+            <div class="text-center mb-16">
+                <h1 class="text-4xl font-bold text-gray-900 mb-4">Legal Fortress</h1>
+                <p class="text-gray-500 max-w-2xl mx-auto">Transparency, compliance, and protection. Explore our governing documents below.</p>
+            </div>
 
-            <!-- Card 1: Terms of Service -->
-            <section class="glass-panel p-8 md:p-10">
-                <div class="flex items-center gap-3 mb-6 text-ios-blue">
-                    <i data-lucide="scale" class="w-6 h-6"></i>
-                    <h2 class="text-2xl font-bold text-gray-900">Terms of Service</h2>
-                </div>
-                <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. Acceptance of Terms</strong><br>By accessing the Akashic Library (the "Service"), you agree to comply with these Terms of Service. If you do not agree, you must not use the Service.</p>
-                    
-                    <p><strong>2. Nature of Service</strong><br>The Akashic Library is strictly a <strong>metadata search engine and viewer</strong>. We do not host, upload, or store books, articles, or papers. All content is dynamically fetched from third-party public APIs (Internet Archive, Open Library, PubMed, etc.).</p>
-                    
-                    <p><strong>3. User Responsibility</strong><br>You agree to use this Service only for lawful purposes, such as education, research, and personal learning. You must not use this tool to infringe upon copyrights or violate the laws of your jurisdiction.</p>
-                    
-                    <p><strong>4. Non-Commercial / Non-Profit Status</strong><br>The Akashic Library is a strictly <strong>non-commercial, non-profit</strong> open-source initiative. We generate <strong>zero revenue</strong> from this service. There are no advertisements, subscriptions, or paywalls. The tool is provided solely as a public utility for educational advancement and easier access to potential knowledge.</p>
-                </div>
-            </section>
+            <div class="grid md:grid-cols-2 gap-6">
 
-            <!-- Card 2: Copyright & DMCA -->
-            <section class="glass-panel p-8 md:p-10">
-                <div class="flex items-center gap-3 mb-6 text-red-600">
-                    <i data-lucide="shield-alert" class="w-6 h-6"></i>
-                    <h2 class="text-2xl font-bold text-gray-900">Intellectual Property (International & RA 8293)</h2>
-                </div>
-                <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. Information Location Tool</strong><br>The Akashic Library operates as a search engine and finder, compliant with the <strong>Intellectual Property Code of the Philippines (Republic Act No. 8293)</strong> and the <strong>Electronic Commerce Act of 2000 (Republic Act No. 8792)</strong>. We also align our policies with international standards, including the <strong>Berne Convention</strong> and the <strong>WIPO Copyright Treaty</strong>. We do not host, store, or transmit copyrighted files. We index metadata and provide links to third-party public repositories.</p>
-                    
-                    <p><strong>2. Third-Party Liability</strong><br>Content accessed via this tool is hosted by external organizations (e.g., Internet Archive, National Institutes of Health). Providing a link to these resources does not imply endorsement or ownership. Takedown requests for the underlying file must be directed to the hosting site.</p>
-                    
-                    <p><strong>3. Takedown Procedure</strong><br>If you believe a link in our search index facilitates infringement of your valid copyright, you may send a notice to our Designated Agent at <strong>job.benedictgarcia@outlook.com</strong>. Upon receipt of a valid notice, we will disable the specific link from our search results.</p>
-                </div>
-            </section>
+                <!-- Card 1: Terms of Service -->
+                <a href="legal/terms.php" class="group glass-panel p-8 hover:scale-[1.02] transition-transform duration-300 relative overflow-hidden">
+                    <div class="absolute inset-0 bg-gradient-to-br from-blue-50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-xl bg-blue-100 text-blue-600 flex items-center justify-center mb-6">
+                            <i data-lucide="scale" class="w-6 h-6"></i>
+                        </div>
+                        <h2 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">Terms of Service</h2>
+                        <p class="text-gray-500 text-sm leading-relaxed">The Master Contract. Governing law, user conduct, and the "Passive Conduit" defense.</p>
+                    </div>
+                </a>
 
-<!-- ... (skipping unchanged sections) ... -->
+                <!-- Card 2: Privacy Policy -->
+                <a href="legal/privacy.php" class="group glass-panel p-8 hover:scale-[1.02] transition-transform duration-300 relative overflow-hidden">
+                    <div class="absolute inset-0 bg-gradient-to-br from-green-50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-xl bg-green-100 text-green-600 flex items-center justify-center mb-6">
+                            <i data-lucide="lock" class="w-6 h-6"></i>
+                        </div>
+                        <h2 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-green-600 transition-colors">Privacy Policy</h2>
+                        <p class="text-gray-500 text-sm leading-relaxed">Data Sovereignty (RA 10173). We are stateless and store nothing.</p>
+                    </div>
+                </a>
 
-            <!-- Card 5: General Provisions -->
-             <section class="glass-panel p-8 md:p-10">
-                <div class="flex items-center gap-3 mb-6 text-gray-500">
-                    <i data-lucide="file-text" class="w-6 h-6"></i>
-                    <h2 class="text-2xl font-bold text-gray-900">General Provisions</h2>
-                </div>
-                <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. Governing Law & Exclusive Jurisdiction</strong><br>These Terms shall be governed by the laws of the <strong>Republic of the Philippines</strong>. You agree that any legal action or proceeding relating to the Service shall be instituted <strong>exclusively</strong> in the courts of the Philippines. You explicitly waive any right to bring a lawsuit in any other jurisdiction.</p>
-                    
-                    <p><strong>2. Severability</strong><br>If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect.</p>
-                    
-                    <p><strong>3. Changes to Terms</strong><br>We reserve the right to modify these terms at any time. Your continued use of the Service constitutes agreement to the updated terms.</p>
-                </div>
-            </section>
+                <!-- Card 3: DMCA / Copyright -->
+                <a href="legal/dmca.php" class="group glass-panel p-8 hover:scale-[1.02] transition-transform duration-300 relative overflow-hidden">
+                    <div class="absolute inset-0 bg-gradient-to-br from-red-50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-xl bg-red-100 text-red-600 flex items-center justify-center mb-6">
+                            <i data-lucide="shield-alert" class="w-6 h-6"></i>
+                        </div>
+                        <h2 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">Intellectual Property</h2>
+                        <p class="text-gray-500 text-sm leading-relaxed">RA 8293 & DMCA Safe Harbor. Designated Agent and Takedown Procedures.</p>
+                    </div>
+                </a>
 
+                <!-- Card 4: Disclaimer -->
+                <a href="legal/disclaimer.php" class="group glass-panel p-8 hover:scale-[1.02] transition-transform duration-300 relative overflow-hidden">
+                    <div class="absolute inset-0 bg-gradient-to-br from-orange-50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-xl bg-orange-100 text-orange-500 flex items-center justify-center mb-6">
+                            <i data-lucide="alert-triangle" class="w-6 h-6"></i>
+                        </div>
+                        <h2 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-orange-500 transition-colors">Disclaimer & Liability</h2>
+                        <p class="text-gray-500 text-sm leading-relaxed">Strict "AS IS" Warranty. Indemnification and Non-Profit status.</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="mt-16 border-t border-gray-200 pt-8 text-center">
+                <p class="text-xs text-gray-400 uppercase tracking-widest font-semibold">Jurisdiction: Republic of the Philippines</p>
+                <p class="text-[10px] text-gray-300 mt-2">© 2025 Akashic Library. All Rights Reserved.</p>
+            </div>
         </div>
     </main>
-
-    <!-- Footer -->
-    <footer class="text-center text-gray-400 text-sm pb-10">
-        <p>&copy; 2025 Akashic Library. All Rights Reserved.</p>
-    </footer>
 
     <script>
         lucide.createIcons();
