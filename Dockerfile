@@ -10,7 +10,7 @@ COPY . /var/www/html/
 WORKDIR /var/www/html/
 
 # Use the default production configuration
-mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"
+RUN mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"
 
 # Permissions
 RUN chown -R www-data:www-data /var/www/html
