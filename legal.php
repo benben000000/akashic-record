@@ -82,15 +82,35 @@
                 </div>
             </section>
 
-            <!-- Card 4: Disclaimer -->
+            <!-- Card 4: Disclaimer & Liability -->
             <section class="glass-panel p-8 md:p-10">
                 <div class="flex items-center gap-3 mb-6 text-orange-500">
                     <i data-lucide="alert-triangle" class="w-6 h-6"></i>
-                    <h2 class="text-2xl font-bold text-gray-900">Disclaimer</h2>
+                    <h2 class="text-2xl font-bold text-gray-900">Disclaimer & Liability</h2>
                 </div>
                 <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The developers of Akashic Library are not reliable for any damages, legal issues, or data loss arising from the use of this software.</p>
-                    <p>This project is open-source and intended for educational demonstration of API integration and Library Sciences.</p>
+                    <p><strong>1. "AS IS" Warranty</strong><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.</p>
+                    
+                    <p><strong>2. Limitation of Liability</strong><br>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+                    
+                    <p><strong>3. Indemnification</strong><br>You agree to indemnify, defend, and hold harmless the Akashic Library developers from any claims, liabilities, damages, and expenses (including legal fees) arising from your use of the Service or your violation of these Terms.</p>
+                    
+                    <p><strong>4. External Links</strong><br>We do not control or endorse the content of third-party websites accessible via our search results. You acknowledge that we are not responsible for the availability, accuracy, or legality of such external sites.</p>
+                </div>
+            </section>
+
+            <!-- Card 5: General Provisions -->
+             <section class="glass-panel p-8 md:p-10">
+                <div class="flex items-center gap-3 mb-6 text-gray-500">
+                    <i data-lucide="file-text" class="w-6 h-6"></i>
+                    <h2 class="text-2xl font-bold text-gray-900">General Provisions</h2>
+                </div>
+                <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
+                    <p><strong>1. Governing Law</strong><br>These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the Service Provider resides, without regard to its conflict of law provisions.</p>
+                    
+                    <p><strong>2. Severability</strong><br>If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect.</p>
+                    
+                    <p><strong>3. Changes to Terms</strong><br>We reserve the right to modify these terms at any time. Your continued use of the Service constitutes agreement to the updated terms.</p>
                 </div>
             </section>
 
