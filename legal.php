@@ -67,7 +67,7 @@
                     
                     <p><strong>2. Third-Party Liability</strong><br>Content accessed via this tool is hosted by external organizations (e.g., Internet Archive, National Institutes of Health). Providing a link to these resources does not imply endorsement or ownership. Takedown requests for the underlying file must be directed to the hosting site.</p>
                     
-                    <p><strong>3. Takedown Procedure</strong><br>If you believe a link in our search index facilitates infringement of your valid copyright, you may send a notice to our Designated Agent at <strong>legal@akashic-record.app</strong>. Upon receipt of a valid notice, we will disable the specific link from our search results. Note that this does not remove the content from the source repository.</p>
+                    <p><strong>3. Takedown Procedure</strong><br>If you believe a link in our search index facilitates infringement of your valid copyright, you may send a notice to our Designated Agent at <strong>job.benedictgarcia@outlook.com</strong>. Upon receipt of a valid notice, we will disable the specific link from our search results. Note that this does not remove the content from the source repository.</p>
                 </div>
             </section>
 
