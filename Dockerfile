@@ -1,9 +1,11 @@
 FROM php:8.2-apache
 
-# Force remove any conflicting MPMs (the source of the crash)
-RUN rm -f /etc/apache2/mods-enabled/mpm_*.load \
-    && a2enmod mpm_prefork \
-    && a2enmod rewrite
+# Copy and set up entrypoint
+COPY docker-entrypoint.sh /usr/local/bin/
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh
+
+ENTRYPOINT ["docker-entrypoint.sh"]
+CMD ["apache2-foreground"]
 
 # Copy application source
 COPY . /var/www/html/
