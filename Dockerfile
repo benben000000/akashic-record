@@ -1,7 +1,7 @@
 FROM php:8.2-apache
 
-# Resolve MPM conflict and enable Rewrite
-RUN a2dismod mpm_event mpm_worker || true \
+# Force remove any conflicting MPMs (the source of the crash)
+RUN rm -f /etc/apache2/mods-enabled/mpm_*.load \
     && a2enmod mpm_prefork \
     && a2enmod rewrite
 
