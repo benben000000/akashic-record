@@ -51,6 +51,8 @@
                     <p><strong>2. Nature of Service</strong><br>The Akashic Library is strictly a <strong>metadata search engine and viewer</strong>. We do not host, upload, or store books, articles, or papers. All content is dynamically fetched from third-party public APIs (Internet Archive, Open Library, PubMed, etc.).</p>
                     
                     <p><strong>3. User Responsibility</strong><br>You agree to use this Service only for lawful purposes, such as education, research, and personal learning. You must not use this tool to infringe upon copyrights or violate the laws of your jurisdiction.</p>
+                    
+                    <p><strong>4. Non-Commercial / Non-Profit Status</strong><br>The Akashic Library is a strictly <strong>non-commercial, non-profit</strong> open-source initiative. We generate <strong>zero revenue</strong> from this service. There are no advertisements, subscriptions, or paywalls. The tool is provided solely as a public utility for educational advancement and easier access to potential knowledge.</p>
                 </div>
             </section>
 
