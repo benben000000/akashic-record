@@ -168,6 +168,37 @@
             </div>
         </div>
 
+
+    <!-- View: Custom Source Modal -->
+    <div id="custom-source-modal" class="fixed inset-0 z-[70] hidden font-sans">
+        <div class="absolute inset-0 bg-black/40 backdrop-blur-sm transition-opacity" onclick="app.closeCustomSourceModal()"></div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-md p-6">
+            <div class="bg-white/95 backdrop-blur-2xl rounded-2xl shadow-2xl border border-white/50 p-6 transform transition-all scale-100">
+                <div class="text-center mb-6">
+                    <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-3">
+                        <i data-lucide="globe" class="w-6 h-6"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-900">Add Custom Source</h3>
+                    <p class="text-sm text-gray-500 mt-1">Connect any search engine.</p>
+                </div>
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1.5">Source Name</label>
+                        <input type="text" id="custom-source-name" placeholder="e.g., My University Library" class="w-full px-4 py-3 bg-gray-50/50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all text-gray-900 placeholder-gray-400">
+                    </div>
+                    <div>
+                        <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1.5">Search URL</label>
+                        <input type="text" id="custom-source-url" placeholder="https://example.com/search?q={q}" class="w-full px-4 py-3 bg-gray-50/50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all font-mono text-sm text-gray-800 placeholder-gray-400">
+                        <p class="text-[10px] text-gray-400 mt-1.5">Tip: Use <b>{q}</b> as the query placeholder.</p>
+                    </div>
+                </div>
+                <div class="flex gap-3 mt-6">
+                    <button onclick="app.closeCustomSourceModal()" class="flex-1 px-4 py-3 bg-gray-100 text-gray-700 font-semibold rounded-xl hover:bg-gray-200 transition-colors">Cancel</button>
+                    <button onclick="app.saveCustomSource()" class="flex-1 px-4 py-3 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700 shadow-lg shadow-blue-500/30 transition-all">Add Source</button>
+                </div>
+            </div>
+        </div>
+    </div>
     </main>
 
     <!-- Scripts -->

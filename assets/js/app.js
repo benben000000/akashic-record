@@ -288,23 +288,45 @@ class App {
     }
 
     addCustomPortal() {
-        const name = prompt("Enter source name (e.g., 'My Uni Library'):");
-        if (!name) return;
+        document.getElementById('custom-source-modal').classList.remove('hidden');
+        document.getElementById('custom-source-name').focus();
+    }
 
-        const urlExample = "https://example.com/search?q={q}";
-        const url = prompt(`Enter search URL (use {q} for query):\nExample: ${urlExample}`);
-        if (!url) return;
+    closeCustomSourceModal() {
+        document.getElementById('custom-source-modal').classList.add('hidden');
+        document.getElementById('custom-source-name').value = '';
+        document.getElementById('custom-source-url').value = '';
+    }
+
+    saveCustomSource() {
+        const nameInput = document.getElementById('custom-source-name');
+        const urlInput = document.getElementById('custom-source-url');
+        const name = nameInput.value.trim();
+        const url = urlInput.value.trim();
+
+        if (!name) {
+            this.showToast('Please enter a source name.', 'error');
+            nameInput.focus();
+            return;
+        }
+        if (!url || !url.includes('{q}')) {
+            this.showToast('URL must contain {q} placeholder.', 'error');
+            urlInput.focus();
+            return;
+        }
 
         const customPortals = JSON.parse(localStorage.getItem('akashic_custom_portals') || '[]');
         customPortals.unshift({ // Add to top
             name: name,
             url: url,
-            icon: 'globe', // Default icon
-            color: 'bg-gray-700' // Default color
+            icon: 'globe',
+            color: 'bg-gray-700'
         });
 
         localStorage.setItem('akashic_custom_portals', JSON.stringify(customPortals));
         this.showToast('Custom Source Added!', 'success');
+
+        this.closeCustomSourceModal();
 
         // Refresh if showing results
         if (this.state.results.length > 0) this.search();
