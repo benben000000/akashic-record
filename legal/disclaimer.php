@@ -1,4 +1,3 @@
-<?php include '../api/proxy.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

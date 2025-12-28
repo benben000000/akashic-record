@@ -1,4 +1,3 @@
-<?php include '../api/proxy.php'; // Reuse shared logic if needed ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
