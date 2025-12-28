@@ -60,14 +60,14 @@
             <section class="glass-panel p-8 md:p-10">
                 <div class="flex items-center gap-3 mb-6 text-red-600">
                     <i data-lucide="shield-alert" class="w-6 h-6"></i>
-                    <h2 class="text-2xl font-bold text-gray-900">Copyright & DMCA</h2>
+                    <h2 class="text-2xl font-bold text-gray-900">Intellectual Property (RA 8293)</h2>
                 </div>
                 <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. Information Location Tool (Safe Harbor)</strong><br>The Akashic Library operates as an "Information Location Tool" under the Digital Millennium Copyright Act (17 U.S.C. § 512(d)). We do not host, store, or transmit copyrighted files. We index metadata and provide links to third-party public repositories.</p>
+                    <p><strong>1. Information Location Tool</strong><br>The Akashic Library operates as a search engine and finder, compliant with the <strong>Intellectual Property Code of the Philippines (Republic Act No. 8293)</strong> and the <strong>Electronic Commerce Act of 2000 (Republic Act No. 8792)</strong>. We do not host, store, or transmit copyrighted files. We index metadata and provide links to third-party public repositories.</p>
                     
                     <p><strong>2. Third-Party Liability</strong><br>Content accessed via this tool is hosted by external organizations (e.g., Internet Archive, National Institutes of Health). Providing a link to these resources does not imply endorsement or ownership. Takedown requests for the underlying file must be directed to the hosting site.</p>
                     
-                    <p><strong>3. Takedown Procedure</strong><br>If you believe a link in our search index facilitates infringement of your valid copyright, you may send a notice to our Designated Agent at <strong>job.benedictgarcia@outlook.com</strong>. Upon receipt of a valid notice, we will disable the specific link from our search results. Note that this does not remove the content from the source repository.</p>
+                    <p><strong>3. Takedown Procedure</strong><br>If you believe a link in our search index facilitates infringement of your valid copyright, you may send a notice to our Designated Agent at <strong>job.benedictgarcia@outlook.com</strong>. Upon receipt of a valid notice, we will disable the specific link from our search results.</p>
                 </div>
             </section>
 
@@ -75,12 +75,12 @@
             <section class="glass-panel p-8 md:p-10">
                 <div class="flex items-center gap-3 mb-6 text-green-600">
                     <i data-lucide="lock" class="w-6 h-6"></i>
-                    <h2 class="text-2xl font-bold text-gray-900">Privacy Policy</h2>
+                    <h2 class="text-2xl font-bold text-gray-900">Privacy Policy (RA 10173)</h2>
                 </div>
                 <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. Data Collection</strong><br>We operate on a "Stateless" principle. We do not require account registration. We do not track your search history on our servers. Your "Favorites" are stored locally on your own device via LocalStorage.</p>
+                    <p><strong>1. Data Privacy Act Compliance</strong><br>We respect your privacy rights in accordance with the <strong>Data Privacy Act of 2012 (Republic Act No. 10173)</strong>. We operate on a "Stateless" principle and do not require account registration.</p>
                     
-                    <p><strong>2. API Usage</strong><br>When you perform a search, your query is sent to our proxy to fetch results from external providers (e.g., Google Books, PubMed). These providers may see your query IP address as part of the connection request. Please review their respective privacy policies.</p>
+                    <p><strong>2. Data Collection</strong><br>We do not track your personal search history on our servers. Your "Favorites" are stored locally on your own device via LocalStorage. When you perform a search, your query is proxied to fetch results from external providers.</p>
                 </div>
             </section>
 
@@ -108,7 +108,7 @@
                     <h2 class="text-2xl font-bold text-gray-900">General Provisions</h2>
                 </div>
                 <div class="prose prose-gray max-w-none text-gray-600 space-y-4 leading-relaxed">
-                    <p><strong>1. Governing Law</strong><br>These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the Service Provider resides, without regard to its conflict of law provisions.</p>
+                    <p><strong>1. Governing Law</strong><br>These Terms shall be governed by and construed in accordance with the laws of the <strong>Republic of the Philippines</strong>, without regard to its conflict of law provisions.</p>
                     
                     <p><strong>2. Severability</strong><br>If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect.</p>
                     
