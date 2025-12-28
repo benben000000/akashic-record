@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/aHCHdFmtSkqbRKRXtyzlr4yONuI</id>
+  <title>arXiv Query: search_query=all:neurology&amp;id_list=&amp;start=0&amp;max_results=20</title>
+  <updated>2025-12-28T03:58:46Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:neurology&amp;start=0&amp;max_results=20&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>1292</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2312.06956v1</id>
+    <title>Robotics Applications in Neurology: A Review of Recent Advancements and Future Directions</title>
+    <updated>2023-12-12T03:32:34Z</updated>
+    <link href="https://arxiv.org/abs/2312.06956v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2312.06956v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Robotic technology has the potential to revolutionize the field of neurology by providing new methods for diagnosis, treatment, and rehabilitation of neurological disorders. In recent years, there has been an increasing interest in the development of robotics applications for neurology, driven by advances in sensing, actuation, and control systems. This review paper provides a comprehensive overview of the recent advancements in robotics technology for neurology, with a focus on three main areas: diagnosis, treatment, and rehabilitation. In the area of diagnosis, robotics has been used for developing new imaging techniques and tools for more accurate and non-invasive mapping of brain structures and functions. For treatment, robotics has been used for developing minimally invasive surgical procedures, including stereotactic and endoscopic approaches, as well as for the delivery of therapeutic agents to specific targets in the brain. In rehabilitation, robotics has been used for developing assistive devices and platforms for motor and cognitive training of patients with neurological disorders. The paper also discusses the challenges and limitations of current robotics technology for neurology, including the need for more reliable and precise sensing and actuation systems, the development of better control algorithms, and the ethical implications of robotic interventions in the human brain. Finally, the paper outlines future directions and opportunities for robotics applications in neurology, including the integration of robotics with other emerging technologies, such as neuroprosthetics, artificial intelligence, and virtual reality. Overall, this review highlights the potential of robotics technology to transform the field of neurology and improve the lives of patients with neurological disorders.</summary>
+    <category term="cs.RO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-12-12T03:32:34Z</published>
+    <arxiv:primary_category term="cs.RO"/>
+    <arxiv:journal_ref>Journal Of Instrumentation, Automation And Systems, 10(1) (2023)</arxiv:journal_ref>
+    <author>
+      <name>Retnaningsih Retnaningsih</name>
+    </author>
+    <author>
+      <name>Agus Budiyono</name>
+    </author>
+    <author>
+      <name>Rifky Ismail</name>
+    </author>
+    <author>
+      <name>Dodik Tugasworo</name>
+    </author>
+    <author>
+      <name>Rivan Danuaji</name>
+    </author>
+    <author>
+      <name>Syahrul Syahrul</name>
+    </author>
+    <author>
+      <name>Hendry Gunawan</name>
+    </author>
+    <arxiv:doi>10.5281/zenodo.8062306</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.5281/zenodo.8062306" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1906.03183v1</id>
+    <title>Exploring Diseases and Syndromes in Neurology Case Reports from 1955 to 2017 with Text Mining</title>
+    <updated>2019-05-23T17:38:06Z</updated>
+    <link href="https://arxiv.org/abs/1906.03183v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1906.03183v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Background: A large number of neurology case reports have been published, but it is a challenging task for human medical experts to explore all of these publications. Text mining offers a computational approach to investigate neurology literature and capture meaningful patterns. The overarching goal of this study is to provide a new perspective on case reports of neurological disease and syndrome analysis over the last six decades using text mining.
+  Methods: We extracted diseases and syndromes (DsSs) from more than 65,000 neurology case reports from 66 journals in PubMed over the last six decades from 1955 to 2017. Text mining was applied to reports on the detected DsSs to investigate high-frequency DsSs, categorize them, and explore the linear trends over the 63-year time frame.
+  Results: The text mining methods explored high-frequency neurologic DsSs and their trends and the relationships between them from 1955 to 2017. We detected more than 18,000 unique DsSs and found 10 categories of neurologic DsSs. While the trend analysis showed the increasing trends in the case reports for top-10 high-frequency DsSs, the categories had mixed trends.
+  Conclusion: Our study provided new insights into the application of text mining methods to investigate DsSs in a large number of medical case reports that occur over several decades. The proposed approach can be used to provide a macro level analysis of medical literature by discovering interesting patterns and tracking them over several years to help physicians explore these case reports more efficiently.</summary>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-05-23T17:38:06Z</published>
+    <arxiv:primary_category term="q-bio.QM"/>
+    <author>
+      <name>Amir Karami</name>
+    </author>
+    <author>
+      <name>Mehdi Ghasemi</name>
+    </author>
+    <author>
+      <name>Souvik Sen</name>
+    </author>
+    <author>
+      <name>Marcos Moraes</name>
+    </author>
+    <author>
+      <name>Vishal Shah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1504.02842v1</id>
+    <title>Definition and Research of Internet Neurology</title>
+    <updated>2015-04-11T06:17:58Z</updated>
+    <link href="https://arxiv.org/abs/1504.02842v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1504.02842v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>More and more scientific research shows that there is a close correlation between the Internet and brain science. This paper presents the idea of establishing the Internet neurology, which means to make a cross-contrast between the two in terms of physiology and psychology, so that a complete infrastructure system of the Internet is established, predicting the development trend of the Internet in the future as well as the brain structure and operation mechanism, and providing theoretical support for the generation principle of intelligence, cognition and emotion. It also proposes the viewpoint that the Internet can be divided into Internet neurophysiology, Internet neuropsychology, Brain Internet physiology, Brain Internet psychology and the Internet in cognitive science.</summary>
+    <category term="cs.OH" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-04-11T06:17:58Z</published>
+    <arxiv:primary_category term="cs.OH"/>
+    <author>
+      <name>Feng Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.06208v1</id>
+    <title>Building Models of Neurological Language</title>
+    <updated>2025-06-06T16:14:28Z</updated>
+    <link href="https://arxiv.org/abs/2506.06208v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.06208v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This report documents the development and evaluation of domain-specific language models for neurology. Initially focused on building a bespoke model, the project adapted to rapid advances in open-source and commercial medical LLMs, shifting toward leveraging retrieval-augmented generation (RAG) and representational models for secure, local deployment. Key contributions include the creation of neurology-specific datasets (case reports, QA sets, textbook-derived data), tools for multi-word expression extraction, and graph-based analyses of medical terminology. The project also produced scripts and Docker containers for local hosting. Performance metrics and graph community results are reported, with future possible work open for multimodal models using open-source architectures like phi-4.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-06T16:14:28Z</published>
+    <arxiv:comment>21 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Henry Watkins</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2005.02214v1</id>
+    <title>Computational neurology: Computational modeling approaches in dementia</title>
+    <updated>2020-05-05T14:19:46Z</updated>
+    <link href="https://arxiv.org/abs/2005.02214v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2005.02214v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Dementia is a collection of symptoms associated with impaired cognition and impedes everyday normal functioning. Dementia, with Alzheimer's disease constituting its most common type, is highly complex in terms of etiology and pathophysiology. A more quantitative or computational attitude towards dementia research, or more generally in neurology, is becoming necessary - Computational Neurology. We provide a focused review of some computational approaches that have been developed and applied to the study of dementia, particularly Alzheimer's disease. Both mechanistic modeling and data-drive, including AI or machine learning, approaches are discussed. Linkage to clinical decision support systems for dementia diagnosis will also be discussed.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-05-05T14:19:46Z</published>
+    <arxiv:comment>Accepted manuscript as a book chapter in Systems Medicine: Integrative, Qualitative and Computational Approaches. Wolkenhauer, O. (ed.). Elsevier Inc</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>KongFatt Wong-Lin</name>
+    </author>
+    <author>
+      <name>Jose M. Sanchez-Bornot</name>
+    </author>
+    <author>
+      <name>Niamh McCombe</name>
+    </author>
+    <author>
+      <name>Daman Kaur</name>
+    </author>
+    <author>
+      <name>Paula L. McClean</name>
+    </author>
+    <author>
+      <name>Xin Zou</name>
+    </author>
+    <author>
+      <name>Vahab Youssofzadeh</name>
+    </author>
+    <author>
+      <name>Xuemei Ding</name>
+    </author>
+    <author>
+      <name>Magda Bucholc</name>
+    </author>
+    <author>
+      <name>Su Yang</name>
+    </author>
+    <author>
+      <name>Girijesh Prasad</name>
+    </author>
+    <author>
+      <name>Damien Coyle</name>
+    </author>
+    <author>
+      <name>Liam P. Maguire</name>
+    </author>
+    <author>
+      <name>Haiying Wang</name>
+    </author>
+    <author>
+      <name>Hui Wang</name>
+    </author>
+    <author>
+      <name>Nadim A. A. Atiya</name>
+    </author>
+    <author>
+      <name>Alok Joshi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2508.14063v1</id>
+    <title>A Multi-Agent Approach to Neurological Clinical Reasoning</title>
+    <updated>2025-08-10T14:52:27Z</updated>
+    <link href="https://arxiv.org/abs/2508.14063v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.14063v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) have shown promise in medical domains, but their ability to handle specialized neurological reasoning requires systematic evaluation. We developed a comprehensive benchmark using 305 questions from Israeli Board Certification Exams in Neurology, classified along three complexity dimensions: factual knowledge depth, clinical concept integration, and reasoning complexity. We evaluated ten LLMs using base models, retrieval-augmented generation (RAG), and a novel multi-agent system. Results showed significant performance variation. OpenAI-o1 achieved the highest base performance (90.9% accuracy), while specialized medical models performed poorly (52.9% for Meditron-70B). RAG provided modest benefits but limited effectiveness on complex reasoning questions. In contrast, our multi-agent framework, decomposing neurological reasoning into specialized cognitive functions including question analysis, knowledge retrieval, answer synthesis, and validation, achieved dramatic improvements, especially for mid-range models. The LLaMA 3.3-70B-based agentic system reached 89.2% accuracy versus 69.5% for its base model, with substantial gains on level 3 complexity questions. The multi-agent approach transformed inconsistent subspecialty performance into uniform excellence, addressing neurological reasoning challenges that persisted with RAG enhancement. We validated our approach using an independent dataset of 155 neurological cases from MedQA. Results confirm that structured multi-agent approaches designed to emulate specialized cognitive processes significantly enhance complex medical reasoning, offering promising directions for AI assistance in challenging clinical contexts.</summary>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-10T14:52:27Z</published>
+    <arxiv:primary_category term="cs.IR"/>
+    <author>
+      <name>Moran Sorka</name>
+    </author>
+    <author>
+      <name>Alon Gorenshtein</name>
+    </author>
+    <author>
+      <name>Dvir Aran</name>
+    </author>
+    <author>
+      <name>Shahar Shelly</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2407.13813v1</id>
+    <title>A review of handcrafted and deep radiomics in neurological diseases: transitioning from oncology to clinical neuroimaging</title>
+    <updated>2024-07-18T16:12:07Z</updated>
+    <link href="https://arxiv.org/abs/2407.13813v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.13813v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Medical imaging technologies have undergone extensive development, enabling non-invasive visualization of clinical information. The traditional review of medical images by clinicians remains subjective, time-consuming, and prone to human error. With the recent availability of medical imaging data, quantification have become important goals in the field. Radiomics, a methodology aimed at extracting quantitative information from imaging data, has emerged as a promising approach to uncover hidden biological information and support decision-making in clinical practice. This paper presents a review of the radiomic pipeline from the clinical neuroimaging perspective, providing a detailed overview of each step with practical advice. It discusses the application of handcrafted and deep radiomics in neuroimaging, stratified by neurological diagnosis. Although radiomics shows great potential for increasing diagnostic precision and improving treatment quality in neurology, several limitations hinder its clinical implementation. Addressing these challenges requires collaborative efforts, advancements in image harmonization methods, and the establishment of reproducible and standardized pipelines with transparent reporting. By overcoming these obstacles, radiomics can significantly impact clinical neurology and enhance patient care.</summary>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-07-18T16:12:07Z</published>
+    <arxiv:primary_category term="eess.IV"/>
+    <author>
+      <name>Elizaveta Lavrova</name>
+    </author>
+    <author>
+      <name>Henry C. Woodruff</name>
+    </author>
+    <author>
+      <name>Hamza Khan</name>
+    </author>
+    <author>
+      <name>Eric Salmon</name>
+    </author>
+    <author>
+      <name>Philippe Lambin</name>
+    </author>
+    <author>
+      <name>Christophe Phillips</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.04938v1</id>
+    <title>Toward Continuous Neurocognitive Monitoring: Integrating Speech AI with Relational Graph Transformers for Rare Neurological Diseases</title>
+    <updated>2025-12-04T16:06:50Z</updated>
+    <link href="https://arxiv.org/abs/2512.04938v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.04938v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Patients with rare neurological diseases report cognitive symptoms -"brain fog"- invisible to traditional tests. We propose continuous neurocognitive monitoring via smartphone speech analysis integrated with Relational Graph Transformer (RELGT) architectures. Proof-of-concept in phenylketonuria (PKU) shows speech-derived "Proficiency in Verbal Discourse" correlates with blood phenylalanine (p = -0.50, p &lt; 0.005) but not standard cognitive tests (all |r| &lt; 0.35). RELGT could overcome information bottlenecks in heterogeneous medical data (speech, labs, assessments), enabling predictive alerts weeks before decompensation. Key challenges: multi-disease validation, clinical workflow integration, equitable multilingual deployment. Success would transform episodic neurology into continuous personalized monitoring for millions globally.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-04T16:06:50Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Raquel Norel</name>
+    </author>
+    <author>
+      <name>Michele Merler</name>
+    </author>
+    <author>
+      <name>Pavitra Modi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2106.05388v1</id>
+    <title>Neurological Consequences of COVID-19 Infection</title>
+    <updated>2021-06-09T21:02:12Z</updated>
+    <link href="https://arxiv.org/abs/2106.05388v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2106.05388v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>COVID-19 infections have well described systemic manifestations, especially respiratory problems. There are currently no specific treatments or vaccines against the current strain. With higher case numbers, a range of neurological symptoms are becoming apparent. The mechanisms responsible for these are not well defined, other than those related to hypoxia and microthrombi. We speculate that sustained systemic immune activation seen with SARS-CoV-2 may also cause secondary autoimmune activation in the CNS. Patients with chronic neurological diseases may be at higher risk because of chronic secondary respiratory disease and potentially poor nutritional status. Here, we review the impact of COVID-19 on people with chronic neurological diseases and potential mechanisms. We believe special attention to protecting people with neurodegenerative disease is warranted. We are concerned about a possible delayed pandemic in the form of an increased burden of neurodegenerative disease after acceleration of pathology by systemic COVID-19 infections.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.MN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-06-09T21:02:12Z</published>
+    <arxiv:comment>19 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>Jiabin Tang</name>
+    </author>
+    <author>
+      <name>Shivani Patel</name>
+    </author>
+    <author>
+      <name>Steve Gentleman</name>
+    </author>
+    <author>
+      <name>Paul Matthews</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2305.06416v1</id>
+    <title>A Method to Automate the Discharge Summary Hospital Course for Neurology Patients</title>
+    <updated>2023-05-10T18:53:51Z</updated>
+    <link href="https://arxiv.org/abs/2305.06416v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2305.06416v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Generation of automated clinical notes have been posited as a strategy to mitigate physician burnout. In particular, an automated narrative summary of a patient's hospital stay could supplement the hospital course section of the discharge summary that inpatient physicians document in electronic health record (EHR) systems. In the current study, we developed and evaluated an automated method for summarizing the hospital course section using encoder-decoder sequence-to-sequence transformer models. We fine tuned BERT and BART models and optimized for factuality through constraining beam search, which we trained and tested using EHR data from patients admitted to the neurology unit of an academic medical center. The approach demonstrated good ROUGE scores with an R-2 of 13.76. In a blind evaluation, two board-certified physicians rated 62% of the automated summaries as meeting the standard of care, which suggests the method may be useful clinically. To our knowledge, this study is among the first to demonstrate an automated method for generating a discharge summary hospital course that approaches a quality level of what a physician would write.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-05-10T18:53:51Z</published>
+    <arxiv:comment>10 pages, 2 figures, 6 tables, submitted to the Journal of the American Medical Informatics Association</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Vince C. Hartman</name>
+    </author>
+    <author>
+      <name>Sanika S. Bapat</name>
+    </author>
+    <author>
+      <name>Mark G. Weiner</name>
+    </author>
+    <author>
+      <name>Babak B. Navi</name>
+    </author>
+    <author>
+      <name>Evan T. Sholle</name>
+    </author>
+    <author>
+      <name>Thomas R. Campion,</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2107.12006v1</id>
+    <title>Thermodynamics and SARS-CoV-2: neurological effects in post-Covid 19 syndrome</title>
+    <updated>2021-07-26T07:49:15Z</updated>
+    <link href="https://arxiv.org/abs/2107.12006v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2107.12006v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>There is increasing evidence that infection with SARS-CoV-2 can cause a spectrum of neurological symptoms. In this paper, we develop a theoretical concept underlying such neurological COVID-19 consequences by employing a non-equilibrium thermodynamic approach that allows linking the neuronal electric potential with a virus-induced pH variation. Our theoretical findings support further experimental work on therapeutically correcting electrolyte imbalances, such as Na$^+$ and K$^+$, to attenuate the neurological effects of SARS-CoV-2.</summary>
+    <category term="physics.med-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-07-26T07:49:15Z</published>
+    <arxiv:primary_category term="physics.med-ph"/>
+    <arxiv:journal_ref>Atti dell'Accademia Peloritana dei Pericolanti 99, A3 (2021)</arxiv:journal_ref>
+    <author>
+      <name>Umberto Lucia</name>
+    </author>
+    <author>
+      <name>Giulia Grisolia</name>
+    </author>
+    <author>
+      <name>Thomas S. Deisboeck</name>
+    </author>
+    <arxiv:doi>10.1478/AAPP.992A3</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1478/AAPP.992A3" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.08281v3</id>
+    <title>NEUROLOGIC: From Neural Representations to Interpretable Logic Rules</title>
+    <updated>2025-10-15T15:46:29Z</updated>
+    <link href="https://arxiv.org/abs/2501.08281v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.08281v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Rule-based explanation methods offer rigorous and globally interpretable insights into neural network behavior. However, existing approaches are mostly limited to small fully connected networks and depend on costly layerwise rule extraction and substitution processes. These limitations hinder their generalization to more complex architectures such as Transformers. Moreover, existing methods produce shallow, decision-tree-like rules that fail to capture rich, high-level abstractions in complex domains like computer vision and natural language processing. To address these challenges, we propose NEUROLOGIC, a novel framework that extracts interpretable logical rules directly from deep neural networks. Unlike previous methods, NEUROLOGIC can construct logic rules over hidden predicates derived from neural representations at any chosen layer, in contrast to costly layerwise extraction and rewriting. This flexibility enables broader architectural compatibility and improved scalability. Furthermore, NEUROLOGIC supports richer logical constructs and can incorporate human prior knowledge to ground hidden predicates back to the input space, enhancing interpretability. We validate NEUROLOGIC on Transformer-based sentiment analysis, demonstrating its ability to extract meaningful, interpretable logic rules and provide deeper insights-tasks where existing methods struggle to scale.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-14T17:57:26Z</published>
+    <arxiv:comment>16 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Chuqin Geng</name>
+    </author>
+    <author>
+      <name>Anqi Xing</name>
+    </author>
+    <author>
+      <name>Li Zhang</name>
+    </author>
+    <author>
+      <name>Ziyu Zhao</name>
+    </author>
+    <author>
+      <name>Yuhe Jiang</name>
+    </author>
+    <author>
+      <name>Xujie Si</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2204.12440v2</id>
+    <title>Neuro-BERT: Rethinking Masked Autoencoding for Self-supervised Neurological Pretraining</title>
+    <updated>2024-07-03T22:27:37Z</updated>
+    <link href="https://arxiv.org/abs/2204.12440v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2204.12440v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deep learning associated with neurological signals is poised to drive major advancements in diverse fields such as medical diagnostics, neurorehabilitation, and brain-computer interfaces. The challenge in harnessing the full potential of these signals lies in the dependency on extensive, high-quality annotated data, which is often scarce and expensive to acquire, requiring specialized infrastructure and domain expertise. To address the appetite for data in deep learning, we present Neuro-BERT, a self-supervised pre-training framework of neurological signals based on masked autoencoding in the Fourier domain. The intuition behind our approach is simple: frequency and phase distribution of neurological signals can reveal intricate neurological activities. We propose a novel pre-training task dubbed Fourier Inversion Prediction (FIP), which randomly masks out a portion of the input signal and then predicts the missing information using the Fourier inversion theorem. Pre-trained models can be potentially used for various downstream tasks such as sleep stage classification and gesture recognition. Unlike contrastive-based methods, which strongly rely on carefully hand-crafted augmentations and siamese structure, our approach works reasonably well with a simple transformer encoder with no augmentation requirements. By evaluating our method on several benchmark datasets, we show that Neuro-BERT improves downstream neurological-related tasks by a large margin.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-04-20T16:48:18Z</published>
+    <arxiv:comment>IEEE Journal of Biomedical and Health Informatics 2024 (camera ready)</arxiv:comment>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Di Wu</name>
+    </author>
+    <author>
+      <name>Siyuan Li</name>
+    </author>
+    <author>
+      <name>Jie Yang</name>
+    </author>
+    <author>
+      <name>Mohamad Sawan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2205.07209v1</id>
+    <title>Towards a Comprehensive Solution for a Vision-based Digitized Neurological Examination</title>
+    <updated>2022-05-15T07:51:16Z</updated>
+    <link href="https://arxiv.org/abs/2205.07209v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2205.07209v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The ability to use digitally recorded and quantified neurological exam information is important to help healthcare systems deliver better care, in-person and via telehealth, as they compensate for a growing shortage of neurologists. Current neurological digital biomarker pipelines, however, are narrowed down to a specific neurological exam component or applied for assessing specific conditions. In this paper, we propose an accessible vision-based exam and documentation solution called Digitized Neurological Examination (DNE) to expand exam biomarker recording options and clinical applications using a smartphone/tablet. Through our DNE software, healthcare providers in clinical settings and people at home are enabled to video capture an examination while performing instructed neurological tests, including finger tapping, finger to finger, forearm roll, and stand-up and walk. Our modular design of the DNE software supports integrations of additional tests. The DNE extracts from the recorded examinations the 2D/3D human-body pose and quantifies kinematic and spatio-temporal features. The features are clinically relevant and allow clinicians to document and observe the quantified movements and the changes of these metrics over time. A web server and a user interface for recordings viewing and feature visualizations are available. DNE was evaluated on a collected dataset of 21 subjects containing normal and simulated-impaired movements. The overall accuracy of DNE is demonstrated by classifying the recorded movements using various machine learning models. Our tests show an accuracy beyond 90% for upper-limb tests and 80% for the stand-up and walk tests.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-05-15T07:51:16Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Trung-Hieu Hoang</name>
+    </author>
+    <author>
+      <name>Mona Zehni</name>
+    </author>
+    <author>
+      <name>Huaijin Xu</name>
+    </author>
+    <author>
+      <name>George Heintz</name>
+    </author>
+    <author>
+      <name>Christopher Zallek</name>
+    </author>
+    <author>
+      <name>Minh N. Do</name>
+    </author>
+    <arxiv:doi>10.1109/JBHI.2022.3167927</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/JBHI.2022.3167927" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2008.06861v1</id>
+    <title>Detection of Gait Abnormalities caused by Neurological Disorders</title>
+    <updated>2020-08-16T09:00:36Z</updated>
+    <link href="https://arxiv.org/abs/2008.06861v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2008.06861v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this paper, we leverage gait to potentially detect some of the important neurological disorders, namely Parkinson's disease, Diplegia, Hemiplegia, and Huntington's Chorea. Persons with these neurological disorders often have a very abnormal gait, which motivates us to target gait for their potential detection. Some of the abnormalities involve the circumduction of legs, forward-bending, involuntary movements, etc. To detect such abnormalities in gait, we develop gait features from the key-points of the human pose, namely shoulders, elbows, hips, knees, ankles, etc. To evaluate the effectiveness of our gait features in detecting the abnormalities related to these diseases, we build a synthetic video dataset of persons mimicking the gait of persons with such disorders, considering the difficulty in finding a sufficient number of people with these disorders. We name it \textit{NeuroSynGait} video dataset. Experiments demonstrated that our gait features were indeed successful in detecting these abnormalities.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.IV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-08-16T09:00:36Z</published>
+    <arxiv:comment>6 pages, 5 figures, Accepted by IEEE Workshop on Multimedia Signal Processing (MMSP), 2020</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Daksh Goyal</name>
+    </author>
+    <author>
+      <name>Koteswar Rao Jerripothula</name>
+    </author>
+    <author>
+      <name>Ankush Mittal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2207.04264v2</id>
+    <title>Microwave Chirality Imaging for the Early Diagnosis of Neurological Degenerative Diseases</title>
+    <updated>2022-07-17T18:05:26Z</updated>
+    <link href="https://arxiv.org/abs/2207.04264v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2207.04264v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose a system to visualize the chirality of the protein in brains, which would be helpful to diagnose early neurological degenerative diseases in vivo. These neurological degenerative diseases often occur along with some mark proteins. By nanoparticle instilling and metamaterial technique, the chiral effect of the mark proteins is assumed to be manifest in microwave regime. Therefore, by detecting the transmission of cross-polarization, we could detect the chirality that rotates the microwave polarization angle. We developed a numerical method to simulate the electromagnetic response upon chiral (bi-isotropic) material. Then a numerical experiment was conduct with a numerical head phantom. A map of cross-polarized transmission magnitude can be reached by sweeping the antenna pair. The imaging results matches well with the distribution of chiral materials. It suggests that the proposed method would be capable of in vivo imaging of neurological degenerative disease using microwaves.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-07-09T13:17:04Z</published>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Wending Mai</name>
+    </author>
+    <author>
+      <name>Yifan Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1402.0698v1</id>
+    <title>User Friendly Implementation for Efficiently Conducting Hammersmith Infant Neurological Examination</title>
+    <updated>2014-02-04T11:36:43Z</updated>
+    <link href="https://arxiv.org/abs/1402.0698v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1402.0698v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The aim of this work is to design a semi-automatic application that can be used as an aid by the doctors for smoothly conducting Hammersmith Infant Neurological Examination (IDNE). A simplified version of the examination which provides a quantitative neurological assessment is used to design the application. The application includes a methodology of conducting IDNE examination suited to inexperienced staff, applicable to both neonatal and post-neonatal infants. It also provides a facility to go through the previous records of a patient that can help in diagnosing patients with high risk of neurological disorder. A semi-automatic approach is proposed for skeleton generation. The application has been installed in hospitals and currently in operation. It is expected to increase the efficiency of conducting HINE using the proposed application.</summary>
+    <category term="cs.CY" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-02-04T11:36:43Z</published>
+    <arxiv:primary_category term="cs.CY"/>
+    <arxiv:journal_ref>IEEE Proceedings of the 12th International Conference on E-Health Networking, Application and Services (Healthcom), Lyon, France, pp.374-378, 2010</arxiv:journal_ref>
+    <author>
+      <name>D. P. Dogra</name>
+    </author>
+    <author>
+      <name>K. Nandam</name>
+    </author>
+    <author>
+      <name>A. K. Majumdar</name>
+    </author>
+    <author>
+      <name>S. Suralt</name>
+    </author>
+    <author>
+      <name>J. Mukhopadhyay</name>
+    </author>
+    <author>
+      <name>B. Majumdar</name>
+    </author>
+    <author>
+      <name>A. Singh</name>
+    </author>
+    <author>
+      <name>S. Mukherjee</name>
+    </author>
+    <arxiv:doi>10.1109/HEALTH.2010.5556541</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/HEALTH.2010.5556541" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2502.17213v2</id>
+    <title>Deep Learning-Powered Electrical Brain Signals Analysis: Advancing Neurological Diagnostics</title>
+    <updated>2025-10-23T06:25:03Z</updated>
+    <link href="https://arxiv.org/abs/2502.17213v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2502.17213v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neurological disorders pose major global health challenges, driving advances in brain signal analysis. Scalp electroencephalography (EEG) and intracranial EEG (iEEG) are widely used for diagnosis and monitoring. However, dataset heterogeneity and task variations hinder the development of robust deep learning solutions. This review systematically examines recent advances in deep learning approaches for EEG/iEEG-based neurological diagnostics, focusing on applications across 7 neurological conditions using 46 datasets. For each condition, we review representative methods and their quantitative results, integrating performance comparisons with analyses of data usage, model design, and task-specific adaptations, while highlighting the role of pre-trained multi-task models in achieving scalable, generalizable solutions. Finally, we propose a standardized benchmark to evaluate models across diverse datasets and improve reproducibility, emphasizing how recent innovations are transforming neurological diagnostics toward intelligent, adaptable healthcare systems.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-02-24T14:45:05Z</published>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>Jiahe Li</name>
+    </author>
+    <author>
+      <name>Xin Chen</name>
+    </author>
+    <author>
+      <name>Fanqi Shen</name>
+    </author>
+    <author>
+      <name>Junru Chen</name>
+    </author>
+    <author>
+      <name>Yuxin Liu</name>
+    </author>
+    <author>
+      <name>Daoze Zhang</name>
+    </author>
+    <author>
+      <name>Zhizhang Yuan</name>
+    </author>
+    <author>
+      <name>Fang Zhao</name>
+    </author>
+    <author>
+      <name>Meng Li</name>
+    </author>
+    <author>
+      <name>Yang Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2504.16096v2</id>
+    <title>BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification</title>
+    <updated>2025-05-19T10:33:18Z</updated>
+    <link href="https://arxiv.org/abs/2504.16096v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2504.16096v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neurological conditions, such as Alzheimer's Disease, are challenging to diagnose, particularly in the early stages where symptoms closely resemble healthy controls. Existing brain network analysis methods primarily focus on graph-based models that rely solely on imaging data, which may overlook important non-imaging factors and limit the model's predictive power and interpretability. In this paper, we present BrainPrompt, an innovative framework that enhances Graph Neural Networks (GNNs) by integrating Large Language Models (LLMs) with knowledge-driven prompts, enabling more effective capture of complex, non-imaging information and external knowledge for neurological disease identification. BrainPrompt integrates three types of knowledge-driven prompts: (1) ROI-level prompts to encode the identity and function of each brain region, (2) subject-level prompts that incorporate demographic information, and (3) disease-level prompts to capture the temporal progression of disease. By leveraging these multi-level prompts, BrainPrompt effectively harnesses knowledge-enhanced multi-modal information from LLMs, enhancing the model's capability to predict neurological disease stages and meanwhile offers more interpretable results. We evaluate BrainPrompt on two resting-state functional Magnetic Resonance Imaging (fMRI) datasets from neurological disorders, showing its superiority over state-of-the-art methods. Additionally, a biomarker study demonstrates the framework's ability to extract valuable and interpretable information aligned with domain knowledge in neuroscience. The code is available at https://github.com/AngusMonroe/BrainPrompt</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-04-12T06:45:16Z</published>
+    <arxiv:comment>Early accepted by MICCAI 2025</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>Jiaxing Xu</name>
+    </author>
+    <author>
+      <name>Kai He</name>
+    </author>
+    <author>
+      <name>Yue Tang</name>
+    </author>
+    <author>
+      <name>Wei Li</name>
+    </author>
+    <author>
+      <name>Mengcheng Lan</name>
+    </author>
+    <author>
+      <name>Xia Dong</name>
+    </author>
+    <author>
+      <name>Yiping Ke</name>
+    </author>
+    <author>
+      <name>Mengling Feng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2309.09993v1</id>
+    <title>Long-term Neurological Sequelae in Post-COVID-19 Patients: A Machine Learning Approach to Predict Outcomes</title>
+    <updated>2023-09-15T21:36:43Z</updated>
+    <link href="https://arxiv.org/abs/2309.09993v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2309.09993v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The COVID-19 pandemic has brought to light a concerning aspect of long-term neurological complications in post-recovery patients. This study delved into the investigation of such neurological sequelae in a cohort of 500 post-COVID-19 patients, encompassing individuals with varying illness severity. The primary aim was to predict outcomes using a machine learning approach based on diverse clinical data and neuroimaging parameters. The results revealed that 68% of the post-COVID-19 patients reported experiencing neurological symptoms, with fatigue, headache, and anosmia being the most common manifestations. Moreover, 22% of the patients exhibited more severe neurological complications, including encephalopathy and stroke. The application of machine learning models showed promising results in predicting long-term neurological outcomes. Notably, the Random Forest model achieved an accuracy of 85%, sensitivity of 80%, and specificity of 90% in identifying patients at risk of developing neurological sequelae. These findings underscore the importance of continuous monitoring and follow-up care for post-COVID-19 patients, particularly in relation to potential neurological complications. The integration of machine learning-based outcome prediction offers a valuable tool for early intervention and personalized treatment strategies, aiming to improve patient care and clinical decision-making. In conclusion, this study sheds light on the prevalence of long-term neurological complications in post-COVID-19 patients and demonstrates the potential of machine learning in predicting outcomes, thereby contributing to enhanced patient management and better health outcomes. Further research and larger studies are warranted to validate and refine these predictive models and to gain deeper insights into the underlying mechanisms of post-COVID-19 neurological sequelae.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.BM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-09-15T21:36:43Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Hayder A. Albaqer</name>
+    </author>
+    <author>
+      <name>Kadhum J. Al-Jibouri</name>
+    </author>
+    <author>
+      <name>John Martin</name>
+    </author>
+    <author>
+      <name>Fadhil G. Al-Amran</name>
+    </author>
+    <author>
+      <name>Salman Rawaf</name>
+    </author>
+    <author>
+      <name>Maitham G. Yousif</name>
+    </author>
+  </entry>
+</feed>

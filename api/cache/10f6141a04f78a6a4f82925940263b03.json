@@ -1,0 +1,1381 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GwO4RV7OCAwC",
+      "etag": "0zoMU7IbxBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GwO4RV7OCAwC",
+      "volumeInfo": {
+        "title": "Stoicism",
+        "authors": [
+          "William Wolfe Capes"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "RUTGERS:39030014708137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Stoics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GwO4RV7OCAwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GwO4RV7OCAwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=GwO4RV7OCAwC&pg=PA3&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GwO4RV7OCAwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GwO4RV7OCAwC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=GwO4RV7OCAwC&rdid=book-GwO4RV7OCAwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoicism.epub?id=GwO4RV7OCAwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GwO4RV7OCAwC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eSTOICISM\u003c/b\u003e AND ITS RELATION TO THE SPIRIT OF THE AGE 22 IV . \u003cb\u003eSTOICISM\u003c/b\u003e IN THE RIGOUR OF ITS ESSENTIAL PRINCIPLES ... 37 V. \u003cb\u003eSTOICISM\u003c/b\u003e TEMPERED BY CONCESSIONS Tо Сом- MON SENSE ... 54 VI . \u003cb\u003eSTOICISM\u003c/b\u003e AT ROME UNDER THE REPUBLIC 64 VII . THE&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nv_UmKsn52UC",
+      "etag": "Jv/MgS0NEhE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nv_UmKsn52UC",
+      "volumeInfo": {
+        "title": "Roman Stoicism; Being Lectures on the History of the Stoic Philosophy",
+        "authors": [
+          "Edward Vernon Arnold"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015026485550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "categories": [
+          "Stoics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nv_UmKsn52UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nv_UmKsn52UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=nv_UmKsn52UC&pg=PA288&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nv_UmKsn52UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nv_UmKsn52UC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nv_UmKsn52UC&rdid=book-nv_UmKsn52UC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Roman_Stoicism_Being_Lectures_on_the_His.epub?id=nv_UmKsn52UC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nv_UmKsn52UC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... gradually realised . Its deeper implications unfolded themselves through life even more than through thought , and find their fullest exposition in the pages of the Roman \u003cb\u003eStoics\u003c/b\u003e . &#39; Worth and 108 Stob . ii 7,5 а . 109 288 ROMAN \u003cb\u003eSTOICISM\u003c/b\u003e."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lou782YboOMC",
+      "etag": "eacu1VNRiZc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lou782YboOMC",
+      "volumeInfo": {
+        "title": "The Christianity of Stoicism: or, Selections from Arrian's Discourses of Epictetus. Tr. by mrs. [E.] Carter, with her notes. [Ed.] by the bp. of St. David's",
+        "authors": [
+          "Thomas Burgess (bp. of Salisbury)"
+        ],
+        "publishedDate": "1822",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:601901511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lou782YboOMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lou782YboOMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=lou782YboOMC&pg=PR27&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lou782YboOMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lou782YboOMC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lou782YboOMC&rdid=book-lou782YboOMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Christianity_of_Stoicism_or_Selectio.epub?id=lou782YboOMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lou782YboOMC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoic\u003c/b\u003e ANTISTHENES , Cynic Antoninus , \u003cb\u003eStoic\u003c/b\u003e Apollonius , Megaric Apuleius , Academic Arcesilaus , Academic Archedemus , \u003cb\u003eStoic\u003c/b\u003e Archelaus , Ionic Archytas , Italic Athenæus , Peripatetic Athenodorus , \u003cb\u003eStoic\u003c/b\u003e ARISTIPPUS , Cyrenaic Aristo&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rts7AAAAMAAJ",
+      "etag": "HQWZDgn0YX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rts7AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Stoicism and Cynicism as Found in Lucilius",
+        "authors": [
+          "Marguerite Ruth Pohle"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89089883045"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rts7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rts7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=rts7AAAAMAAJ&pg=PA58&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rts7AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rts7AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=rts7AAAAMAAJ&rdid=book-rts7AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoicism_and_Cynicism_as_Found_in_Lucili.epub?id=rts7AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoicism_and_Cynicism_as_Found_in_Lucili.pdf?id=rts7AAAAMAAJ&hl=&output=pdf&sig=ACfU3U2-mgmye9WVyP4oKt6Kjj5sVeliEA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rts7AAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoic\u003c/b\u003e , he gives a list of rules dealing with the subject of grammar . Under dialectic he follows the \u003cb\u003eStoic\u003c/b\u003e theory of style , whose virtues were : ( 1 ) pure and un- perverted speech , ( 2 ) clearness , ( 7 ) precision , ( 4 )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ofw0AAAAMAAJ",
+      "etag": "DjZ7ny6lvi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ofw0AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Stoicism in Persius and Juvenal",
+        "authors": [
+          "Alice Ethel Hughes"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89086031358"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ofw0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ofw0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=Ofw0AAAAMAAJ&pg=PA7&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ofw0AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ofw0AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ofw0AAAAMAAJ&rdid=book-Ofw0AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoicism_in_Persius_and_Juvenal.epub?id=Ofw0AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoicism_in_Persius_and_Juvenal.pdf?id=Ofw0AAAAMAAJ&hl=&output=pdf&sig=ACfU3U1w2R990SlZsrAvHBOhbB3fu7M6PQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ofw0AAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoics\u003c/b\u003e believed in Providence , that is , that the univorce is under the watchful care of God . Panaetius wrote a book , &quot; on providence &quot; , and Arnold offers evidence that one of the principal doctrines of \u003cb\u003eStoicism\u003c/b\u003e was that the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8nMYAAAAIAAJ",
+      "etag": "8HbfxfJj+rQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8nMYAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Stoics and Saints",
+        "subtitle": "Lectures on the Later Heathen Moralists, and on Some Aspects of the Life of the Mediæval Church",
+        "authors": [
+          "James Baldwin Brown"
+        ],
+        "publisher": "New York : Macmillan",
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3928193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Christian saints"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8nMYAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8nMYAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=8nMYAAAAIAAJ&pg=PA36&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8nMYAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8nMYAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=8nMYAAAAIAAJ&rdid=book-8nMYAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoics_and_Saints.epub?id=8nMYAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Stoics_and_Saints.pdf?id=8nMYAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3BWD6DeQ9yqD2yqwfy2RaYpzXIYA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8nMYAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoic\u003c/b\u003e professor of his time , was the friend and companion of Scipio , and did much to com- mend \u003cb\u003eStoicism\u003c/b\u003e to the more thoughtful of the ruling class in the city . But it must be noted that in Rome \u003cb\u003eStoicism\u003c/b\u003e somewhat modified its form and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C-0MAAAAIAAJ",
+      "etag": "P9COCA82e6I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C-0MAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Congress of Arts and Science: History of language. History of literature. History of art",
+        "authors": [
+          "Howard Jason Rogers"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015005661825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 706,
+        "printType": "BOOK",
+        "categories": [
+          "Art and science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C-0MAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C-0MAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=C-0MAAAAIAAJ&pg=PA183&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C-0MAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C-0MAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=C-0MAAAAIAAJ&rdid=book-C-0MAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Congress_of_Arts_and_Science_History_of.epub?id=C-0MAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Congress_of_Arts_and_Science_History_of.pdf?id=C-0MAAAAIAAJ&hl=&output=pdf&sig=ACfU3U02J1y9ybXnKe4VBJA7Lv-YlkneRA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C-0MAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoic\u003c/b\u003e opposition . &quot; This vogue of \u003cb\u003eStoicism\u003c/b\u003e goes , indeed , so far as to suggest a doubt as to whether the \u003cb\u003eStoicism\u003c/b\u003e of Rome was not merely an expression of the Roman character itself . And no doubt the Romans were \u003cb\u003eStoics\u003c/b\u003e by nature as&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PXU_AQAAMAAJ",
+      "etag": "e2nnA+qUDQA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PXU_AQAAMAAJ",
+      "volumeInfo": {
+        "title": "History of European Morals from Augustus to Charlemagne",
+        "authors": [
+          "William Edward Hartpole Lecky"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435021982939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "EUROPE"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PXU_AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PXU_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=PXU_AQAAMAAJ&pg=PA402&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PXU_AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PXU_AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=PXU_AQAAMAAJ&rdid=book-PXU_AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/History_of_European_Morals_from_Augustus.epub?id=PXU_AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PXU_AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoicism\u003c/b\u003e and Roman luxury , 225 , 226. The Stoical philosophy quite capable of representing the cosmopolitan spirit , 239 , 240 . \u003cb\u003eStoicism\u003c/b\u003e not capable of represent- ing the softening movement of civilisation , 241. Influence of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0xJ4lf9tIxUC",
+      "etag": "IXhHu2f2CLQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0xJ4lf9tIxUC",
+      "volumeInfo": {
+        "title": "History of European Morals from Augustus to Charlemagne",
+        "authors": [
+          "Lecky"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UBBS:UBBS-00043595"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0xJ4lf9tIxUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0xJ4lf9tIxUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=0xJ4lf9tIxUC&pg=PA402&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0xJ4lf9tIxUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0xJ4lf9tIxUC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0xJ4lf9tIxUC&rdid=book-0xJ4lf9tIxUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/History_of_European_Morals_from_Augustus.epub?id=0xJ4lf9tIxUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0xJ4lf9tIxUC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoicism\u003c/b\u003e and Roman luxury , 225 , 226. The Stoical philosophy quite capable of representing the cosmopolitan spirit , 239 , 240 . \u003cb\u003eStoicism\u003c/b\u003e not capable of represent- ing the softening movement of civilisation , 241. Influence of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LBkmckJfm50C",
+      "etag": "fe2LB2kngyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LBkmckJfm50C",
+      "volumeInfo": {
+        "title": "Congress of Arts and Science",
+        "subtitle": "Universal Exposition, St. Louis, 1904",
+        "authors": [
+          "Howard Jason Rogers"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89090742321"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 706,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LBkmckJfm50C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LBkmckJfm50C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=LBkmckJfm50C&pg=PA183&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LBkmckJfm50C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LBkmckJfm50C"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LBkmckJfm50C&rdid=book-LBkmckJfm50C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Congress_of_Arts_and_Science.epub?id=LBkmckJfm50C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LBkmckJfm50C&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoic\u003c/b\u003e opposition . &quot; This vogue of \u003cb\u003eStoicism\u003c/b\u003e goes , indeed , so far as to suggest a doubt as to whether the \u003cb\u003eStoicism\u003c/b\u003e of Rome was not merely an expression of the Roman character itself . And no doubt the Romans were \u003cb\u003eStoics\u003c/b\u003e by nature as&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1R8S_PIr26oC",
+      "etag": "liBUfXKa1Qw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1R8S_PIr26oC",
+      "volumeInfo": {
+        "title": "An epitome of the history of Philosophy ... Translated from the French, with additions, and a continuation ... by C. S. H.",
+        "authors": [
+          "Caleb Sprague HENRY"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0025183378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1R8S_PIr26oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1R8S_PIr26oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=1R8S_PIr26oC&pg=PA153&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1R8S_PIr26oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1R8S_PIr26oC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1R8S_PIr26oC&rdid=book-1R8S_PIr26oC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/An_epitome_of_the_history_of_Philosophy.epub?id=1R8S_PIr26oC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1R8S_PIr26oC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Caleb Sprague HENRY. IV . CONTINUATION OF THE \u003cb\u003eSTOIC\u003c/b\u003e SCHOOL . \u003cb\u003eSTOICISM\u003c/b\u003e , as we have seen , contained two parts , the one scientific , the other moral , and incompatible with each other in certain fundamental points . This incompatibility&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KL1CAAAAIAAJ",
+      "etag": "nFvMrk/xueQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KL1CAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Stoic Creed",
+        "authors": [
+          "William Leslie Davidson"
+        ],
+        "publishedDate": "1907",
+        "description": "The Stoic Creed by William Leslie Davidson, first published in 1907, is a rare manuscript, the original residing in one of the great libraries of the world. This book is a reproduction of that original, which has been scanned and cleaned by state-of-the-art publishing tools for better readability and enhanced appreciation. Restoration Editors' mission is to bring long out of print manuscripts back to life. Some smudges, annotations or unclear text may still exist, due to permanent damage to the original work. We believe the literary significance of the text justifies offering this reproduction, allowing a new generation to appreciate it.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B45187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KL1CAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KL1CAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=KL1CAAAAIAAJ&pg=PA273&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KL1CAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KL1CAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KL1CAAAAIAAJ&rdid=book-KL1CAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Stoic_Creed.epub?id=KL1CAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Stoic_Creed.pdf?id=KL1CAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3nwCpu4WhbLJ4Lb053cCd2lNYRCg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KL1CAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoics\u003c/b\u003e , 25 , 211 , 218 . Tennyson , quoted , 112 . Tension ( τόνος ) , 68 , 88 , 148 . Tertullian , 94 n . , 95 n . Thales , 2 ; his first principle , 3 . Theism , tendency towards , in later \u003cb\u003eStoicism\u003c/b\u003e , 59 , 214 . Theology , \u003cb\u003eStoic\u003c/b\u003e , 84&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pFSgbYhtCPwC",
+      "etag": "xaP9jyQxd9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pFSgbYhtCPwC",
+      "volumeInfo": {
+        "title": "International University Lectures: History. Language",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108024994124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pFSgbYhtCPwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pFSgbYhtCPwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=pFSgbYhtCPwC&pg=PA293&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pFSgbYhtCPwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pFSgbYhtCPwC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=pFSgbYhtCPwC&rdid=book-pFSgbYhtCPwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/International_University_Lectures_Histor.epub?id=pFSgbYhtCPwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pFSgbYhtCPwC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoics\u003c/b\u003e - Lucilius , Lælius Furius Philus , Scævola , and the rest ; so too , perhaps , even Cato the Censor , in his old age . Terence talks \u003cb\u003eStoicism\u003c/b\u003e in the line : Homo sum : humani nil a me alienum puto ( Heaut . 77 ) . Varro was half a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kvEeAQAAMAAJ",
+      "etag": "l8/mpst6rSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kvEeAQAAMAAJ",
+      "volumeInfo": {
+        "title": "History of European Morals",
+        "subtitle": "From Augustus to Charlemagne",
+        "authors": [
+          "William Edward Hartpole Lecky"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556032608952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Ethics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kvEeAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kvEeAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=kvEeAQAAMAAJ&pg=PA402&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kvEeAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kvEeAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=kvEeAQAAMAAJ&rdid=book-kvEeAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/History_of_European_Morals.epub?id=kvEeAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/History_of_European_Morals.pdf?id=kvEeAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0nF6bM_ZjXpmuHvjSmRPCVZRPB9Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kvEeAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoicism\u003c/b\u003e and Roman luxury , 225 , 226. The Stoical philosophy quite capable of representing the cosmopolitan spirit , 239 , 240 . \u003cb\u003eStoicism\u003c/b\u003e not capable of represent- ing the softening movement of civilisation , 241. Influence of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rlMuAAAAYAAJ",
+      "etag": "8PVAsF1NWRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rlMuAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Mutual Influence of Christianity and the Stoic School",
+        "authors": [
+          "James Henry Bryant"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101068980711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Christianity and other religions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rlMuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rlMuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=rlMuAAAAYAAJ&pg=PA75&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rlMuAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rlMuAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=rlMuAAAAYAAJ&rdid=book-rlMuAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Mutual_Influence_of_Christianity_and.epub?id=rlMuAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Mutual_Influence_of_Christianity_and.pdf?id=rlMuAAAAYAAJ&hl=&output=pdf&sig=ACfU3U38L6G32q6_exBSyRKK2mBuv0HtIw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rlMuAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "James Henry Bryant. THE INFLUENCE OF \u003cb\u003eSTOICISM\u003c/b\u003e , &amp; c . 75 speculative philosophy , drawing men to the cultivation of the moral sense instead of indulging in wild dreams , there was much for the Christian to admire ... \u003cb\u003eSTOICISM\u003c/b\u003e, &amp;c. ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wy8OAAAAYAAJ",
+      "etag": "znx7o88hAl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wy8OAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Evolution of Theology in the Greek Philosophers",
+        "authors": [
+          "Edward Caird"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433022669711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy, Ancient"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wy8OAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wy8OAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=Wy8OAAAAYAAJ&pg=PR6&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wy8OAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wy8OAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Wy8OAAAAYAAJ&rdid=book-Wy8OAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Evolution_of_Theology_in_the_Greek_P.epub?id=Wy8OAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Evolution_of_Theology_in_the_Greek_P.pdf?id=Wy8OAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1FroLZTPWQs6uerXYfYyWhhfXgrw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wy8OAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eSTOIC\u003c/b\u003e CONCEPTION OF THE CHIEF GOOD. LECTURE SIXTEENΤΗ . THE ORIGIN AND PRINCIPLE OF THE \u003cb\u003eSTOIC\u003c/b\u003e PHILOSOPHY . Relations of \u003cb\u003eStoicism\u003c/b\u003e to the Cynic Philosophy - Antisthenes and his Relation to Socrates - His Individualism - His Doctrine of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NBYvAAAAMAAJ",
+      "etag": "O/Wav4y2IpI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NBYvAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Books that Count",
+        "subtitle": "A Dictionary of Standard Books",
+        "authors": [
+          "William Forbes Gray"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015033640312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "categories": [
+          "Best books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NBYvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NBYvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=NBYvAAAAMAAJ&pg=PA395&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NBYvAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NBYvAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NBYvAAAAMAAJ&rdid=book-NBYvAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Books_that_Count.epub?id=NBYvAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NBYvAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoics\u003c/b\u003e and Epicureans . ARNOLD , E. V. ROMAN \u003cb\u003eSTOICISM\u003c/b\u003e . 81 in . 468 pp . 1911. Camb . Press . 10/6 net . &quot; Lectures on the history of the \u003cb\u003eStoic\u003c/b\u003e philo- sophy , with special reference to its development within the Roman Empire . &quot; An&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fz8ZAAAAYAAJ",
+      "etag": "k1RtMafy0oU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fz8ZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "A History of Latin Literature from Ennius to Boethius",
+        "authors": [
+          "George Augustus Simcox"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101064069352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": [
+          "Latin literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fz8ZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fz8ZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=fz8ZAAAAYAAJ&pg=PA166&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fz8ZAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fz8ZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fz8ZAAAAYAAJ&rdid=book-fz8ZAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/A_History_of_Latin_Literature_from_Enniu.epub?id=fz8ZAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/A_History_of_Latin_Literature_from_Enniu.pdf?id=fz8ZAAAAYAAJ&hl=&output=pdf&sig=ACfU3U344zXXu3OiciPWYctARMSZZTMwTw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fz8ZAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoicism\u003c/b\u003e . The New Academy practically coincided with \u003cb\u003eStoicism\u003c/b\u003e as to the nature of truth and duty : but what \u003cb\u003eStoicism\u003c/b\u003e held strictly the Academy held loosely and half - heartedly ; what \u003cb\u003eStoicism\u003c/b\u003e urged as a matter of inexorable principle&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k9ZfAAAAMAAJ",
+      "etag": "Hb5x3UYU05o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k9ZfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Ethics of Aristotle",
+        "subtitle": "Illustrated with Essays and Notes",
+        "authors": [
+          "Aristotle",
+          "Alexander Grant"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015005708543"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 548,
+        "printType": "BOOK",
+        "categories": [
+          "Ethics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k9ZfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k9ZfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=k9ZfAAAAMAAJ&pg=PR34&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=k9ZfAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=k9ZfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=k9ZfAAAAMAAJ&rdid=book-k9ZfAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Ethics_of_Aristotle.epub?id=k9ZfAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Ethics_of_Aristotle.pdf?id=k9ZfAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0TWo6g74YlKo1dLJzSXzofXtSBPw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k9ZfAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eStoicism\u003c/b\u003e reacting on the East Its Influence among the Jews Traces of \u003cb\u003eStoicism\u003c/b\u003e in Ecclesiastes 333 334 335 336 337 Its Influence on St. Paul \u003cb\u003eStoicism\u003c/b\u003e brought to Rome Panætius Posidonius 337 340 342 343 Household Philosophers 344&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EmUIAAAAQAAJ",
+      "etag": "fHaXranbw1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EmUIAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The popular encyclopedia; or, 'Conversations Lexicon': [ed. by A. Whitelaw from the Encyclopedia Americana].",
+        "authors": [
+          "Popular encyclopedia"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:600048295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.19.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EmUIAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EmUIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=EmUIAAAAQAAJ&pg=PA343&dq=Stoicism&hl=&as_brr=7&as_pt=ALLTYPES&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EmUIAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EmUIAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=EmUIAAAAQAAJ&rdid=book-EmUIAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_popular_encyclopedia_or_Conversation.epub?id=EmUIAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_popular_encyclopedia_or_Conversation.pdf?id=EmUIAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2uvuQfrvALmR6gN2UaJFbOfM4G6w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EmUIAAAAQAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Popular encyclopedia Charles Annandale. \u003cb\u003eSTOICS\u003c/b\u003e . \u003cb\u003eSTOICS\u003c/b\u003e . or energy , as representing the active . The history of \u003cb\u003estoicism\u003c/b\u003e is remarkable . Founded in Greece , and receiving there within a brief period almost its entire systematic&nbsp;..."
+      }
+    }
+  ]
+}

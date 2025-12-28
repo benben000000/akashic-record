@@ -1,0 +1,18 @@
+{
+    "project_name": "Universal Library System",
+    "project_type": "WEB_APP",
+    "target_audience": "General Users, Researchers",
+    "core_features": [
+        "Global Search (Internet Archive + Open Library)",
+        "Book/Item Detail View",
+        "Direct Read/Download Links (External)",
+        "Favorites/Bookmarks (Local Storage or Session based, since 'no database' was implied by 'dont save anything' but we have XAMPP so we *can* save locally if user wants logs. User said 'sync... dont save anything', likely means 'don't save BOOKS', but metadata caching is okay. I will use LocalStorage for favorites to keep server stateless.)"
+    ],
+    "design_language": "Apple Human Interface Guidelines (IOS) - Glassmorphism, Large Titles, San Francisco Font, Smooth Animation in Vanilla CSS",
+    "constraints": [
+        "No local book hosting",
+        "XAMPP Environment",
+        "Responsive Mobile-First",
+        "Fast & Secure"
+    ]
+}

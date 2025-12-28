@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/U0tyZwqQmpUBL3976U6FAlP0WiQ</id>
+  <title>arXiv Query: search_query=all:language&amp;id_list=&amp;start=0&amp;max_results=20</title>
+  <updated>2025-12-28T04:07:42Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:language&amp;start=0&amp;max_results=20&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>174263</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2503.21676v2</id>
+    <title>How do language models learn facts? Dynamics, curricula and hallucinations</title>
+    <updated>2025-07-24T14:04:20Z</updated>
+    <link href="https://arxiv.org/abs/2503.21676v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.21676v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models accumulate vast knowledge during pre-training, yet the dynamics governing this acquisition remain poorly understood. This work investigates the learning dynamics of language models on a synthetic factual recall task, uncovering three key findings: First, language models learn in three phases, exhibiting a performance plateau before acquiring precise factual knowledge. Mechanistically, this plateau coincides with the formation of attention-based circuits that support recall. Second, the training data distribution significantly impacts learning dynamics, as imbalanced distributions lead to shorter plateaus. Finally, hallucinations emerge simultaneously with knowledge, and integrating new knowledge into the model through fine-tuning is challenging, as it quickly corrupts its existing parametric memories. Our results emphasize the importance of data distribution in knowledge acquisition and suggest novel data scheduling strategies to accelerate neural network training.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-27T16:43:45Z</published>
+    <arxiv:comment>Accepted at the 2nd Conference on Language Modeling (2025)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Conference on Language Modeling (2025)</arxiv:journal_ref>
+    <author>
+      <name>Nicolas Zucchet</name>
+    </author>
+    <author>
+      <name>Jörg Bornschein</name>
+    </author>
+    <author>
+      <name>Stephanie Chan</name>
+    </author>
+    <author>
+      <name>Andrew Lampinen</name>
+    </author>
+    <author>
+      <name>Razvan Pascanu</name>
+    </author>
+    <author>
+      <name>Soham De</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.00031v1</id>
+    <title>Discriminating Similar Languages: Evaluations and Explorations</title>
+    <updated>2016-09-30T20:57:52Z</updated>
+    <link href="https://arxiv.org/abs/1610.00031v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1610.00031v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present an analysis of the performance of machine learning classifiers on discriminating between similar languages and language varieties. We carried out a number of experiments using the results of the two editions of the Discriminating between Similar Languages (DSL) shared task. We investigate the progress made between the two tasks, estimate an upper bound on possible performance using ensemble and oracle combination, and provide learning curves to help us understand which languages are more challenging. A number of difficult sentences are identified and investigated further with human annotation.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-09-30T20:57:52Z</published>
+    <arxiv:comment>Proceedings of Language Resources and Evaluation (LREC)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of Language Resources and Evaluation (LREC). Portoroz, Slovenia. pp 1800-1807 (2016)</arxiv:journal_ref>
+    <author>
+      <name>Cyril Goutte</name>
+    </author>
+    <author>
+      <name>Serge Léger</name>
+    </author>
+    <author>
+      <name>Shervin Malmasi</name>
+    </author>
+    <author>
+      <name>Marcos Zampieri</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1501.03191v1</id>
+    <title>Annotating Cognates and Etymological Origin in Turkic Languages</title>
+    <updated>2015-01-13T22:14:57Z</updated>
+    <link href="https://arxiv.org/abs/1501.03191v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1501.03191v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Turkic languages exhibit extensive and diverse etymological relationships among lexical items. These relationships make the Turkic languages promising for exploring automated translation lexicon induction by leveraging cognate and other etymological information. However, due to the extent and diversity of the types of relationships between words, it is not clear how to annotate such information. In this paper, we present a methodology for annotating cognates and etymological origin in Turkic languages. Our method strives to balance the amount of research effort the annotator expends with the utility of the annotations for supporting research on improving automated translation lexicon induction.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-01-13T22:14:57Z</published>
+    <arxiv:comment>5 pages, 8 tables; appeared in Proceedings of the First Workshop on Language Resources and Technologies for Turkic Languages at the Eighth International Conference on Language Resources and Evaluation (LREC'12), pages 47-51, Istanbul, Turkey, May 2012. European Language Resources Association</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>In Proceedings of the First Workshop on Language Resources and Technologies for Turkic Languages at LREC'12, pages 47-51, Istanbul, Turkey, May 2012. European Language Resources Association</arxiv:journal_ref>
+    <author>
+      <name>Benjamin S. Mericli</name>
+    </author>
+    <author>
+      <name>Michael Bloodgood</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2409.02228v1</id>
+    <title>Unforgettable Generalization in Language Models</title>
+    <updated>2024-09-03T18:55:54Z</updated>
+    <link href="https://arxiv.org/abs/2409.02228v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.02228v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>When language models (LMs) are trained to forget (or "unlearn'') a skill, how precisely does their behavior change? We study the behavior of transformer LMs in which tasks have been forgotten via fine-tuning on randomized labels. Such LMs learn to generate near-random predictions for individual examples in the "training'' set used for forgetting. Across tasks, however, LMs exhibit extreme variability in whether LM predictions change on examples outside the training set. In some tasks (like entailment classification), forgetting generalizes robustly, and causes models to produce uninformative predictions on new task instances; in other tasks (like physical commonsense reasoning and scientific question answering) forgetting affects only the training examples, and models continue to perform the "forgotten'' task accurately even for examples very similar to those that appeared in the training set. Dataset difficulty is not predictive of whether a behavior can be forgotten; instead, generalization in forgetting is (weakly) predicted by the confidence of LMs' initial task predictions and the variability of LM representations of training data, with low confidence and low variability both associated with greater generalization. Perhaps most surprisingly, random-label forgetting appears to be somewhat insensitive to the contents of the training set: for example, models trained on science questions with random labels continue to answer other science questions accurately, but begin to produce random labels on entailment classification tasks. Finally, we show that even generalizable forgetting is shallow: linear probes trained on LMs' representations can still perform tasks reliably after forgetting. Our results highlight the difficulty and unpredictability of performing targeted skill removal from models via fine-tuning.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-03T18:55:54Z</published>
+    <arxiv:comment>18 pages, 9 figures, published in First Conference on Language Modeling 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <arxiv:journal_ref>First Conference on Language Modeling (2024)</arxiv:journal_ref>
+    <author>
+      <name>Eric Zhang</name>
+    </author>
+    <author>
+      <name>Leshem Chosen</name>
+    </author>
+    <author>
+      <name>Jacob Andreas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2307.14850v6</id>
+    <title>Turkish Native Language Identification V2</title>
+    <updated>2025-11-07T13:46:02Z</updated>
+    <link href="https://arxiv.org/abs/2307.14850v6" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2307.14850v6" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents the first application of Native Language Identification (NLI) for the Turkish language. NLI is the task of automatically identifying an individual's native language (L1) based on their writing or speech in a non-native language (L2). While most NLI research has focused on L2 English, our study extends this scope to L2 Turkish by analyzing a corpus of texts written by native speakers of Albanian, Arabic and Persian. We leverage a cleaned version of the Turkish Learner Corpus and demonstrate the effectiveness of syntactic features, comparing a structural Part-of-Speech n-gram model to a hybrid model that retains function words. Our models achieve promising results, and we analyze the most predictive features to reveal L1-specific transfer effects. We make our data and code publicly available for further study.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-07-27T13:28:31Z</published>
+    <arxiv:comment>Turkish Native Language Identification V2: L1 Influence of Arabic, Persian, and Albanian</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>In Proceedings of the 6th International Conference on Natural Language and Speech Processing (ICNLSP 2023)</arxiv:journal_ref>
+    <author>
+      <name>Ahmet Yavuz Uluslu</name>
+    </author>
+    <author>
+      <name>Gerold Schneider</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.00030v1</id>
+    <title>Modeling Language Change in Historical Corpora: The Case of Portuguese</title>
+    <updated>2016-09-30T20:57:01Z</updated>
+    <link href="https://arxiv.org/abs/1610.00030v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1610.00030v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a number of experiments to model changes in a historical Portuguese corpus composed of literary texts for the purpose of temporal text classification. Algorithms were trained to classify texts with respect to their publication date taking into account lexical variation represented as word n-grams, and morphosyntactic variation represented by part-of-speech (POS) distribution. We report results of 99.8% accuracy using word unigram features with a Support Vector Machines classifier to predict the publication date of documents in time intervals of both one century and half a century. A feature analysis is performed to investigate the most informative features for this task and how they are linked to language change.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-09-30T20:57:01Z</published>
+    <arxiv:comment>Proceedings of Language Resources and Evaluation (LREC)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of Language Resources and Evaluation (LREC). Portoroz, Slovenia. pp. 4098-4104 (2016)</arxiv:journal_ref>
+    <author>
+      <name>Marcos Zampieri</name>
+    </author>
+    <author>
+      <name>Shervin Malmasi</name>
+    </author>
+    <author>
+      <name>Mark Dras</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/cs/0112004v1</id>
+    <title>Part of Speech Tagging in Thai Language Using Support Vector Machine</title>
+    <updated>2001-12-05T05:48:21Z</updated>
+    <link href="https://arxiv.org/abs/cs/0112004v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/cs/0112004v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  The elastic-input neuro tagger and hybrid tagger, combined with a neural network and Brill's error-driven learning, have already been proposed for the purpose of constructing a practical tagger using as little training data as possible. When a small Thai corpus is used for training, these taggers have tagging accuracies of 94.4% and 95.5% (accounting only for the ambiguous words in terms of the part of speech), respectively. In this study, in order to construct more accurate taggers we developed new tagging methods using three machine learning methods: the decision-list, maximum entropy, and support vector machine methods. We then performed tagging experiments by using these methods. Our results showed that the support vector machine method has the best precision (96.1%), and that it is capable of improving the accuracy of tagging in the Thai language. Finally, we theoretically examined all these methods and discussed how the improvements were achived.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2001-12-05T05:48:21Z</published>
+    <arxiv:comment>8 pages. Computation and Language</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>NLPRS'2001 Workshop, the Second Workshop on Natural Language Processing and Neural Networks (NLPNN2001)</arxiv:journal_ref>
+    <author>
+      <name>Masaki Murata</name>
+    </author>
+    <author>
+      <name>Qing Ma</name>
+    </author>
+    <author>
+      <name>Hitoshi Isahara</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2403.17811v1</id>
+    <title>Are Compressed Language Models Less Subgroup Robust?</title>
+    <updated>2024-03-26T15:50:37Z</updated>
+    <link href="https://arxiv.org/abs/2403.17811v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2403.17811v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>To reduce the inference cost of large language models, model compression is increasingly used to create smaller scalable models. However, little is known about their robustness to minority subgroups defined by the labels and attributes of a dataset. In this paper, we investigate the effects of 18 different compression methods and settings on the subgroup robustness of BERT language models. We show that worst-group performance does not depend on model size alone, but also on the compression method used. Additionally, we find that model compression does not always worsen the performance on minority subgroups. Altogether, our analysis serves to further research into the subgroup robustness of model compression.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-03-26T15:50:37Z</published>
+    <arxiv:comment>The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <arxiv:journal_ref>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Main Track</arxiv:journal_ref>
+    <author>
+      <name>Leonidas Gee</name>
+    </author>
+    <author>
+      <name>Andrea Zugarini</name>
+    </author>
+    <author>
+      <name>Novi Quadrianto</name>
+    </author>
+    <arxiv:doi>10.18653/v1/2023.emnlp-main.983</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.18653/v1/2023.emnlp-main.983" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.15010v2</id>
+    <title>How Important Is Tokenization in French Medical Masked Language Models?</title>
+    <updated>2024-06-09T15:11:31Z</updated>
+    <link href="https://arxiv.org/abs/2402.15010v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.15010v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Subword tokenization has become the prevailing standard in the field of natural language processing (NLP) over recent years, primarily due to the widespread utilization of pre-trained language models. This shift began with Byte-Pair Encoding (BPE) and was later followed by the adoption of SentencePiece and WordPiece. While subword tokenization consistently outperforms character and word-level tokenization, the precise factors contributing to its success remain unclear. Key aspects such as the optimal segmentation granularity for diverse tasks and languages, the influence of data sources on tokenizers, and the role of morphological information in Indo-European languages remain insufficiently explored. This is particularly pertinent for biomedical terminology, characterized by specific rules governing morpheme combinations. Despite the agglutinative nature of biomedical terminology, existing language models do not explicitly incorporate this knowledge, leading to inconsistent tokenization strategies for common terms. In this paper, we seek to delve into the complexities of subword tokenization in French biomedical domain across a variety of NLP tasks and pinpoint areas where further enhancements can be made. We analyze classical tokenization algorithms, including BPE and SentencePiece, and introduce an original tokenization strategy that integrates morpheme-enriched word segmentation into existing tokenization methods.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-22T23:11:08Z</published>
+    <arxiv:comment>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</arxiv:journal_ref>
+    <author>
+      <name>Yanis Labrak</name>
+    </author>
+    <author>
+      <name>Adrien Bazoge</name>
+    </author>
+    <author>
+      <name>Beatrice Daille</name>
+    </author>
+    <author>
+      <name>Mickael Rouvier</name>
+    </author>
+    <author>
+      <name>Richard Dufour</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2306.06371v1</id>
+    <title>A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from Natural Language Text</title>
+    <updated>2023-06-10T07:27:51Z</updated>
+    <link href="https://arxiv.org/abs/2306.06371v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2306.06371v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Java Code Generation consists in generating automatically Java code from a Natural Language Text. This NLP task helps in increasing programmers' productivity by providing them with immediate solutions to the simplest and most repetitive tasks. Code generation is a challenging task because of the hard syntactic rules and the necessity of a deep understanding of the semantic aspect of the programming language. Many works tried to tackle this task using either RNN-based, or Transformer-based models. The latter achieved remarkable advancement in the domain and they can be divided into three groups: (1) encoder-only models, (2) decoder-only models, and (3) encoder-decoder models. In this paper, we provide a comprehensive review of the evolution and progress of deep learning models in Java code generation task. We focus on the most important methods and present their merits and limitations, as well as the objective functions used by the community. In addition, we provide a detailed description of datasets and evaluation metrics used in the literature. Finally, we discuss results of different models on CONCODE dataset, then propose some future directions.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-06-10T07:27:51Z</published>
+    <arxiv:comment>Published at Elsevier's Natural Language Processing Journal</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Natural Language Processing Journal, Volume 3, 2023, 100013, ISSN 2949-7191</arxiv:journal_ref>
+    <author>
+      <name>Jessica López Espejel</name>
+    </author>
+    <author>
+      <name>Mahaman Sanoussi Yahaya Alassan</name>
+    </author>
+    <author>
+      <name>El Mehdi Chouham</name>
+    </author>
+    <author>
+      <name>Walid Dahhane</name>
+    </author>
+    <author>
+      <name>El Hassane Ettifouri</name>
+    </author>
+    <arxiv:doi>10.1016/j.nlp.2023.100013</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.nlp.2023.100013" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2403.13369v2</id>
+    <title>Clinical information extraction for Low-resource languages with Few-shot learning using Pre-trained language models and Prompting</title>
+    <updated>2024-08-13T07:35:31Z</updated>
+    <link href="https://arxiv.org/abs/2403.13369v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2403.13369v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automatic extraction of medical information from clinical documents poses several challenges: high costs of required clinical expertise, limited interpretability of model predictions, restricted computational resources and privacy regulations. Recent advances in domain-adaptation and prompting methods showed promising results with minimal training data using lightweight masked language models, which are suited for well-established interpretability methods. We are first to present a systematic evaluation of these methods in a low-resource setting, by performing multi-class section classification on German doctor's letters. We conduct extensive class-wise evaluations supported by Shapley values, to validate the quality of our small training data set and to ensure the interpretability of model predictions. We demonstrate that a lightweight, domain-adapted pretrained model, prompted with just 20 shots, outperforms a traditional classification model by 30.5% accuracy. Our results serve as a process-oriented guideline for clinical information extraction projects working with low-resource.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-03-20T08:01:33Z</published>
+    <arxiv:comment>Paper accepted for publication in the journal: Natural Language Engineering (Cambridge Core)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Natural Language Processing. Published online 2024:1-24</arxiv:journal_ref>
+    <author>
+      <name>Phillip Richter-Pechanski</name>
+    </author>
+    <author>
+      <name>Philipp Wiesenbach</name>
+    </author>
+    <author>
+      <name>Dominic M. Schwab</name>
+    </author>
+    <author>
+      <name>Christina Kiriakou</name>
+    </author>
+    <author>
+      <name>Nicolas Geis</name>
+    </author>
+    <author>
+      <name>Christoph Dieterich</name>
+    </author>
+    <author>
+      <name>Anette Frank</name>
+    </author>
+    <arxiv:doi>10.1017/nlp.2024.52</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1017/nlp.2024.52" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2212.03812v1</id>
+    <title>An Overview of Indian Spoken Language Recognition from Machine Learning Perspective</title>
+    <updated>2022-11-30T11:03:51Z</updated>
+    <link href="https://arxiv.org/abs/2212.03812v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2212.03812v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automatic spoken language identification (LID) is a very important research field in the era of multilingual voice-command-based human-computer interaction (HCI). A front-end LID module helps to improve the performance of many speech-based applications in the multilingual scenario. India is a populous country with diverse cultures and languages. The majority of the Indian population needs to use their respective native languages for verbal interaction with machines. Therefore, the development of efficient Indian spoken language recognition systems is useful for adapting smart technologies in every section of Indian society. The field of Indian LID has started gaining momentum in the last two decades, mainly due to the development of several standard multilingual speech corpora for the Indian languages. Even though significant research progress has already been made in this field, to the best of our knowledge, there are not many attempts to analytically review them collectively. In this work, we have conducted one of the very first attempts to present a comprehensive review of the Indian spoken language recognition research field. In-depth analysis has been presented to emphasize the unique challenges of low-resource and mutual influences for developing LID systems in the Indian contexts. Several essential aspects of the Indian LID research, such as the detailed description of the available speech corpora, the major research contributions, including the earlier attempts based on statistical modeling to the recent approaches based on different neural network architectures, and the future research trends are discussed. This review work will help assess the state of the present Indian LID research by any active researcher or any research enthusiasts from related fields.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SD" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.AS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-11-30T11:03:51Z</published>
+    <arxiv:comment>Accepted for publication in ACM Transactions on Asian and Low-Resource Language Information Processing</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>ACM Transactions on Asian and Low-Resource Language Information Processing, Volume 21, Issue 6 November 2022, Article No 128</arxiv:journal_ref>
+    <author>
+      <name>Spandan Dey</name>
+    </author>
+    <author>
+      <name>Md Sahidullah</name>
+    </author>
+    <author>
+      <name>Goutam Saha</name>
+    </author>
+    <arxiv:doi>10.1145/3523179</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1145/3523179" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2207.08179v1</id>
+    <title>End-to-End Spoken Language Understanding: Performance analyses of a voice command task in a low resource setting</title>
+    <updated>2022-07-17T13:51:56Z</updated>
+    <link href="https://arxiv.org/abs/2207.08179v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2207.08179v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Spoken Language Understanding (SLU) is a core task in most human-machine interaction systems. With the emergence of smart homes, smart phones and smart speakers, SLU has become a key technology for the industry. In a classical SLU approach, an Automatic Speech Recognition (ASR) module transcribes the speech signal into a textual representation from which a Natural Language Understanding (NLU) module extracts semantic information. Recently End-to-End SLU (E2E SLU) based on Deep Neural Networks has gained momentum since it benefits from the joint optimization of the ASR and the NLU parts, hence limiting the cascade of error effect of the pipeline architecture. However, little is known about the actual linguistic properties used by E2E models to predict concepts and intents from speech input. In this paper, we present a study identifying the signal features and other linguistic properties used by an E2E model to perform the SLU task. The study is carried out in the application domain of a smart home that has to handle non-English (here French) voice commands. The results show that a good E2E SLU performance does not always require a perfect ASR capability. Furthermore, the results show the superior capabilities of the E2E model in handling background noise and syntactic variation compared to the pipeline model. Finally, a finer-grained analysis suggests that the E2E model uses the pitch information of the input signal to identify voice command concepts. The results and methodology outlined in this paper provide a springboard for further analyses of E2E models in speech processing.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SD" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.AS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-07-17T13:51:56Z</published>
+    <arxiv:comment>Thierry Desot, François Portet, Michel Vacher, End-to-End Spoken Language Understanding: Performance analyses of a voice command task in a low resource setting, Computer Speech &amp; Language, Volume 75, 2022</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Computer Speech &amp; Language, Volume 75, 2022</arxiv:journal_ref>
+    <author>
+      <name>Thierry Desot</name>
+    </author>
+    <author>
+      <name>François Portet</name>
+    </author>
+    <author>
+      <name>Michel Vacher</name>
+    </author>
+    <arxiv:doi>10.1016/j.csl.2022.101369</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.csl.2022.101369" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.08480v1</id>
+    <title>Soft Inductive Bias Approach via Explicit Reasoning Perspectives in Inappropriate Utterance Detection Using Large Language Models</title>
+    <updated>2025-12-09T10:55:33Z</updated>
+    <link href="https://arxiv.org/abs/2512.08480v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.08480v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent incidents in certain online games and communities, where anonymity is guaranteed, show that unchecked inappropriate remarks frequently escalate into verbal abuse and even criminal behavior, raising significant social concerns. Consequently, there is a growing need for research on techniques that can detect inappropriate utterances within conversational texts to help build a safer communication environment. Although large-scale language models trained on Korean corpora and chain-of-thought reasoning have recently gained attention, research applying these approaches to inappropriate utterance detection remains limited. In this study, we propose a soft inductive bias approach that explicitly defines reasoning perspectives to guide the inference process, thereby promoting rational decision-making and preventing errors that may arise during reasoning. We fine-tune a Korean large language model using the proposed method and conduct both quantitative performance comparisons and qualitative evaluations across different training strategies. Experimental results show that the Kanana-1.5 model achieves an average accuracy of 87.0046, improving by approximately 3.89 percent over standard supervised learning. These findings indicate that the proposed method goes beyond simple knowledge imitation by large language models and enables more precise and consistent judgments through constrained reasoning perspectives, demonstrating its effectiveness for inappropriate utterance detection.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-09T10:55:33Z</published>
+    <arxiv:comment>in Korean language, Published in the Proceedings of the 37th Annual Conference on Human and Language Technology, 2025, pp. 714-719. (English translation assisted by GPT)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of the 37th Annual Conference on Human and Language Technology, 2025, pp. 714-719</arxiv:journal_ref>
+    <author>
+      <name>Ju-Young Kim</name>
+    </author>
+    <author>
+      <name>Ji-Hong Park</name>
+    </author>
+    <author>
+      <name>Se-Yeon Lee</name>
+    </author>
+    <author>
+      <name>Sujin Park</name>
+    </author>
+    <author>
+      <name>Gun-Woo Kim</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.14025v1</id>
+    <title>Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation</title>
+    <updated>2023-10-21T14:35:42Z</updated>
+    <link href="https://arxiv.org/abs/2310.14025v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.14025v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Visual Word Sense Disambiguation (VWSD) is a novel challenging task with the goal of retrieving an image among a set of candidates, which better represents the meaning of an ambiguous word within a given context. In this paper, we make a substantial step towards unveiling this interesting task by applying a varying set of approaches. Since VWSD is primarily a text-image retrieval task, we explore the latest transformer-based methods for multimodal retrieval. Additionally, we utilize Large Language Models (LLMs) as knowledge bases to enhance the given phrases and resolve ambiguity related to the target word. We also study VWSD as a unimodal problem by converting to text-to-text and image-to-image retrieval, as well as question-answering (QA), to fully explore the capabilities of relevant models. To tap into the implicit knowledge of LLMs, we experiment with Chain-of-Thought (CoT) prompting to guide explainable answer generation. On top of all, we train a learn to rank (LTR) model in order to combine our different modules, achieving competitive ranking results. Extensive experiments on VWSD demonstrate valuable insights to effectively drive future directions.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-21T14:35:42Z</published>
+    <arxiv:comment>Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing</arxiv:journal_ref>
+    <author>
+      <name>Anastasia Kritharoula</name>
+    </author>
+    <author>
+      <name>Maria Lymperaiou</name>
+    </author>
+    <author>
+      <name>Giorgos Stamou</name>
+    </author>
+    <arxiv:doi>10.18653/v1/2023.emnlp-main.807</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.18653/v1/2023.emnlp-main.807" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2408.13040v1</id>
+    <title>SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks</title>
+    <updated>2024-08-23T13:00:10Z</updated>
+    <link href="https://arxiv.org/abs/2408.13040v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2408.13040v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Prompting has become a practical method for utilizing pre-trained language models (LMs). This approach offers several advantages. It allows an LM to adapt to new tasks with minimal training and parameter updates, thus achieving efficiency in both storage and computation. Additionally, prompting modifies only the LM's inputs and harnesses the generative capabilities of language models to address various downstream tasks in a unified manner. This significantly reduces the need for human labor in designing task-specific models. These advantages become even more evident as the number of tasks served by the LM scales up. Motivated by the strengths of prompting, we are the first to explore the potential of prompting speech LMs in the domain of speech processing. Recently, there has been a growing interest in converting speech into discrete units for language modeling. Our pioneer research demonstrates that these quantized speech units are highly versatile within our unified prompting framework. Not only can they serve as class labels, but they also contain rich phonetic information that can be re-synthesized back into speech signals for speech generation tasks. Specifically, we reformulate speech processing tasks into speech-to-unit generation tasks. As a result, we can seamlessly integrate tasks such as speech classification, sequence generation, and speech generation within a single, unified prompting framework. The experiment results show that the prompting method can achieve competitive performance compared to the strong fine-tuning method based on self-supervised learning models with a similar number of trainable parameters. The prompting method also shows promising results in the few-shot setting. Moreover, with the advanced speech LMs coming into the stage, the proposed prompting framework attains great potential.</summary>
+    <category term="eess.AS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-08-23T13:00:10Z</published>
+    <arxiv:comment>Published in IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</arxiv:comment>
+    <arxiv:primary_category term="eess.AS"/>
+    <arxiv:journal_ref>in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 3730-3744, 2024</arxiv:journal_ref>
+    <author>
+      <name>Kai-Wei Chang</name>
+    </author>
+    <author>
+      <name>Haibin Wu</name>
+    </author>
+    <author>
+      <name>Yu-Kai Wang</name>
+    </author>
+    <author>
+      <name>Yuan-Kuei Wu</name>
+    </author>
+    <author>
+      <name>Hua Shen</name>
+    </author>
+    <author>
+      <name>Wei-Cheng Tseng</name>
+    </author>
+    <author>
+      <name>Iu-thing Kang</name>
+    </author>
+    <author>
+      <name>Shang-Wen Li</name>
+    </author>
+    <author>
+      <name>Hung-yi Lee</name>
+    </author>
+    <arxiv:doi>10.1109/TASLP.2024.3436618</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/TASLP.2024.3436618" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/cmp-lg/9803002v1</id>
+    <title>Time, Tense and Aspect in Natural Language Database Interfaces</title>
+    <updated>1998-03-22T15:05:40Z</updated>
+    <link href="https://arxiv.org/abs/cmp-lg/9803002v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/cmp-lg/9803002v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Most existing natural language database interfaces (NLDBs) were designed to be used with database systems that provide very limited facilities for manipulating time-dependent data, and they do not support adequately temporal linguistic mechanisms (verb tenses, temporal adverbials, temporal subordinate clauses, etc.). The database community is becoming increasingly interested in temporal database systems, that are intended to store and manipulate in a principled manner information not only about the present, but also about the past and future. When interfacing to temporal databases, supporting temporal linguistic mechanisms becomes crucial.
+  We present a framework for constructing natural language interfaces for temporal databases (NLTDBs), that draws on research in tense and aspect theories, temporal logics, and temporal databases. The framework consists of a temporal intermediate representation language, called TOP, an HPSG grammar that maps a wide range of questions involving temporal mechanisms to appropriate TOP expressions, and a provably correct method for translating from TOP to TSQL2, TSQL2 being a recently proposed temporal extension of the SQL database language. This framework was employed to implement a prototype NLTDB using ALE and Prolog.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>1998-03-22T15:05:40Z</published>
+    <arxiv:comment>50 pages. LaTeX2e. Uses: amstex, a4, a4wide, xspace, avm, examples. EPS figures included. To appear in the Journal of Natural Language Engineering</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Natural Language Engineering, 4(3), pp. 229-276, Sept. 1998, Cambridge Univ. Press.</arxiv:journal_ref>
+    <author>
+      <name>I. Androutsopoulos</name>
+      <arxiv:affiliation>Microsoft Research Institute, Macquarie University, Sydney</arxiv:affiliation>
+    </author>
+    <author>
+      <name>G. D. Ritchie</name>
+      <arxiv:affiliation>Dept. of Artificial Intelligence, Univ. of Edinburgh</arxiv:affiliation>
+    </author>
+    <author>
+      <name>P. Thanisch</name>
+      <arxiv:affiliation>Dept. of Computer Science, Univ. of Edinburgh</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.09977v1</id>
+    <title>Fast Vocabulary Transfer for Language Model Compression</title>
+    <updated>2024-02-15T14:37:07Z</updated>
+    <link href="https://arxiv.org/abs/2402.09977v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.09977v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Real-world business applications require a trade-off between language model performance and size. We propose a new method for model compression that relies on vocabulary transfer. We evaluate the method on various vertical domains and downstream tasks. Our results indicate that vocabulary transfer can be effectively used in combination with other compression techniques, yielding a significant reduction in model size and inference time while marginally compromising on performance.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-15T14:37:07Z</published>
+    <arxiv:comment>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022): Industry Track</arxiv:journal_ref>
+    <author>
+      <name>Leonidas Gee</name>
+    </author>
+    <author>
+      <name>Andrea Zugarini</name>
+    </author>
+    <author>
+      <name>Leonardo Rigutini</name>
+    </author>
+    <author>
+      <name>Paolo Torroni</name>
+    </author>
+    <arxiv:doi>10.18653/v1/2022.emnlp-industry.41</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.18653/v1/2022.emnlp-industry.41" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2409.11353v3</id>
+    <title>THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models</title>
+    <updated>2024-11-30T02:27:09Z</updated>
+    <link href="https://arxiv.org/abs/2409.11353v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.11353v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Hallucination, the generation of factually incorrect content, is a growing challenge in Large Language Models (LLMs). Existing detection and mitigation methods are often isolated and insufficient for domain-specific needs, lacking a standardized pipeline. This paper introduces THaMES (Tool for Hallucination Mitigations and EvaluationS), an integrated framework and library addressing this gap. THaMES offers an end-to-end solution for evaluating and mitigating hallucinations in LLMs, featuring automated test set generation, multifaceted benchmarking, and adaptable mitigation strategies. It automates test set creation from any corpus, ensuring high data quality, diversity, and cost-efficiency through techniques like batch processing, weighted sampling, and counterfactual validation. THaMES assesses a model's ability to detect and reduce hallucinations across various tasks, including text generation and binary classification, applying optimal mitigation strategies like In-Context Learning (ICL), Retrieval Augmented Generation (RAG), and Parameter-Efficient Fine-tuning (PEFT). Evaluations of state-of-the-art LLMs using a knowledge base of academic papers, political news, and Wikipedia reveal that commercial models like GPT-4o benefit more from RAG than ICL, while open-weight models like Llama-3.1-8B-Instruct and Mistral-Nemo gain more from ICL. Additionally, PEFT significantly enhances the performance of Llama-3.1-8B-Instruct in both evaluation tasks.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-17T16:55:25Z</published>
+    <arxiv:comment>NeurIPS 2024 SoLaR (Socially Responsible Language Modelling Research ) Workshop</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>NeurIPS Workshop on Socially Responsible Language Modelling Research 2024</arxiv:journal_ref>
+    <author>
+      <name>Mengfei Liang</name>
+    </author>
+    <author>
+      <name>Archish Arun</name>
+    </author>
+    <author>
+      <name>Zekun Wu</name>
+    </author>
+    <author>
+      <name>Cristian Munoz</name>
+    </author>
+    <author>
+      <name>Jonathan Lutch</name>
+    </author>
+    <author>
+      <name>Emre Kazim</name>
+    </author>
+    <author>
+      <name>Adriano Koshiyama</name>
+    </author>
+    <author>
+      <name>Philip Treleaven</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/cs/0407028v1</id>
+    <title>Effects of Language Modeling on Speech-driven Question Answering</title>
+    <updated>2004-07-10T11:57:17Z</updated>
+    <link href="https://arxiv.org/abs/cs/0407028v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/cs/0407028v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We integrate automatic speech recognition (ASR) and question answering (QA) to realize a speech-driven QA system, and evaluate its performance. We adapt an N-gram language model to natural language questions, so that the input of our system can be recognized with a high accuracy. We target WH-questions which consist of the topic part and fixed phrase used to ask about something. We first produce a general N-gram model intended to recognize the topic and emphasize the counts of the N-grams that correspond to the fixed phrases. Given a transcription by the ASR engine, the QA engine extracts the answer candidates from target documents. We propose a passage retrieval method robust against recognition errors in the transcription. We use the QA test collection produced in NTCIR, which is a TREC-style evaluation workshop, and show the effectiveness of our method by means of experiments.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2004-07-10T11:57:17Z</published>
+    <arxiv:comment>4 pages, Proceedings of the 8th International Conference on Spoken Language Processing (to appear)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of the 8th International Conference on Spoken Language Processing (ICSLP 2004), pp.1053-1056, Oct. 2004</arxiv:journal_ref>
+    <author>
+      <name>Tomoyosi Akiba</name>
+    </author>
+    <author>
+      <name>Atsushi Fujii</name>
+    </author>
+    <author>
+      <name>Katunobu Itou</name>
+    </author>
+  </entry>
+</feed>

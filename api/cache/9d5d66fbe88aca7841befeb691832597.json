@@ -1,0 +1,1362 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "iTAXAAAAIAAJ",
+      "etag": "1nEnkuN/AVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iTAXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Language Lessons",
+        "subtitle": "A First Book in English",
+        "authors": [
+          "Wilbur Fisk Gordy",
+          "William Edward Mead"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105049202364"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iTAXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iTAXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=iTAXAAAAIAAJ&pg=PA146&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iTAXAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iTAXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=iTAXAAAAIAAJ&rdid=book-iTAXAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Language_Lessons.epub?id=iTAXAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Language_Lessons.pdf?id=iTAXAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3N_XCmm6atFhYXSDyHmncnXe-mvw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iTAXAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese\u003c/b\u003e methods of training a public singer . A girl who wishes to go on the public stage must have a clear voice . And this is the way she trains it . \u003cb\u003eIn\u003c/b\u003e ... \u003cb\u003eLANGUAGE LESSONS\u003c/b\u003e For a Topical Outline Voice Train- ing \u003cb\u003ein Japan\u003c/b\u003e 146-147."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h_sOKt4BZUsC",
+      "etag": "IdhkCLUf984",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h_sOKt4BZUsC",
+      "volumeInfo": {
+        "title": "Japan Report",
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PURD:32754069377624"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Japan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h_sOKt4BZUsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h_sOKt4BZUsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=h_sOKt4BZUsC&pg=RA10-PA5&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=h_sOKt4BZUsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h_sOKt4BZUsC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=h_sOKt4BZUsC&rdid=book-h_sOKt4BZUsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Japan_Report.epub?id=h_sOKt4BZUsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h_sOKt4BZUsC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese in\u003c/b\u003e their 30s say they are prepared to pay ... \u003cb\u003elanguage lessons\u003c/b\u003e . The first 10 \u003cb\u003elessons\u003c/b\u003e , comprising short skits , were broadcast by NHK over a 10 - week period from late January through the end of March . Each 30 - minute \u003cb\u003elesson\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "07q1DJgf-rgC",
+      "etag": "9VEA5wFmxeI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/07q1DJgf-rgC",
+      "volumeInfo": {
+        "title": "Language Lessons",
+        "authors": [
+          "Foo Sec Fong"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924023355518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=07q1DJgf-rgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=07q1DJgf-rgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=07q1DJgf-rgC&pg=PA58&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=07q1DJgf-rgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=07q1DJgf-rgC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=07q1DJgf-rgC&rdid=book-07q1DJgf-rgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Language_Lessons.epub?id=07q1DJgf-rgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=07q1DJgf-rgC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eLESSON\u003c/b\u003e 40.第四十課. news 新聞;消息. clean 乾淨. story 古典,古事, dirty 不乾淨. Chinese 中國人;中國的, tell 告訴,說,述. \u003cb\u003eJapanese\u003c/b\u003e 日本人;日本的. clever 巧,聰明. diligent 勤奮. industrious 勤力. The \u003cb\u003eJapanese\u003c/b\u003e are clever . There are many&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Ysowj9rMzUC",
+      "etag": "fIpk18Wq708",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Ysowj9rMzUC",
+      "volumeInfo": {
+        "title": "The Japan Year Book",
+        "authors": [
+          "Katsuji Inahara"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002222825D"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1186,
+        "printType": "BOOK",
+        "categories": [
+          "Japan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Ysowj9rMzUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Ysowj9rMzUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=7Ysowj9rMzUC&pg=PA589&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7Ysowj9rMzUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7Ysowj9rMzUC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7Ysowj9rMzUC&rdid=book-7Ysowj9rMzUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Japan_Year_Book.epub?id=7Ysowj9rMzUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Ysowj9rMzUC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ecourse\u003c/b\u003e ) subjects Curriculum National , or civic , \u003cb\u003eJapanese language\u003c/b\u003e } First year Second year hours \u003cb\u003eLesson\u003c/b\u003e Contents \u003cb\u003eLesson\u003c/b\u003e Contents hours National morals 2 10 \u003cb\u003eJapanese\u003c/b\u003e history Reading , writing , speaking II &quot; &quot; &quot; 8 General arithmetic&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jP81AQAAMAAJ",
+      "etag": "WzsJjFe2Q9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jP81AQAAMAAJ",
+      "volumeInfo": {
+        "title": "History of the Japan Mission of the Reformed Church in the United States, 1879-1904",
+        "authors": [
+          "Henry K. Miller"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000045493508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Missions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jP81AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jP81AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=jP81AQAAMAAJ&pg=PA75&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jP81AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jP81AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=jP81AQAAMAAJ&rdid=book-jP81AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/History_of_the_Japan_Mission_of_the_Refo.epub?id=jP81AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/History_of_the_Japan_Mission_of_the_Refo.pdf?id=jP81AQAAMAAJ&hl=&output=pdf&sig=ACfU3U2EIWGUfFAyh2pkX4IKuzQTzFh5AQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jP81AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ein\u003c/b\u003e lieu of more specifically religious instruc- tion . Since , by the co - operation of a number of missionary organizations , it became possible to publish \u003cb\u003eLesson\u003c/b\u003e Helps \u003cb\u003ein\u003c/b\u003e the \u003cb\u003eJapanese language\u003c/b\u003e , the children \u003cb\u003ein\u003c/b\u003e the Sunday - schools&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q1UXAAAAIAAJ",
+      "etag": "69mU43dAlMY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q1UXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Inductive Course in English",
+        "subtitle": "Language Lessons for Grammar Grades",
+        "authors": [
+          "Larkin Dunton"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105049207074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.15.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q1UXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q1UXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=q1UXAAAAIAAJ&pg=PA118&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q1UXAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q1UXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=q1UXAAAAIAAJ&rdid=book-q1UXAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Inductive_Course_in_English.epub?id=q1UXAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Inductive_Course_in_English.pdf?id=q1UXAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3uvvNxm5TmXOdqYV3W90DNf1I2tQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q1UXAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... and Mexican begin with capital letters ? Adjectives like Chinese , French , American , \u003cb\u003eJapanese\u003c/b\u003e and Mexican , derived from proper 01 ADVERBS . 119 Write ten sentences of your own , 118 \u003cb\u003eLANGUAGE LESSONS\u003c/b\u003e . Adjectives from Proper Names."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7DpCAQAAMAAJ",
+      "etag": "JUvFRZl9+o0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7DpCAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Japan Magazine",
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$C182576"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1402,
+        "printType": "BOOK",
+        "categories": [
+          "Japan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7DpCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7DpCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=7DpCAQAAMAAJ&pg=PA146&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7DpCAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7DpCAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7DpCAQAAMAAJ&rdid=book-7DpCAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Japan_Magazine.epub?id=7DpCAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7DpCAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ein\u003c/b\u003e the \u003cb\u003eJapanese language\u003c/b\u003e as well as \u003cb\u003ein\u003c/b\u003e arithmetic ; those who are the graduates of a higher girls &#39; school , or a girls &#39; normal school are exempt from any sort of examination . ARTIFICIAL FLOWER - MAKING LEARNING TO EMBROIDER A \u003cb\u003eLESSON IN\u003c/b\u003e."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XHUb3oWIIpIC",
+      "etag": "/6/4PTcifBs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XHUb3oWIIpIC",
+      "volumeInfo": {
+        "title": "The Christian Movement in Japan",
+        "subtitle": "Including Korea and Formosa : a Year Book",
+        "authors": [
+          "John Lincoln Dearing"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YONSEI:20070061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 709,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XHUb3oWIIpIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XHUb3oWIIpIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=XHUb3oWIIpIC&pg=PA473&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XHUb3oWIIpIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XHUb3oWIIpIC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XHUb3oWIIpIC&rdid=book-XHUb3oWIIpIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Christian_Movement_in_Japan.epub?id=XHUb3oWIIpIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XHUb3oWIIpIC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ein\u003c/b\u003e mimeograph form , and as each \u003cb\u003elesson\u003c/b\u003e is assigned , the material for study is thus placed \u003cb\u003ein\u003c/b\u003e the hands of the students . This matter is then read \u003cb\u003ein\u003c/b\u003e the \u003cb\u003eclass\u003c/b\u003e , with the teacher , who sees to it that the lecture is under- stood . The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V91AIfvEy6QC",
+      "etag": "HfEq0K8AsPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V91AIfvEy6QC",
+      "volumeInfo": {
+        "title": "The Christian Movement in the Japanese Empire",
+        "subtitle": "Including Korea and Formosa : a Year Book",
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YONSEI:20119142"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 611,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V91AIfvEy6QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V91AIfvEy6QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=V91AIfvEy6QC&pg=PT153&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V91AIfvEy6QC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V91AIfvEy6QC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=V91AIfvEy6QC&rdid=book-V91AIfvEy6QC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Christian_Movement_in_the_Japanese_E.epub?id=V91AIfvEy6QC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V91AIfvEy6QC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese\u003c/b\u003e 215 Institutional Work ...... 17 , 96 , 289 Leper work , \u003cb\u003eJapan\u003c/b\u003e..83 , 260 Interdenom . S.S. \u003cb\u003eLesson\u003c/b\u003e ... \u003cb\u003eLanguage\u003c/b\u003e School 215 Medical Work , Formosa ......... 417 Jesuit Medical Work ... \u003cb\u003eJapanese in\u003c/b\u003e .. 181 Murphy , Rev. U. G. 304&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bWBQAQAAMAAJ",
+      "etag": "oFftp7k39n4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bWBQAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Japan Christian Year Book ...",
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:11351994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 556,
+        "printType": "BOOK",
+        "categories": [
+          "Japan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bWBQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bWBQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=bWBQAQAAMAAJ&pg=PA189&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bWBQAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bWBQAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=bWBQAQAAMAAJ&rdid=book-bWBQAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Japan_Christian_Year_Book.epub?id=bWBQAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bWBQAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elesson in\u003c/b\u003e reading . The principle is that after one can talk it is ... \u003cb\u003elanguage\u003c/b\u003e . With regard to the study of grammar , it Grammar may be said that to us it seems to be more easy for the pupil to ... \u003cb\u003eJAPANESE LANGUAGE\u003c/b\u003e SCHOOL 189."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uVbn6UCg6cIC",
+      "etag": "YN9Tw7YXDhg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uVbn6UCg6cIC",
+      "volumeInfo": {
+        "title": "Child-life in Japan and Japanese Child Stories",
+        "authors": [
+          "Matilda Chaplin Ayrton"
+        ],
+        "publishedDate": "1901",
+        "description": "Provides a glimpse of different aspects of child life in nineteenth century Japan interwoven with some popular tales.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33333219782683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uVbn6UCg6cIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uVbn6UCg6cIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=uVbn6UCg6cIC&pg=PT7&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uVbn6UCg6cIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uVbn6UCg6cIC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=uVbn6UCg6cIC&rdid=book-uVbn6UCg6cIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Child_life_in_Japan_and_Japanese_Child_S.epub?id=uVbn6UCg6cIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uVbn6UCg6cIC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eLesson in\u003c/b\u003e Natural History . Illus . 64 pages . Paper . 25 cts . V. Hyatt&#39;s Corals and Echinoderms . Illustrated . 32 pages . Paper . 30 cts . VI . Hyatt&#39;s Mollusca . Illustrated . 65 pages . Paper . 30 cts . Pages VII Hyatt&#39;s Worms and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ltMnnHDlxn4C",
+      "etag": "i+AtNnj/l18",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ltMnnHDlxn4C",
+      "volumeInfo": {
+        "title": "Resources in Education",
+        "publishedDate": "1969-07",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000052066153"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1396,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.18.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ltMnnHDlxn4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ltMnnHDlxn4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=ltMnnHDlxn4C&pg=RA1-PA17&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ltMnnHDlxn4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ltMnnHDlxn4C"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ltMnnHDlxn4C&rdid=book-ltMnnHDlxn4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Resources_in_Education.epub?id=ltMnnHDlxn4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ltMnnHDlxn4C&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese\u003c/b\u003e -- Elementary School Text , Volume I. Hawaii Univ . , Honolulu . Coll . of Education . Spons Agency ... \u003cb\u003elesson\u003c/b\u003e consists of a review . A new format for the repetition drills allows them to be used as sentence expansion&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nIIWAAAAIAAJ",
+      "etag": "UvvmeMlXzIc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nIIWAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Japanese Education",
+        "subtitle": "Lectures Delivered in the University of London",
+        "authors": [
+          "Dairoku Kikuchi"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105005016113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nIIWAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nIIWAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=nIIWAAAAIAAJ&pg=PA171&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nIIWAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nIIWAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nIIWAAAAIAAJ&rdid=book-nIIWAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Japanese_Education.epub?id=nIIWAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nIIWAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elesson\u003c/b\u003e , but the next \u003cb\u003elesson\u003c/b\u003e is entirely \u003cb\u003ein\u003c/b\u003e hira - gana ) ; Plum - fruit ; Fire - fly ; Washing ( verse , \u003cb\u003ein\u003c/b\u003e hira - gana ) ; The Four Quarters- E. , W. , S. , N .; The Sun and Rainbow ; Cicada ( verse , the last two \u003cb\u003ein\u003c/b\u003e hira - gana )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sjEXAAAAIAAJ",
+      "etag": "aGpXtYvoFbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sjEXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "New Lessons in Language",
+        "subtitle": "A Book for Intermediate Grades",
+        "authors": [
+          "Gordon Augustus Southworth"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105049257376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sjEXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sjEXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=sjEXAAAAIAAJ&pg=RA5-PA2&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sjEXAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sjEXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=sjEXAAAAIAAJ&rdid=book-sjEXAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/New_Lessons_in_Language.epub?id=sjEXAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sjEXAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese\u003c/b\u003e. screen ? It was a star of African diamonds . 1. How do proper nouns begin ? 2. From what word is \u003cb\u003eJapanese\u003c/b\u003e made ? How ? 3. What kind of noun is \u003cb\u003eJapan\u003c/b\u003e ? Why ? 4. From what noun is African made ? 5. Why do \u003cb\u003eJapanese\u003c/b\u003e and African&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GuCcAAAAMAAJ",
+      "etag": "z4i/aPSJIc0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GuCcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "A Cyclopedia of Education",
+        "authors": [
+          "Paul Monroe"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008865647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 744,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GuCcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GuCcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=GuCcAAAAMAAJ&pg=PA523&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GuCcAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GuCcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=GuCcAAAAMAAJ&rdid=book-GuCcAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/A_Cyclopedia_of_Education.epub?id=GuCcAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/A_Cyclopedia_of_Education.pdf?id=GuCcAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3KDhp-ulMrFrAR1T-nqitIeI9yjA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GuCcAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Paul Monroe. ready mentioned , \u003cb\u003elanguage\u003c/b\u003e ( reading , writing , and composition ) , arithmetic , geography , and \u003cb\u003eJapanese\u003c/b\u003e history , science ( or nature study ) , drawing , singing , sewing ( for girls only ) , and manual work , making all&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0eaqUKm_xQIC",
+      "etag": "4SWq9xTK0qk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0eaqUKm_xQIC",
+      "volumeInfo": {
+        "title": "The Phoenix a Monthly Magazine for China, Japan & Eastern Asia",
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IBNR:CR300036976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0eaqUKm_xQIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0eaqUKm_xQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=0eaqUKm_xQIC&pg=PA85&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0eaqUKm_xQIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0eaqUKm_xQIC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0eaqUKm_xQIC&rdid=book-0eaqUKm_xQIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Phoenix_a_Monthly_Magazine_for_China.epub?id=0eaqUKm_xQIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0eaqUKm_xQIC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJAPANESE\u003c/b\u003e . Continued from page 54 . \u003cb\u003eLESSON\u003c/b\u003e IV . These \u003cb\u003elessons\u003c/b\u003e are necessarily somewhat discon- nected . We aim at giving really practical and use- ful information regarding the \u003cb\u003eJapanese language\u003c/b\u003e , and to afford materials and a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3pBIAAAAYAAJ",
+      "etag": "sblR7EJv6D8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3pBIAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Journal of Education",
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101076384468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.11.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3pBIAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3pBIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=3pBIAAAAYAAJ&pg=PA675&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3pBIAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3pBIAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3pBIAAAAYAAJ&rdid=book-3pBIAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Journal_of_Education.epub?id=3pBIAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Journal_of_Education.pdf?id=3pBIAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0HewTWmruaQA3PCRUkaIeCn_lMfA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3pBIAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese language\u003c/b\u003e and Chinese literature , English ( omitted for the present ) ... \u003cb\u003elesson in\u003c/b\u003e &quot; Practical Ceremonies , &quot; \u003cb\u003ein\u003c/b\u003e other words , \u003cb\u003ein\u003c/b\u003e good manners . And ... \u003cb\u003eJapanese\u003c/b\u003e school is \u003cb\u003ein\u003c/b\u003e pro- cess of evolution : on the one hand a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c2sxAQAAMAAJ",
+      "etag": "hlbBCNPoC1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c2sxAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Northwestern Christian Advocate",
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015084595308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 822,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.13.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c2sxAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c2sxAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=c2sxAQAAMAAJ&pg=RA5-PA29&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=c2sxAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=c2sxAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=c2sxAQAAMAAJ&rdid=book-c2sxAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Northwestern_Christian_Advocate.epub?id=c2sxAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Northwestern_Christian_Advocate.pdf?id=c2sxAQAAMAAJ&hl=&output=pdf&sig=ACfU3U23EHSWerjWKvuWep81y7LUAQCE3A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c2sxAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elesson\u003c/b\u003e as outlined \u003cb\u003ein\u003c/b\u003e Woman&#39;s home missions ? Next to spirituality , nothing so promotes growth \u003cb\u003ein\u003c/b\u003e the auxiliary as good programmes . Make the monthly programme so interesting that the members will feel that they cannot afford to miss&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uBBPAAAAYAAJ",
+      "etag": "S3GSmfIl0As",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uBBPAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Standard",
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433003180522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1560,
+        "printType": "BOOK",
+        "categories": [
+          "Baptists"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "5.6.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uBBPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uBBPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=uBBPAAAAYAAJ&pg=PA452&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uBBPAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uBBPAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=uBBPAAAAYAAJ&rdid=book-uBBPAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Standard.epub?id=uBBPAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Standard.pdf?id=uBBPAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1EP5DZbYe_n4xl6m7kHu5UddKrTw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uBBPAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese language\u003c/b\u003e Oct. 1 at Tokyo at the Matsuda school . Mrs. C. K. Harring ... \u003cb\u003eLESSON\u003c/b\u003e QUARTERLY EDITION EDITED BY AID TO THE STI &quot; &quot; Y OF THE TO THE STUDY ... \u003cb\u003elesson\u003c/b\u003e , \u003cb\u003ein\u003c/b\u003e addition to the regular matter . Superintendents are&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8kwvAAAAMAAJ",
+      "etag": "bekY1FDcCYo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8kwvAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Statehood for Hawaii",
+        "subtitle": "Hearings Before the Joint Committee on Hawaii, Congress of the United States, Seventy-fifth Congress, Second Session, Pursuant to S. Con. Res. 18, a Concurrent Resolution Relative to a Study of the Subject of Statehood and Other Subjects Relating to the Welfare of the Territory of Hawaii. October 6 to 22, 1937",
+        "authors": [
+          "United States. Congress. Joint Committee on Hawaii"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LOC:00186595178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 752,
+        "printType": "BOOK",
+        "categories": [
+          "Hawaii"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8kwvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8kwvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=8kwvAAAAMAAJ&pg=PA368&dq=Japanese+Language+Lesson&hl=&as_brr=7&as_pt=ALLTYPES&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8kwvAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8kwvAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=8kwvAAAAMAAJ&rdid=book-8kwvAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Statehood_for_Hawaii.epub?id=8kwvAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8kwvAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eJapanese language\u003c/b\u003e schools under Shinto auspices ? -A . Personally I do not know . ( See p . 656. ) Q. I asked you ... \u003cb\u003elesson\u003c/b\u003e , the Islands of Hawaii : second \u003cb\u003elesson\u003c/b\u003e , Playing on a Boat ; third \u003cb\u003elesson\u003c/b\u003e , Helping Your Mother ; fourth&nbsp;..."
+      }
+    }
+  ]
+}

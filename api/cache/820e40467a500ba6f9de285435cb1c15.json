@@ -1,0 +1,1375 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "knv07v5x9MAC",
+      "etag": "5z3EtPgqUAE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/knv07v5x9MAC",
+      "volumeInfo": {
+        "title": "Practical grammar of the Somali language, with a manual of sentences, by E. de Larajasse and C. de Sampont",
+        "authors": [
+          "Évangéliste de Larajasse"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:605312162"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Somali language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=knv07v5x9MAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=knv07v5x9MAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=knv07v5x9MAC&pg=PR7&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=knv07v5x9MAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=knv07v5x9MAC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=knv07v5x9MAC&rdid=book-knv07v5x9MAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Practical_grammar_of_the_Somali_language.epub?id=knv07v5x9MAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=knv07v5x9MAC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Évangéliste de Larajasse. More recently another work on the Somali \u003cb\u003elanguage\u003c/b\u003e has been published in Berlin by Dr. Schleicher . This , however , is more a study on the Somali \u003cb\u003elanguage\u003c/b\u003e in respect of its affinity with the other \u003cb\u003elanguages\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eQMTIxopIGAC",
+      "etag": "01z2ncEr6JI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eQMTIxopIGAC",
+      "volumeInfo": {
+        "title": "A Practical Grammar of the Avesta Language",
+        "subtitle": "Compared with Sanskrit, with a Chapter on Syntax and a Chapter on the Gâthâ Dialect",
+        "authors": [
+          "Kanga"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UBBE:UBBE-00036504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eQMTIxopIGAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eQMTIxopIGAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=eQMTIxopIGAC&pg=PR3&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eQMTIxopIGAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eQMTIxopIGAC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=eQMTIxopIGAC&rdid=book-eQMTIxopIGAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/A_Practical_Grammar_of_the_Avesta_Langua.epub?id=eQMTIxopIGAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eQMTIxopIGAC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e and literature , and of the scope and object of this Grammar , may not be out of place . So far back as 1862 the late Dr. Haug published &quot; An outline of a Grammar of the Zend \u003cb\u003eLanguage\u003c/b\u003e &quot; in his &quot; Essays on the Sacred \u003cb\u003eLanguage\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wZgtAQAAMAAJ",
+      "etag": "ua8L1lYFjos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wZgtAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Modern Language Teaching",
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105027578579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Languages, Modern"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wZgtAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wZgtAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=wZgtAQAAMAAJ&pg=PA16&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wZgtAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wZgtAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wZgtAQAAMAAJ&rdid=book-wZgtAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Modern_Language_Teaching.epub?id=wZgtAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wZgtAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "modern \u003cb\u003elanguages\u003c/b\u003e , and helped to spread abroad a belief that modern \u003cb\u003elanguages\u003c/b\u003e cannot be made the basis of a ... \u003cb\u003elanguage\u003c/b\u003e that they profess . For- tunately they are being found out , and unbiassed observers , both in this country&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YZlf5R8qsFEC",
+      "etag": "aaHv4hRi6ns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YZlf5R8qsFEC",
+      "volumeInfo": {
+        "title": "Library of Congress Subject Headings",
+        "authors": [
+          "Library of Congress",
+          "Library of Congress. Office for Subject Cataloging Policy"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C073814966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1396,
+        "printType": "BOOK",
+        "categories": [
+          "Subject headings, Library of Congress"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YZlf5R8qsFEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YZlf5R8qsFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=YZlf5R8qsFEC&pg=PA3776&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YZlf5R8qsFEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YZlf5R8qsFEC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YZlf5R8qsFEC&rdid=book-YZlf5R8qsFEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Library_of_Congress_Subject_Headings.epub?id=YZlf5R8qsFEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YZlf5R8qsFEC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e problem \u003cb\u003eLanguage\u003c/b\u003e purification USE \u003cb\u003eLanguage\u003c/b\u003e purism \u003cb\u003eLanguage\u003c/b\u003e purism ( May Subd Geog ) [ P40.5.L354 ] UF \u003cb\u003eLanguage\u003c/b\u003e and \u003cb\u003elanguages\u003c/b\u003e - Purism \u003cb\u003eLanguage\u003c/b\u003e purification Linguistic purity Purification of \u003cb\u003elanguage\u003c/b\u003e Purism , \u003cb\u003eLanguage\u003c/b\u003e Purity of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hpMtAQAAMAAJ",
+      "etag": "ReHwT9beK2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hpMtAQAAMAAJ",
+      "volumeInfo": {
+        "title": "... The Educational Value of the Study of Languages",
+        "authors": [
+          "Robert James Kellogg"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105047688671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Language and languages"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hpMtAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hpMtAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=hpMtAQAAMAAJ&pg=PA6&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hpMtAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hpMtAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=hpMtAQAAMAAJ&rdid=book-hpMtAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Educational_Value_of_the_Study_of_La.epub?id=hpMtAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Educational_Value_of_the_Study_of_La.pdf?id=hpMtAQAAMAAJ&hl=&output=pdf&sig=ACfU3U2dfwBBMwP8HOSS2WfyxmHDczgNXA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hpMtAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e . Space forbids to dwell in detail on its auxiliary value to different practical sciences , mis- sions , ethnology , history , prehistoric ar- chaeology , etc. ( 4 ) In all these capacities it may serve as the object of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "siRbAAAAQAAJ",
+      "etag": "dzPNsTPxVxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/siRbAAAAQAAJ",
+      "volumeInfo": {
+        "title": "A Practical Dictionary of the English and German Languages: German and English",
+        "authors": [
+          "Felix Flügel"
+        ],
+        "publishedDate": "1858",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "GENT:900000049148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1226,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=siRbAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=siRbAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=siRbAAAAQAAJ&pg=PA895&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=siRbAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=siRbAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=siRbAAAAQAAJ&rdid=book-siRbAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/A_Practical_Dictionary_of_the_English_an.epub?id=siRbAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/A_Practical_Dictionary_of_the_English_an.pdf?id=siRbAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0ZZT4VVOBM34FYax_aOBseCLdTjg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=siRbAAAAQAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e ; irony ; -vo- percriticism in \u003cb\u003elanguage\u003c/b\u003e ; -kenner , m . per- son thoroughly acquainted with a \u003cb\u003elanguage\u003c/b\u003e , grammarian , linguist ; -kenntniß , -kunde , f . philology , philological or grammatical learningor knowledge&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TH8xAQAAMAAJ",
+      "etag": "4JoXqEqtefQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TH8xAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The American Journal of Semitic Languages and Literatures",
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105026520812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Hebrew philology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TH8xAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TH8xAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=TH8xAQAAMAAJ&pg=PA101&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TH8xAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TH8xAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=TH8xAQAAMAAJ&rdid=book-TH8xAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_American_Journal_of_Semitic_Language.epub?id=TH8xAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_American_Journal_of_Semitic_Language.pdf?id=TH8xAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0ExFzelUATKDOIHEiYHY4Dy3yfEg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TH8xAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e , as e . g . the so - called Qaddiš , originally &quot; Concluding prayer after haggadic discourses in houses of mourning , &quot; cf. Delitzsch , Gesch . der jüd . Poesie , p . 136 , Note . 25. THE REMAINS OF THE WEST - ARAMAIC DIALECT&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rrsr9b7Hr2YC",
+      "etag": "KqSDTtwZdOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rrsr9b7Hr2YC",
+      "volumeInfo": {
+        "title": "A classified catalogue of ... educational works in use in Great Britain [by W. Low].",
+        "authors": [
+          "Walter Low"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:601792255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Rrsr9b7Hr2YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Rrsr9b7Hr2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=Rrsr9b7Hr2YC&pg=PA28&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Rrsr9b7Hr2YC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Rrsr9b7Hr2YC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Rrsr9b7Hr2YC&rdid=book-Rrsr9b7Hr2YC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/A_classified_catalogue_of_educational_wo.epub?id=Rrsr9b7Hr2YC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rrsr9b7Hr2YC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Walter Low. European \u003cb\u003eLanguages\u003c/b\u003e ( various ) . Csink&#39;s Practical Grammar of the Hungarian \u003cb\u003eLanguage\u003c/b\u003e , and His- torical ... \u003cb\u003eLanguage\u003c/b\u003e , edit . T. C. Donkin . 8vo . Introduction to the Grammar of the Romance \u003cb\u003eLanguage\u003c/b\u003e , trans . by C. B.&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u0dMAAAAMAAJ",
+      "etag": "39F+m7oLTtE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u0dMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The American Cyclopaedia",
+        "subtitle": "A Popular Dictionary for General Knowledge",
+        "authors": [
+          "George Ripley",
+          "Charles Anderson Dana"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015068381386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 896,
+        "printType": "BOOK",
+        "categories": [
+          "Encyclopedias and dictionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u0dMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u0dMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=u0dMAAAAMAAJ&pg=PA152&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u0dMAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u0dMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=u0dMAAAAMAAJ&rdid=book-u0dMAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_American_Cyclopaedia.epub?id=u0dMAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_American_Cyclopaedia.pdf?id=u0dMAAAAMAAJ&hl=&output=pdf&sig=ACfU3U2we5Zv4aP4YecfQVglo_ps_pTrIQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u0dMAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e ( Kalmuck ) ; 8 , northern \u003cb\u003elanguage\u003c/b\u003e ( Buriat ) . e . Tungusic : 1 , Mantchu ; 2 , La- mut ; 8 , Tchapogir . 2. Japanese . 3. Corean . 4 . Monosyllabic \u003cb\u003elanguages\u003c/b\u003e ( so named for convenience ) . a . Thibetic and Himalayan \u003cb\u003elanguages\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XOQ2AQAAMAAJ",
+      "etag": "XPq3Z9EooMQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XOQ2AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Census of India, 1911 ...",
+        "authors": [
+          "India. Census Commissioner"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002386320G"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Burma"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XOQ2AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XOQ2AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=XOQ2AQAAMAAJ&pg=PA185&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XOQ2AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XOQ2AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XOQ2AQAAMAAJ&rdid=book-XOQ2AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Census_of_India_1911.epub?id=XOQ2AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XOQ2AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e . ( 2 ) The distribution by \u003cb\u003elanguage\u003c/b\u003e of the population of each district , and ( 3 ) Comparison of caste and \u003cb\u003elanguage\u003c/b\u003e Tables . 225. The instructions at this Census in respect to the entry of \u003cb\u003elanguage\u003c/b\u003e were clear . The enumerator&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zEozAQAAMAAJ",
+      "etag": "R29t2wrD474",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zEozAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Journal",
+        "authors": [
+          "Royal Anthropological Institute of Great Britain and Ireland"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:31158003189452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "categories": [
+          "Anthropology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zEozAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zEozAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=zEozAQAAMAAJ&pg=PA473&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zEozAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zEozAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=zEozAQAAMAAJ&rdid=book-zEozAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal.epub?id=zEozAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal.pdf?id=zEozAQAAMAAJ&hl=&output=pdf&sig=ACfU3U2SxGBjOBXIZv8804Thyu9kGAY6aw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zEozAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e two thousand years ago does not prove that it is so now . The only rational principle is to look at the \u003cb\u003elanguage\u003c/b\u003e as it is now , and ask ourselves , How does- this \u003cb\u003elanguage\u003c/b\u003e express the relations of its words to one another ? If&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ns3AQAAMAAJ",
+      "etag": "TxOyLGikCDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ns3AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Ji xie gong cheng shi",
+        "subtitle": "(1917:JA-JY)",
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112043171419"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 622,
+        "printType": "BOOK",
+        "categories": [
+          "Mechanical engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-ns3AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-ns3AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=-ns3AQAAMAAJ&pg=PA298&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-ns3AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-ns3AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-ns3AQAAMAAJ&rdid=book--ns3AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Ji_xie_gong_cheng_shi.epub?id=-ns3AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ns3AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e had become the standard medium of scientific expression . Henceforth the source and idiom of all true science would bear the Teutonic hall - mark . The claims frequently put forth on behalf of the English \u003cb\u003elanguage\u003c/b\u003e as being a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "INQ4AQAAMAAJ",
+      "etag": "BDT5lZnu/BM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/INQ4AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Anglo-Saxon and Old English Vocabularies: Vocabularies",
+        "authors": [
+          "Thomas Wright"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924088431642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 546,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=INQ4AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=INQ4AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=INQ4AQAAMAAJ&pg=RA2-PP21&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=INQ4AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=INQ4AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=INQ4AQAAMAAJ&rdid=book-INQ4AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Anglo_Saxon_and_Old_English_Vocabularies.epub?id=INQ4AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Anglo_Saxon_and_Old_English_Vocabularies.pdf?id=INQ4AQAAMAAJ&hl=&output=pdf&sig=ACfU3U0z8GmQmWvzNIGpDIhBTx8rq-cdDw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=INQ4AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eLanguage\u003c/b\u003e . By the Rev. J. L. Dönne . Royal 8vo . pp . xlii . and 418 , sewed . Cape Town , 1857. 218 . Grey . HANDBOOK OF AFRICAN , AUSTRALIAN , AND POLYNESIAN PHI- LOLOGY , as represented in the Library of His Excellency Sir George&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FuNwhz6K26kC",
+      "etag": "Y8Bu0UeNSR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FuNwhz6K26kC",
+      "volumeInfo": {
+        "title": "The Athenaeum",
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HW3712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 732,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FuNwhz6K26kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FuNwhz6K26kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=FuNwhz6K26kC&pg=PA70&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FuNwhz6K26kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FuNwhz6K26kC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=FuNwhz6K26kC&rdid=book-FuNwhz6K26kC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Athenaeum.epub?id=FuNwhz6K26kC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FuNwhz6K26kC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e either in travelling or in conversing with foreigners at home . For the majority , reading the \u003cb\u003elanguage\u003c/b\u003e remained , but the reading must be intelligent and with correct pronuncia- tion and intonation . The sound must be as&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u2XhbK-ECAMC",
+      "etag": "HUwkZwr/vys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u2XhbK-ECAMC",
+      "volumeInfo": {
+        "title": "Original Sanskrit Texts on the Origin and History of the People of India",
+        "subtitle": "Their Religion and Institutions. Inquiry whether the hindus are or trans-himalayan origin and akin to the western branches of the indo european race",
+        "authors": [
+          "John Muir",
+          "Trübner & Co (Londres)"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCM:5325078685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u2XhbK-ECAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u2XhbK-ECAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=u2XhbK-ECAMC&pg=PA267&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u2XhbK-ECAMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u2XhbK-ECAMC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=u2XhbK-ECAMC&rdid=book-u2XhbK-ECAMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Original_Sanskrit_Texts_on_the_Origin_an.epub?id=u2XhbK-ECAMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u2XhbK-ECAMC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e admirable by its richness , its force , its harmony , and the perfection of its forms ; a \u003cb\u003elanguage\u003c/b\u003e in which were spontaneously reflected all its impressions , not merely its mild affections and its simple admiration , but also&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_8r7QI2rfY8C",
+      "etag": "HBhmQJSrZwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_8r7QI2rfY8C",
+      "volumeInfo": {
+        "title": "Bulletin",
+        "authors": [
+          "Catholic Educational Association"
+        ],
+        "publishedDate": "1912",
+        "description": "Nov. issue includes Proceedings of the annual meeting.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435024333775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_8r7QI2rfY8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_8r7QI2rfY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=_8r7QI2rfY8C&pg=PA234&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_8r7QI2rfY8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_8r7QI2rfY8C"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_8r7QI2rfY8C&rdid=book-_8r7QI2rfY8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Bulletin.epub?id=_8r7QI2rfY8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_8r7QI2rfY8C&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e ? Probably no one has pointed out the second of these dangers more clearly than Professor Thomas L. Blayney , of the Central University of Kentucky , in an address delivered before the Mod- ern \u003cb\u003eLanguage\u003c/b\u003e Association of America&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R400AQAAMAAJ",
+      "etag": "t8PkvbQl9Gg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R400AQAAMAAJ",
+      "volumeInfo": {
+        "title": "American Municipalities",
+        "subtitle": "Accounting, Paving, Street Cleaning, Sewers and Sewage, Municipal Law",
+        "authors": [
+          "John MacVicar",
+          "Frank G. Pierce"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924066502695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Municipal government"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R400AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R400AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=R400AQAAMAAJ&pg=RA2-PA60&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R400AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R400AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=R400AQAAMAAJ&rdid=book-R400AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/American_Municipalities.epub?id=R400AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/American_Municipalities.pdf?id=R400AQAAMAAJ&hl=&output=pdf&sig=ACfU3U3MOultAjzC6QtmSt7aLfz8yGlVVg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R400AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e . Third : All public addresses should be in the English \u003cb\u003elanguage\u003c/b\u003e . Fourth : Let those who cannot speak or understand the English \u003cb\u003elanguage\u003c/b\u003e conduct their religious worship in their homes . This course carried out in the spirit of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t3GN6y6ZiqUC",
+      "etag": "NFoqfXWi+LI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t3GN6y6ZiqUC",
+      "volumeInfo": {
+        "title": "British Dental Journal",
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:751352982"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1050,
+        "printType": "BOOK",
+        "categories": [
+          "Dentistry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t3GN6y6ZiqUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t3GN6y6ZiqUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=t3GN6y6ZiqUC&pg=PA1135&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t3GN6y6ZiqUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=t3GN6y6ZiqUC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=t3GN6y6ZiqUC&rdid=book-t3GN6y6ZiqUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/British_Dental_Journal.epub?id=t3GN6y6ZiqUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t3GN6y6ZiqUC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e . &quot; A great deal of money is being spent by us in regard to the different \u003cb\u003elanguages\u003c/b\u003e , and it would be ... \u003cb\u003elanguage\u003c/b\u003e we could understand . The Englishman says our \u003cb\u003elanguage\u003c/b\u003e is the \u003cb\u003elanguage\u003c/b\u003e of the future , the French- man says&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DpX2IkabGvsC",
+      "etag": "1UOrMkG0W6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DpX2IkabGvsC",
+      "volumeInfo": {
+        "title": "Indian Antiquary",
+        "subtitle": "A Journal of Oriental Research in Archaeology, History, Literature, Languages, Folklore Etc",
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11486626"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DpX2IkabGvsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DpX2IkabGvsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=DpX2IkabGvsC&pg=PA124&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DpX2IkabGvsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DpX2IkabGvsC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=DpX2IkabGvsC&rdid=book-DpX2IkabGvsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Indian_Antiquary.epub?id=DpX2IkabGvsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DpX2IkabGvsC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e is that known as the Baungshê or Hâká Chin , which \u003cb\u003elanguage\u003c/b\u003e we are told in the Preface is spoken over a considerable tract of country . Slight dialectic variations , it is true , occur in different parts , but these do not&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pX3TAAAAMAAJ",
+      "etag": "P1HuyJ6ALH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pX3TAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Celt, the Roman, and the Saxon",
+        "subtitle": "A History of the Early Inhabitants of Britain, Down to the Conversion of the Anglo-Saxons to Christianity. Illustrated by the Ancient Remains Brought to Light by Recent Research",
+        "authors": [
+          "Thomas Wright"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89100070473"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Ethnology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pX3TAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pX3TAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=pX3TAAAAMAAJ&pg=PA217&dq=language&hl=&as_brr=7&as_pt=ALLTYPES&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pX3TAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pX3TAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=pX3TAAAAMAAJ&rdid=book-pX3TAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Celt_the_Roman_and_the_Saxon.epub?id=pX3TAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Celt_the_Roman_and_the_Saxon.pdf?id=pX3TAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3xbda_L6ZSi2XATF8JdUcIBF9p0g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pX3TAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003elanguage\u003c/b\u003e into Britain . Not only did the Latin \u003cb\u003elanguage\u003c/b\u003e become that of the towns in the provinces , and no doubt that of the people also , but art and literature sprang up and to some degree flourished among them . One or two well&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/RT+9uHw3UXt3Cyst0KWWKEAoj/k</id>
+  <title>arXiv Query: search_query=all:business OR all:psychology&amp;id_list=&amp;start=0&amp;max_results=20</title>
+  <updated>2025-12-28T03:47:25Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:business+OR+all:psychology&amp;start=0&amp;max_results=20&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>14211</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/cs/0307039v1</id>
+    <title>Modeling Business</title>
+    <updated>2003-07-17T15:41:13Z</updated>
+    <link href="https://arxiv.org/abs/cs/0307039v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/cs/0307039v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Business concepts are studied using a metamodel-based approach, using UML 2.0. The Notation Independent Business concepts metamodel is introduced. The approach offers a mapping between different business modeling notations which could be used for bridging BM tools and boosting the MDA approach.</summary>
+    <category term="cs.CE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2003-07-17T15:41:13Z</published>
+    <arxiv:comment>5 pages, 7 figures, Proceedings of Internation Conference 'Modeling and Simulation of Business Systems", Vilnius, Lithuania (May 13-14, 2003)</arxiv:comment>
+    <arxiv:primary_category term="cs.CE"/>
+    <arxiv:journal_ref>Vitolins Valdis, Audris Kalnins. Modeling Business. Modeling and Simulation of Business Systems, Kaunas University of Technology Press, Vilnius, May 13-14, 2003, pp. 215.-220.</arxiv:journal_ref>
+    <author>
+      <name>Valdis Vitolins</name>
+    </author>
+    <author>
+      <name>Audris Kalnins</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1902.03854v2</id>
+    <title>Stratified communities in complex business networks</title>
+    <updated>2020-04-14T18:36:18Z</updated>
+    <link href="https://arxiv.org/abs/1902.03854v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1902.03854v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a new definition of the community structure of a network, which takes also into account how communities are stratified. In particular, we extend the standard concept of clustering coefficient and provide the local $l$-adjacency clustering coefficient of a node $i$. We define it as an opportunely weighted mean of the clustering coefficients of nodes which are at distance $l$ from $i$. The stratus of the community associated to node $i$ is identified by the distance $l$ from $i$, so that the standard clustering coefficient is a peculiar local $l$-adjacency clustering coefficient at stratus $l=0$. As the distance $l$ varies, the local $l$-adjacency clustering coefficient is then used to infer insights on the community structure of the entire network. Empirical experiments on special business networks are carried out. In particular, the analysis of air traffic networks validate the theoretical proposal and provide supporting arguments on its usefulness.</summary>
+    <category term="physics.soc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-02-11T13:05:58Z</published>
+    <arxiv:comment>This version accepted for publication on Journal of Business Research</arxiv:comment>
+    <arxiv:primary_category term="physics.soc-ph"/>
+    <arxiv:journal_ref>Journal of Business Research 2020</arxiv:journal_ref>
+    <author>
+      <name>Roy Cerqueti</name>
+    </author>
+    <author>
+      <name>Gian Paolo Clemente</name>
+    </author>
+    <author>
+      <name>Rosanna Grassi</name>
+    </author>
+    <arxiv:doi>10.1016/j.jbusres.2020.04.005</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.jbusres.2020.04.005" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2003.08170v1</id>
+    <title>Discovering Business Area Effects to Process Mining Analysis Using Clustering and Influence Analysis</title>
+    <updated>2020-03-18T11:58:01Z</updated>
+    <link href="https://arxiv.org/abs/2003.08170v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2003.08170v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A common challenge for improving business processes in large organizations is that business people in charge of the operations are lacking a fact-based understanding of the execution details, process variants, and exceptions taking place in business operations. While existing process mining methodologies can discover these details based on event logs, it is challenging to communicate the process mining findings to business people. In this paper, we present a novel methodology for discovering business areas that have a significant effect on the process execution details. Our method uses clustering to group similar cases based on process flow characteristics and then influence analysis for detecting those business areas that correlate most with the discovered clusters. Our analysis serves as a bridge between BPM people and business, people facilitating the knowledge sharing between these groups. We also present an example analysis based on publicly available real-life purchase order process data.</summary>
+    <category term="cs.DB" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-03-18T11:58:01Z</published>
+    <arxiv:comment>12 pages. Paper accepted in 23rd International Conference on Business Information Systems (BIS 2020) to be published in a proceedings edition of the Lecture Notes in Business Information Processing</arxiv:comment>
+    <arxiv:primary_category term="cs.DB"/>
+    <arxiv:journal_ref>Abramowicz W., Klein G. (eds) Business Information Systems. BIS 2020. Lecture Notes in Business Information Processing, vol 389. Springer, Cham</arxiv:journal_ref>
+    <author>
+      <name>Teemu Lehto</name>
+    </author>
+    <author>
+      <name>Markku Hinkka</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-030-53337-3_18</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-030-53337-3_18" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.12334v1</id>
+    <title>Business Model Contributions to Bank Profit Performance: A Machine Learning Approach</title>
+    <updated>2024-01-22T19:54:16Z</updated>
+    <link href="https://arxiv.org/abs/2401.12334v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2401.12334v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper analyzes the relation between bank profit performance and business models. Using a machine learning-based approach, we propose a methodological strategy in which balance sheet components' contributions to profitability are the identification instruments of business models. We apply this strategy to the European Union banking system from 1997 to 2021. Our main findings indicate that the standard retail-oriented business model is the profile that performs best in terms of profitability, whereas adopting a non-specialized business profile is a strategic decision that leads to poor profitability. Additionally, our findings suggest that the effect of high capital ratios on profitability depends on the business profile. The contributions of business models to profitability decreased during the Great Recession. Although the situation showed signs of improvement afterward, the European Union banking system's ability to yield returns is still problematic in the post-crisis period, even for the best-performing group.</summary>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-01-22T19:54:16Z</published>
+    <arxiv:comment>46 pages, 10 tables, 3 figures, submitted version of a paper published in Research in International Business and Finance</arxiv:comment>
+    <arxiv:primary_category term="econ.GN"/>
+    <arxiv:journal_ref>Research in International Business and Finance 64 (2023)</arxiv:journal_ref>
+    <author>
+      <name>F. Bolivar</name>
+    </author>
+    <author>
+      <name>Miguel A. Duran</name>
+    </author>
+    <author>
+      <name>A. Lozano-Vivas</name>
+    </author>
+    <arxiv:doi>10.1016/j.ribaf.2022.101870</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.ribaf.2022.101870" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2211.01104v1</id>
+    <title>A digital business ecosystem maturity model for personal service firms</title>
+    <updated>2022-11-02T13:25:43Z</updated>
+    <link href="https://arxiv.org/abs/2211.01104v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2211.01104v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Personal services can be found in sectors such as education, retail, hospitality, and craftsmanship. As of today, personal service firms lack the know-how and experience on how to implement processes and practices to effectively build digital business ecosystems. This becomes an obstacle for these kinds of firms to overcome the challenges of todays digital age. Based on the guidelines of Design Science Research (DSR), we address this gap by proposing a maturity model, which offers specific guidance for this sector to be able to achieve the transition from analog to digital. The design of the model is grounded in a systematic literature review, semi-structured interviews, and a validation test involving company representatives from the field of personal services, business ecosystems, and digitalization. Results revealed a series of dimensions, capabilities, and maturity stages indicating an evolutionary path towards digital maturity for personal service firms. Thus, leading them to achieve a digital business ecosystem.</summary>
+    <category term="cs.CY" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-11-02T13:25:43Z</published>
+    <arxiv:comment>This is a draft chapter. The final version is available in Handbook on Digital Business Ecosystems edited by Sabine Baumann, published in 2022, Edward Elgar Publishing Ltd https://doi.org/10.4337/9781839107191.00026</arxiv:comment>
+    <arxiv:primary_category term="cs.CY"/>
+    <arxiv:journal_ref>Handbook on Digital Business Ecosystems edited by Sabine Baumann, published in 2022, Edward Elgar Publishing Ltd</arxiv:journal_ref>
+    <author>
+      <name>Ricardo Guerrero</name>
+      <arxiv:affiliation>Jacobs University Bremen gGmbH</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Christoph Lattemann</name>
+      <arxiv:affiliation>Jacobs University Bremen gGmbH</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Simon Michalke</name>
+      <arxiv:affiliation>Jacobs University Bremen gGmbH</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Dominik Siemon</name>
+      <arxiv:affiliation>LUT University</arxiv:affiliation>
+    </author>
+    <arxiv:doi>10.4337/9781839107191.00026</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.4337/9781839107191.00026" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1711.01767v1</id>
+    <title>Kurt Lewin, psychological constructs and sources of brain cognitive activity</title>
+    <updated>2017-11-06T07:58:14Z</updated>
+    <link href="https://arxiv.org/abs/1711.01767v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1711.01767v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding mind-brain-environment relations is one of the key topics in psychology. Kurt Lewin, inspired by theoretical physics, tried to establish topological and vector psychology analyzing patterns of interaction between the individual and her/his environment. The time is ripe to reformulate his ambitious goals, searching for ways to interpret objectively measured brain processes in terms of suitable psychological constructs. Connecting cognitive and social psychology constructs to neurophenomics, as it is done now in psychiatry, should ground them in physical reality.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-11-06T07:58:14Z</published>
+    <arxiv:comment>10 pages, conference paper: XXVI Psychology Colloqium, Polish Academy of Science "Brain-behavior relations in psychology", June 2017</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>Włodzisław Duch</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2007.10900v2</id>
+    <title>A framework to evaluate the viability of robotic process automation for business process activities</title>
+    <updated>2020-09-09T11:33:43Z</updated>
+    <link href="https://arxiv.org/abs/2007.10900v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2007.10900v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Robotic process automation (RPA) is a technology for centralized automation of business processes. RPA automates user interaction with graphical user interfaces, whereby it promises efficiency gains and a reduction of human negligence during process execution. To harness these benefits, organizations face the challenge of classifying process activities as viable automation candidates for RPA. Therefore, this work aims to support practitioners in evaluating RPA automation candidates. We design a framework that consists of thirteen criteria grouped into five perspectives which offer different evaluation aspects. These criteria leverage a profound understanding of the process step. We demonstrate and evaluate the framework by applying it to a real-life data set.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-07-21T15:47:25Z</published>
+    <arxiv:comment>This is an accepted manuscript for the "RPA Forum" at the "Int. Conference on Business Process Management (BPM 2020)". The final authenticated version is available online at https://doi.org/10.1007/978-3-030-58779-6_14</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <arxiv:journal_ref>Business Process Management: Blockchain and Robotic Process Automation Forum. BPM 2020</arxiv:journal_ref>
+    <author>
+      <name>Christian Wellmann</name>
+    </author>
+    <author>
+      <name>Matthias Stierle</name>
+    </author>
+    <author>
+      <name>Sebastian Dunzer</name>
+    </author>
+    <author>
+      <name>Martin Matzner</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-030-58779-6_14</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-030-58779-6_14" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2009.13758v1</id>
+    <title>How do Visualization Designers Think? Design Cognition as a Core Aspect of Visualization Psychology</title>
+    <updated>2020-09-29T03:57:57Z</updated>
+    <link href="https://arxiv.org/abs/2009.13758v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2009.13758v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>There are numerous opportunities for engaging in research at the intersection of psychology and visualization. While most opportunities taken up by the VIS community will likely focus on the psychology of users, there are also opportunities for studying the psychology of designers. In this position paper, I argue the importance of studying design cognition as a necessary component of a holistic program of research on visualization psychology. I provide a brief overview of research on design cognition in other disciplines, and discuss opportunities for VIS to build an analogous research program. Doing so can lead to a stronger integration of research and design practice, can provide a better understanding of how to educate and train future designers, and will likely surface both challenges and opportunities for future research.</summary>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-09-29T03:57:57Z</published>
+    <arxiv:comment>IEEE VIS 2020 Workshop on Visualization Psychology (VisPsych)</arxiv:comment>
+    <arxiv:primary_category term="cs.HC"/>
+    <author>
+      <name>Paul Parsons</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.09802v2</id>
+    <title>Exploitation Business: Leveraging Information Asymmetry</title>
+    <updated>2024-06-16T09:42:51Z</updated>
+    <link href="https://arxiv.org/abs/2310.09802v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.09802v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper investigates the "Exploitation Business" model, which capitalizes on information asymmetry to exploit vulnerable populations. It focuses on businesses targeting non-experts or fraudsters who capitalize on information asymmetry to sell their products or services to desperate individuals. This phenomenon, also described as "profit-making activities based on informational exploitation," thrives on individuals' limited access to information, lack of expertise, and Fear of Missing Out (FOMO).
+  The recent advancement of social media and the rising trend of fandom business have accelerated the proliferation of such exploitation business models. Discussions on the empowerment and exploitation of fans in the digital media era present a restructuring of relationships between fans and media creators, highlighting the necessity of not overlooking the exploitation of fans' free labor.
+  This paper analyzes the various facets and impacts of exploitation business models, enriched by real-world examples from sectors like cryptocurrency and GenAI, thereby discussing their social, economic, and ethical implications. Moreover, through theoretical backgrounds and research, it explores similar themes like existing exploitation theories, commercial exploitation, and financial exploitation to gain a deeper understanding of the "Exploitation Business" subject.</summary>
+    <category term="cs.CY" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-15T11:18:54Z</published>
+    <arxiv:comment>Exploitation Business, Information Asymmetry, Digital Media, Social Media, Fandom Business, Cognitive Bias,Behavioral Economics, Ethical Implications, Cryptocurrency, Generative AI</arxiv:comment>
+    <arxiv:primary_category term="cs.CY"/>
+    <author>
+      <name>Kwangseob Ahn</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2302.00635v1</id>
+    <title>Shared SAT Solvers and SAT Memory in Distributed Business Applications</title>
+    <updated>2023-01-24T13:06:53Z</updated>
+    <link href="https://arxiv.org/abs/2302.00635v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2302.00635v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose a software architecture where SAT solvers act as a shared network resource for distributed business applications. There can be multiple parallel SAT solvers running either on dedicated hardware (a multi-processor system or a system with a specific GPU) or in the cloud. In order to avoid complex message passing between network nodes, we introduce a novel concept of the shared SAT memory, which can be accessed (in the read/write mode) from multiple different SAT solvers and modules implementing the business logic. As a result, our architecture allows for the easy generation, diversification, and solving of SAT instances from existing high-level programming languages without the need to think about the network. We demonstrate our architecture on the use case of transforming the integer factorization problem to SAT.</summary>
+    <category term="cs.DC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-01-24T13:06:53Z</published>
+    <arxiv:comment>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in CCIS vol. 1598, "Digital Business and Intelligent Systems: 15th International Baltic Conference, Baltic DB&amp;IS 2022, Riga, Latvia, July 4-6, 2022, Proceedings", pp.201-216, and is available online at https://doi.org/10.1007/978-3-031-09850-5_14</arxiv:comment>
+    <arxiv:primary_category term="cs.DC"/>
+    <arxiv:journal_ref>CCIS vol. 1598, "Digital Business and Intelligent Systems: 15th International Baltic Conference" (proceedings), pp.201-216, Riga, Latvia, July 4-6, 2022</arxiv:journal_ref>
+    <author>
+      <name>Sergejs Kozlovičs</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-031-09850-5_14</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-031-09850-5_14" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1412.2746v1</id>
+    <title>Taxation as an instrument of stimulation of innovation-active business entities</title>
+    <updated>2014-12-07T10:28:44Z</updated>
+    <link href="https://arxiv.org/abs/1412.2746v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1412.2746v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The analysis of the theoretical material revealed the lack of consensus on defini-tion of the tax stimulation of innovation-active business entities within the re-gional taxation. The definition tax stimulation of innovation-active business en-tities is specified.</summary>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-fin.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-12-07T10:28:44Z</published>
+    <arxiv:comment>innovation; business entity; taxation; tax rate; return on assets</arxiv:comment>
+    <arxiv:primary_category term="econ.GN"/>
+    <author>
+      <name>Andrey Nechaev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2010.00488v1</id>
+    <title>Developing Effective Community Network Analysis Tools According to Visualization Psychology</title>
+    <updated>2020-10-01T15:29:37Z</updated>
+    <link href="https://arxiv.org/abs/2010.00488v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2010.00488v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Visualization is a useful technology in health science, and especially for community network analysis. Because visualization applications in healthcare are typically risk-averse, health psychologists can play a significant role in ensuring appropriate and effective uses of visualization techniques in healthcare. In this paper, we examine the role of health psychologists in the triangle of "health science", "visualization technology", and "visualization psychology". We conclude that health psychologists can use visualization to aid data intelligence workflows in healthcare and health psychology, while researching into visualization psychology to aid the improvement and optimization of data visualization processes.</summary>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-10-01T15:29:37Z</published>
+    <arxiv:comment>The first author gives a presentation at IEEE VIS2020 Workshop on Visualization Psychology based on this arXiv report</arxiv:comment>
+    <arxiv:primary_category term="cs.HC"/>
+    <author>
+      <name>Darren J. Edwards</name>
+    </author>
+    <author>
+      <name>Min Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1812.05395v1</id>
+    <title>Conceptualizing Business Process Maps</title>
+    <updated>2018-12-13T12:58:09Z</updated>
+    <link href="https://arxiv.org/abs/1812.05395v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1812.05395v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Process maps provide a high-level overview of an organisation's business processes. While used for many years in different shapes and forms, there is little shared understanding of the concept and its relationship to enterprise architecture. In this report we position the concept of business process map within the domain of enterprise architecture. Based on literature, we provide a conceptualisation of the process map as a business process architecture model that can be integrated with the broader enterprise architecture model. From our conceptualisation we derive requirements for designing a meta-model of a modelling language for process maps. The design of this meta-model is the subject of a research paper, entitled Architecting Business Process Maps, for which this report acts as a complement that details the underlying process map conceptualisation.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2018-12-13T12:58:09Z</published>
+    <arxiv:comment>10 pages, 6 figures, technical report that complements the research paper Architecting Business Process Maps of the same authors</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Geert Poels</name>
+    </author>
+    <author>
+      <name>Felix Garcia</name>
+    </author>
+    <author>
+      <name>Francisco Ruiz</name>
+    </author>
+    <author>
+      <name>Mario Piattini</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2103.12832v2</id>
+    <title>How to Motivate and Engage Generation Clash of Clans at Work? Emergent Properties of Business Gamification Elements in the Digital Economy</title>
+    <updated>2021-04-18T12:04:58Z</updated>
+    <link href="https://arxiv.org/abs/2103.12832v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2103.12832v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Organisations are currently lacking in developing and implementing business systems in meaningful ways to motivate and engage their staff. This is particularly salient as the average employee spends eleven cumulative years of their life at work, however less than one third of the workforce are actually engaged in their duties throughout their career. Such low levels of engagement are particularly prominent with younger employees, referred to as Generation Y (GenY), who are the least engaged of all groups at work. However, they will dedicate around five cumulative years of their life immersed playing video games such as Clash of Clans, whether for social, competitive, extrinsic, or intrinsic motivational factors. Using behavioural concepts derived from video games, and applying game design elements in business systems to motivate employees in the digital economy, is a concept which has come to be recognised as Business Gamification. Thus, the purpose of this research paper is to further our understanding of game design elements for business, and investigate their properties from design to implementation in gamified systems. Following a two-year ethnographic style study with both a system development, and a communication agency largely staffed with GenY employees, findings suggest properties in game design elements are emergent and temporal in their instantiations.</summary>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-03-23T20:52:19Z</published>
+    <arxiv:comment>International Gamification for Business Conference</arxiv:comment>
+    <arxiv:primary_category term="econ.GN"/>
+    <author>
+      <name>Nicholas Dacre</name>
+    </author>
+    <author>
+      <name>Panos Constantinides</name>
+    </author>
+    <author>
+      <name>Joe Nandhakumar</name>
+    </author>
+    <arxiv:doi>10.2139/ssrn.3809398</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.2139/ssrn.3809398" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1405.6427v1</id>
+    <title>Applying Quantum Principles to Psychology</title>
+    <updated>2014-05-25T20:30:58Z</updated>
+    <link href="https://arxiv.org/abs/1405.6427v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1405.6427v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This article starts out with a detailed example illustrating the utility of applying quantum probability to psychology. Then it describes several alternative mathematical methods for mapping fundamental quantum concepts (such as state preparation, measurement, state evolution) to fundamental psychological concepts (such as stimulus, response, information processing). For state preparation, we consider both pure states and densities with mixtures. For measurement, we consider projective measurements and positive operator valued measurements. The advantages and disadvantages of each method with respect to applications in psychology are discussed.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-05-25T20:30:58Z</published>
+    <arxiv:comment>one of the aims of this review paper is to attract attention of experts in quantum information and probability (as well as in quantum foundations) to a new rapidly growing field of applications of quantum theory. The paper establishes the correspondence between concepts of quantum theory and concepts of cognitive science and psychology. Submitted to Physica Scripta</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <arxiv:journal_ref>Phys. Scr. T 163 (2014) 014007</arxiv:journal_ref>
+    <author>
+      <name>Jerome R Busemeyer</name>
+    </author>
+    <author>
+      <name>Zheng Wang</name>
+    </author>
+    <author>
+      <name>Andrei Khrennikov</name>
+    </author>
+    <author>
+      <name>Irina Basieva</name>
+    </author>
+    <arxiv:doi>10.1088/0031-8949/2014/T163/014007</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1088/0031-8949/2014/T163/014007" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1109.1088v1</id>
+    <title>A Framework for Business Intelligence Application using Ontological Classification</title>
+    <updated>2011-09-06T07:07:26Z</updated>
+    <link href="https://arxiv.org/abs/1109.1088v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1109.1088v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Every business needs knowledge about their competitors to survive better. One of the information repositories is web. Retrieving Specific information from the web is challenging. An Ontological model is developed to capture specific information by using web semantics. From the Ontology model, the relations between the data are mined using decision tree. From all these a new framework is developed for Business Intelligence.</summary>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2011-09-06T07:07:26Z</published>
+    <arxiv:comment>Classification, Ontology, Business Intelligence, Datamining, Inverted Index, Ontology Tree Index</arxiv:comment>
+    <arxiv:primary_category term="cs.IR"/>
+    <arxiv:journal_ref>International Journal of Engineering Science and Technology (IJEST) Vol. 3 No. 2, (2011) 1213-1221</arxiv:journal_ref>
+    <author>
+      <name>A. Martin</name>
+    </author>
+    <author>
+      <name>D. Maladhy</name>
+    </author>
+    <author>
+      <name>V. Prasanna Venkatesan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2208.12946v2</id>
+    <title>Nondistributivity of human logic and violation of response replicability effect in cognitive psychology</title>
+    <updated>2022-12-07T21:29:02Z</updated>
+    <link href="https://arxiv.org/abs/2208.12946v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2208.12946v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The aim of this paper is to promote quantum logic as one of the basic tools for analyzing human reasoning. We compare it with classical (Boolean) logic and highlight the role of violation of the distributive law for conjunction and disjunction. It is well known that nondistributivity is equivalent to incompatibility of logical variables -- the impossibility to assign jointly the two-valued truth values to these variables. A natural question arises as to whether quantum logical nondistributivity in human logic can be tested experimentally. We show that testing the response replicability effect (RRE) in cognitive psychology is equivalent to testing nondistributivity -- under the prevailing conjecture that the mental state update generated by observation is described as orthogonal projection of the mental state vector (the projective update conjecture of Wang and Busemeyer). A simple test of RRE is suggested. In contrast to the previous works in quantum-like modeling, we proceed in the state-dependent framework; in particular, distributivity, compatibility, and RRE are considered in a fixed mental state. In this framework, we improve the previous result on the impossibility to combine question order and response replicability effects by using (von Neumann-Lüders) projective measurements.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-08-27T07:13:21Z</published>
+    <arxiv:comment>submitted to Journal of Mathematical Psychology</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>Masanao Ozawa</name>
+    </author>
+    <author>
+      <name>Andrei Khrennikov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2001.00219v2</id>
+    <title>Business Value of ITSM. Requirement or Mirage?</title>
+    <updated>2020-01-08T00:29:46Z</updated>
+    <link href="https://arxiv.org/abs/2001.00219v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2001.00219v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper builds on a presentation provided as part of a recent panel session on ITSM (IT Service Management) Business Value at the NYC itSMF (Service Management Forum) Local Interest Group meeting. The panel presentation explored the definition of Business Value and how ITSM itself could be measured to produce business value. While ITSM and ITIL have been in use for years it often remains a challenge to demonstrate the business value of these methods or even to understand business value itself. This paper expands on the panel discussion on what is meant by business value and how it can be found (if at all) in the context of ITSM development and process improvement.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2020-01-01T15:06:33Z</published>
+    <arxiv:comment>10 pages, 4 figures. Keywords. IT Service Management, ITSM, ITIL, ITIL 4, DevOps, IT Operations, Process Engineering, Process Improvement, Quality, Business Value, Metrics, GQM, Lean, Cost of Quality, Capability Maturity Models</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>James J. Cusick</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.03435v1</id>
+    <title>Psychological Assessments with Large Language Models: A Privacy-Focused and Cost-Effective Approach</title>
+    <updated>2024-02-05T19:00:02Z</updated>
+    <link href="https://arxiv.org/abs/2402.03435v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.03435v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This study explores the use of Large Language Models (LLMs) to analyze text comments from Reddit users, aiming to achieve two primary objectives: firstly, to pinpoint critical excerpts that support a predefined psychological assessment of suicidal risk; and secondly, to summarize the material to substantiate the preassigned suicidal risk level. The work is circumscribed to the use of "open-source" LLMs that can be run locally, thereby enhancing data privacy. Furthermore, it prioritizes models with low computational requirements, making it accessible to both individuals and institutions operating on limited computing budgets. The implemented strategy only relies on a carefully crafted prompt and a grammar to guide the LLM's text completion. Despite its simplicity, the evaluation metrics show outstanding results, making it a valuable privacy-focused and cost-effective approach. This work is part of the Computational Linguistics and Clinical Psychology (CLPsych) 2024 shared task.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CY" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-05T19:00:02Z</published>
+    <arxiv:comment>Accepted to the Workshop on Computational Linguistics and Clinical Psychology (CLPsych) at EACL 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Sergi Blanco-Cuaresma</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2409.13295v1</id>
+    <title>Towards Nudging in BPM: A Human-Centric Approach for Sustainable Business Processes</title>
+    <updated>2024-09-20T07:43:53Z</updated>
+    <link href="https://arxiv.org/abs/2409.13295v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.13295v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Business Process Management (BPM) is mostly centered around finding technical solutions. Nudging is an approach from psychology and behavioral economics to guide people's behavior. In this paper, we show how nudging can be integrated into the different phases of the BPM lifecycle. Further, we outline how nudging can be an alternative strategy for more sustainable business processes. We show how the integration of nudging offers significant opportunities for process mining and business process management in general to be more human-centric. We also discuss challenges that come with the adoption of nudging.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-20T07:43:53Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <arxiv:journal_ref>Lecture Notes in Business Information Processing 533 (2025) 738-750</arxiv:journal_ref>
+    <author>
+      <name>Cielo Gonzalez Moyano</name>
+    </author>
+    <author>
+      <name>Finn Klessascheck</name>
+    </author>
+    <author>
+      <name>Saimir Bala</name>
+    </author>
+    <author>
+      <name>Stephan A. Fahrenkrog-Petersen</name>
+    </author>
+    <author>
+      <name>Jan Mendling</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-031-82225-4_54</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-031-82225-4_54" title="doi"/>
+  </entry>
+</feed>

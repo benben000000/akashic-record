@@ -1,0 +1,21 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+
+# Vendor / Dependencies
+/vendor/
+/node_modules/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,34 @@
+[
+  {
+    "field": "API Integration",
+    "findings": [
+      {
+        "fact": "Internet Archive Advanced Search API returns JSON with 'output=json'.",
+        "implication": "Direct frontend consumption is possible, but PHP proxy is safer for separating keys (if we needed them) and rate limiting."
+      },
+      {
+        "fact": "Open Library API provides cleaner metadata (Covers, Authors) for books than raw IA.",
+        "implication": "Primary search should use Open Library for 'Books' and IA for 'General'."
+      },
+      {
+        "fact": "Internet Archive Viewer can be embedded or linked.",
+        "implication": "We cannot host the files, so we will use the 'Read' button to open the reliable IA BookReader in a new tab or iframe."
+      }
+    ],
+    "status": "CONSENSUS"
+  },
+  {
+    "field": "Frontend Architecture",
+    "findings": [
+      {
+        "fact": "User requires 'IOS Aesthetics' and 'Simple' usage in XAMPP.",
+        "implication": "Single Page Application (SPA) architecture is best. PHP will serve `index.html` and act as a thin API layer if needed."
+      },
+      {
+        "fact": "TailwindCSS via CDN is simplest for 'no build step' requirement, but a local build (Vite) provides better performance/optimization.",
+        "implication": "User said 'simple', 'figure it out'. I will use a 'Modern Lite' stack: Vanilla JS + Tailwind via CDN (for ease of editing by user) OR a very simple Vite build ensuring a single `dist` folder to drop in XAMPP. Given 'IOS aesthetics', I'll use a local Tailwind CSS file or CDN for rapid prototyping perfection."
+      }
+    ],
+    "status": "CONSENSUS"
+  }
+]

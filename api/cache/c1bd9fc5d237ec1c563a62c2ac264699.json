@@ -1,0 +1,530 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/CXNjipwrMdDVIFsoxHXR2hFBpvI</id>
+  <title>arXiv Query: search_query=all:Japanese OR all:Language OR all:Lesson&amp;id_list=&amp;start=0&amp;max_results=20</title>
+  <updated>2025-12-28T04:05:35Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:Japanese+OR+(all:Language+OR+all:Lesson)&amp;start=0&amp;max_results=20&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>178822</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2503.06765v1</id>
+    <title>Effectiveness of Zero-shot-CoT in Japanese Prompts</title>
+    <updated>2025-03-09T20:42:38Z</updated>
+    <link href="https://arxiv.org/abs/2503.06765v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.06765v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We compare the effectiveness of zero-shot Chain-of-Thought (CoT) prompting in Japanese and English using ChatGPT-3.5 and 4o-mini. The technique of zero-shot CoT, which involves appending a phrase such as "Let's think step by step" to a prompt to encourage reasoning before answering, has been shown to offer LLM performance improvements in mathematical and reasoning tasks, particularly in English. We investigate how these effects transfer to Japanese using the Japanese Multi-task Language Understanding Benchmark (JMMLU) and the Multi-task Language Understanding Benchmark (MMLU). Our results show that while zero-shot CoT prompting can lead to notable performance gains for some prompt categories in GPT-3.5, its impact in GPT-4o-mini is associated with significant performance declines. However, for Japanese prompts there remain certain categories, such as college mathematics and abstract algebra, that still exhibit improvements, despite the broader trend of diminishing effectiveness in more advanced models.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-09T20:42:38Z</published>
+    <arxiv:comment>NLP2025 Workshop on Japanese Language Resources (JLR2025)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Shusuke Takayama</name>
+    </author>
+    <author>
+      <name>Ian Frank</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2406.02050v4</id>
+    <title>JBBQ: Japanese Bias Benchmark for Analyzing Social Biases in Large Language Models</title>
+    <updated>2025-06-13T09:44:56Z</updated>
+    <link href="https://arxiv.org/abs/2406.02050v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2406.02050v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>With the development of large language models (LLMs), social biases in these LLMs have become a pressing issue. Although there are various benchmarks for social biases across languages, the extent to which Japanese LLMs exhibit social biases has not been fully investigated. In this study, we construct the Japanese Bias Benchmark dataset for Question Answering (JBBQ) based on the English bias benchmark BBQ, with analysis of social biases in Japanese LLMs. The results show that while current open Japanese LLMs with more parameters show improved accuracies on JBBQ, their bias scores increase. In addition, prompts with a warning about social biases and chain-of-thought prompting reduce the effect of biases in model outputs, but there is room for improvement in extracting the correct evidence from contexts in Japanese. Our dataset is available at https://github.com/ynklab/JBBQ_data.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-06-04T07:31:06Z</published>
+    <arxiv:comment>Accepted to the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP2025) at ACL2025</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Hitomi Yanaka</name>
+    </author>
+    <author>
+      <name>Namgi Han</name>
+    </author>
+    <author>
+      <name>Ryoma Kumon</name>
+    </author>
+    <author>
+      <name>Jie Lu</name>
+    </author>
+    <author>
+      <name>Masashi Takeshita</name>
+    </author>
+    <author>
+      <name>Ryo Sekizawa</name>
+    </author>
+    <author>
+      <name>Taisei Kato</name>
+    </author>
+    <author>
+      <name>Hiromi Arai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/cs/9906003v1</id>
+    <title>The syntactic processing of particles in Japanese spoken language</title>
+    <updated>1999-06-02T12:03:14Z</updated>
+    <link href="https://arxiv.org/abs/cs/9906003v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/cs/9906003v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Particles fullfill several distinct central roles in the Japanese language. They can mark arguments as well as adjuncts, can be functional or have semantic funtions. There is, however, no straightforward matching from particles to functions, as, e.g., GA can mark the subject, the object or an adjunct of a sentence. Particles can cooccur. Verbal arguments that could be identified by particles can be eliminated in the Japanese sentence. And finally, in spoken language particles are often omitted. A proper treatment of particles is thus necessary to make an analysis of Japanese sentences possible. Our treatment is based on an empirical investigation of 800 dialogues. We set up a type hierarchy of particles motivated by their subcategorizational and modificational behaviour. This type hierarchy is part of the Japanese syntax in VERBMOBIL.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>1999-06-02T12:03:14Z</published>
+    <arxiv:comment>8 pages</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of the 13th Pacific Asia Conference on Language, Information and Computation. 1999</arxiv:journal_ref>
+    <author>
+      <name>Melanie Siegel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2410.17250v2</id>
+    <title>JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation</title>
+    <updated>2025-03-19T08:24:14Z</updated>
+    <link href="https://arxiv.org/abs/2410.17250v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2410.17250v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Accelerating research on Large Multimodal Models (LMMs) in non-English languages is crucial for enhancing user experiences across broader populations. In this paper, we introduce JMMMU (Japanese MMMU), the first large-scale Japanese benchmark designed to evaluate LMMs on expert-level tasks based on the Japanese cultural context. To facilitate comprehensive culture-aware evaluation, JMMMU features two complementary subsets: (i) culture-agnostic (CA) subset, where the culture-independent subjects (e.g., Math) are selected and translated into Japanese, enabling one-to-one comparison with its English counterpart MMMU; and (ii) culture-specific (CS) subset, comprising newly crafted subjects that reflect Japanese cultural context. Using the CA subset, we observe performance drop in many LMMs when evaluated in Japanese, which is purely attributable to language variation. Using the CS subset, we reveal their inadequate Japanese cultural understanding. Further, by combining both subsets, we identify that some LMMs perform well on the CA subset but not on the CS subset, exposing a shallow understanding of the Japanese language that lacks depth in cultural understanding. We hope this work will not only help advance LMM performance in Japanese but also serve as a guideline to create high-standard, culturally diverse benchmarks for multilingual LMM development. The project page is https://mmmu-japanese-benchmark.github.io/JMMMU/.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-10-22T17:59:56Z</published>
+    <arxiv:comment>Accepted at NAACL 2025. Project page: https://mmmu-japanese-benchmark.github.io/JMMMU/</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Shota Onohara</name>
+    </author>
+    <author>
+      <name>Atsuyuki Miyai</name>
+    </author>
+    <author>
+      <name>Yuki Imajuku</name>
+    </author>
+    <author>
+      <name>Kazuki Egashira</name>
+    </author>
+    <author>
+      <name>Jeonghun Baek</name>
+    </author>
+    <author>
+      <name>Xiang Yue</name>
+    </author>
+    <author>
+      <name>Graham Neubig</name>
+    </author>
+    <author>
+      <name>Kiyoharu Aizawa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2412.14471v2</id>
+    <title>Why We Build Local Large Language Models: An Observational Analysis from 35 Japanese and Multilingual LLMs</title>
+    <updated>2025-10-16T05:37:15Z</updated>
+    <link href="https://arxiv.org/abs/2412.14471v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2412.14471v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Why do we build local large language models (LLMs)? What should a local LLM learn from the target language? Which abilities can be transferred from other languages? Do language-specific scaling laws exist? To explore these research questions, we evaluated 35 Japanese, English, and multilingual LLMs on 19 evaluation benchmarks for Japanese and English, taking Japanese as a local language. Adopting an observational approach, we analyzed correlations of benchmark scores, and conducted principal component analysis (PCA) on the scores to derive \textit{ability factors} of local LLMs. We found that training on English text can improve the scores of academic subjects in Japanese (JMMLU). In addition, it is unnecessary to specifically train on Japanese text to enhance abilities for solving Japanese code generation, arithmetic reasoning, commonsense, and reading comprehension tasks. In contrast, training on Japanese text could improve question-answering tasks about Japanese knowledge and English-Japanese translation, which indicates that abilities for solving these two tasks can be regarded as \textit{Japanese abilities} for LLMs. Furthermore, we confirmed that the Japanese abilities scale with the computational budget for Japanese text.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-12-19T02:39:26Z</published>
+    <arxiv:comment>Accepted as a spotlight at the 1st workshop on Multilingual and Equitable Language Technologies (MELT), COLM 2025</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Koshiro Saito</name>
+    </author>
+    <author>
+      <name>Sakae Mizuki</name>
+    </author>
+    <author>
+      <name>Masanari Ohi</name>
+    </author>
+    <author>
+      <name>Taishi Nakamura</name>
+    </author>
+    <author>
+      <name>Taihei Shiotani</name>
+    </author>
+    <author>
+      <name>Koki Maeda</name>
+    </author>
+    <author>
+      <name>Youmi Ma</name>
+    </author>
+    <author>
+      <name>Kakeru Hattori</name>
+    </author>
+    <author>
+      <name>Kazuki Fujii</name>
+    </author>
+    <author>
+      <name>Takumi Okamoto</name>
+    </author>
+    <author>
+      <name>Shigeki Ishida</name>
+    </author>
+    <author>
+      <name>Hiroya Takamura</name>
+    </author>
+    <author>
+      <name>Rio Yokota</name>
+    </author>
+    <author>
+      <name>Naoaki Okazaki</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2404.17143v2</id>
+    <title>Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper</title>
+    <updated>2024-08-15T15:40:15Z</updated>
+    <link href="https://arxiv.org/abs/2404.17143v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2404.17143v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Dominant pre-trained language models (PLMs) have demonstrated the potential risk of memorizing and outputting the training data. While this concern has been discussed mainly in English, it is also practically important to focus on domain-specific PLMs. In this study, we pre-trained domain-specific GPT-2 models using a limited corpus of Japanese newspaper articles and evaluated their behavior. Experiments replicated the empirical finding that memorization of PLMs is related to the duplication in the training data, model size, and prompt length, in Japanese the same as in previous English studies. Furthermore, we attempted membership inference attacks, demonstrating that the training data can be detected even in Japanese, which is the same trend as in English. The study warns that domain-specific PLMs, sometimes trained with valuable private data, can ''copy and paste'' on a large scale.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-04-26T04:12:08Z</published>
+    <arxiv:comment>The 17th International Natural Language Generation Conference</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Shotaro Ishihara</name>
+    </author>
+    <author>
+      <name>Hiromu Takahashi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1907.06210v1</id>
+    <title>Simple Automatic Post-editing for Arabic-Japanese Machine Translation</title>
+    <updated>2019-07-14T11:56:20Z</updated>
+    <link href="https://arxiv.org/abs/1907.06210v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1907.06210v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A common bottleneck for developing machine translation (MT) systems for some language pairs is the lack of direct parallel translation data sets, in general and in certain domains. Alternative solutions such as zero-shot models or pivoting techniques are successful in getting a strong baseline, but are often below the more supported language-pair systems. In this paper, we focus on Arabic-Japanese machine translation, a less studied language pair; and we work with a unique parallel corpus of Arabic news articles that were manually translated to Japanese. We use this parallel corpus to adapt a state-of-the-art domain/genre agnostic neural MT system via a simple automatic post-editing technique. Our results and detailed analysis suggest that this approach is quite viable for less supported language pairs in specific domains.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-07-14T11:56:20Z</published>
+    <arxiv:comment>Machine translation, Automatic Post editing, Arabic, Japanese</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Ella Noll</name>
+    </author>
+    <author>
+      <name>Mai Oudah</name>
+    </author>
+    <author>
+      <name>Nizar Habash</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2403.15062v1</id>
+    <title>Construction of a Japanese Financial Benchmark for Large Language Models</title>
+    <updated>2024-03-22T09:40:27Z</updated>
+    <link href="https://arxiv.org/abs/2403.15062v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2403.15062v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>With the recent development of large language models (LLMs), models that focus on certain domains and languages have been discussed for their necessity. There is also a growing need for benchmarks to evaluate the performance of current LLMs in each domain. Therefore, in this study, we constructed a benchmark comprising multiple tasks specific to the Japanese and financial domains and performed benchmark measurements on some models. Consequently, we confirmed that GPT-4 is currently outstanding, and that the constructed benchmarks function effectively. According to our analysis, our benchmark can differentiate benchmark scores among models in all performance ranges by combining tasks with different difficulties.</summary>
+    <category term="q-fin.CP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-03-22T09:40:27Z</published>
+    <arxiv:comment>9 pages, Joint Workshop of the 7th Financial Technology and Natural Language Processing (FinNLP), the 5th Knowledge Discovery from Unstructured Data in Financial Services (KDF), and The 4th Workshop on Economics and Natural Language Processing (ECONLP) In conjunction with LREC-COLING-2024</arxiv:comment>
+    <arxiv:primary_category term="q-fin.CP"/>
+    <author>
+      <name>Masanori Hirano</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2503.21676v2</id>
+    <title>How do language models learn facts? Dynamics, curricula and hallucinations</title>
+    <updated>2025-07-24T14:04:20Z</updated>
+    <link href="https://arxiv.org/abs/2503.21676v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.21676v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models accumulate vast knowledge during pre-training, yet the dynamics governing this acquisition remain poorly understood. This work investigates the learning dynamics of language models on a synthetic factual recall task, uncovering three key findings: First, language models learn in three phases, exhibiting a performance plateau before acquiring precise factual knowledge. Mechanistically, this plateau coincides with the formation of attention-based circuits that support recall. Second, the training data distribution significantly impacts learning dynamics, as imbalanced distributions lead to shorter plateaus. Finally, hallucinations emerge simultaneously with knowledge, and integrating new knowledge into the model through fine-tuning is challenging, as it quickly corrupts its existing parametric memories. Our results emphasize the importance of data distribution in knowledge acquisition and suggest novel data scheduling strategies to accelerate neural network training.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-27T16:43:45Z</published>
+    <arxiv:comment>Accepted at the 2nd Conference on Language Modeling (2025)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Conference on Language Modeling (2025)</arxiv:journal_ref>
+    <author>
+      <name>Nicolas Zucchet</name>
+    </author>
+    <author>
+      <name>Jörg Bornschein</name>
+    </author>
+    <author>
+      <name>Stephanie Chan</name>
+    </author>
+    <author>
+      <name>Andrew Lampinen</name>
+    </author>
+    <author>
+      <name>Razvan Pascanu</name>
+    </author>
+    <author>
+      <name>Soham De</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.00031v1</id>
+    <title>Discriminating Similar Languages: Evaluations and Explorations</title>
+    <updated>2016-09-30T20:57:52Z</updated>
+    <link href="https://arxiv.org/abs/1610.00031v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1610.00031v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present an analysis of the performance of machine learning classifiers on discriminating between similar languages and language varieties. We carried out a number of experiments using the results of the two editions of the Discriminating between Similar Languages (DSL) shared task. We investigate the progress made between the two tasks, estimate an upper bound on possible performance using ensemble and oracle combination, and provide learning curves to help us understand which languages are more challenging. A number of difficult sentences are identified and investigated further with human annotation.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-09-30T20:57:52Z</published>
+    <arxiv:comment>Proceedings of Language Resources and Evaluation (LREC)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of Language Resources and Evaluation (LREC). Portoroz, Slovenia. pp 1800-1807 (2016)</arxiv:journal_ref>
+    <author>
+      <name>Cyril Goutte</name>
+    </author>
+    <author>
+      <name>Serge Léger</name>
+    </author>
+    <author>
+      <name>Shervin Malmasi</name>
+    </author>
+    <author>
+      <name>Marcos Zampieri</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.12327v2</id>
+    <title>Intersectional Bias in Japanese Large Language Models from a Contextualized Perspective</title>
+    <updated>2025-07-27T07:14:26Z</updated>
+    <link href="https://arxiv.org/abs/2506.12327v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.12327v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>An increasing number of studies have examined the social bias of rapidly developed large language models (LLMs). Although most of these studies have focused on bias occurring in a single social attribute, research in social science has shown that social bias often occurs in the form of intersectionality -- the constitutive and contextualized perspective on bias aroused by social attributes. In this study, we construct the Japanese benchmark inter-JBBQ, designed to evaluate the intersectional bias in LLMs on the question-answering setting. Using inter-JBBQ to analyze GPT-4o and Swallow, we find that biased output varies according to its contexts even with the equal combination of social attributes.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-14T03:30:07Z</published>
+    <arxiv:comment>Accepted to the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP2025) at ACL2025</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Hitomi Yanaka</name>
+    </author>
+    <author>
+      <name>Xinqi He</name>
+    </author>
+    <author>
+      <name>Jie Lu</name>
+    </author>
+    <author>
+      <name>Namgi Han</name>
+    </author>
+    <author>
+      <name>Sunjin Oh</name>
+    </author>
+    <author>
+      <name>Ryoma Kumon</name>
+    </author>
+    <author>
+      <name>Yuma Matsuoka</name>
+    </author>
+    <author>
+      <name>Katsuhiko Watabe</name>
+    </author>
+    <author>
+      <name>Yuko Itatsu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2103.14757v1</id>
+    <title>An Automated Multiple-Choice Question Generation Using Natural Language Processing Techniques</title>
+    <updated>2021-03-26T22:39:59Z</updated>
+    <link href="https://arxiv.org/abs/2103.14757v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2103.14757v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automatic multiple-choice question generation (MCQG) is a useful yet challenging task in Natural Language Processing (NLP). It is the task of automatic generation of correct and relevant questions from textual data. Despite its usefulness, manually creating sizeable, meaningful and relevant questions is a time-consuming and challenging task for teachers. In this paper, we present an NLP-based system for automatic MCQG for Computer-Based Testing Examination (CBTE).We used NLP technique to extract keywords that are important words in a given lesson material. To validate that the system is not perverse, five lesson materials were used to check the effectiveness and efficiency of the system. The manually extracted keywords by the teacher were compared to the auto-generated keywords and the result shows that the system was capable of extracting keywords from lesson materials in setting examinable questions. This outcome is presented in a user-friendly interface for easy accessibility.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-03-26T22:39:59Z</published>
+    <arxiv:comment>Recently accepted by the International Journal on Natural Language Computing (IJNLC) awaiting publication, 11 pages, 4 figures, 5 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>International Journal on Natural Language Computing(IJNLC), April 2021</arxiv:journal_ref>
+    <author>
+      <name>Chidinma A. Nwafor</name>
+    </author>
+    <author>
+      <name>Ikechukwu E. Onyenwe</name>
+    </author>
+    <arxiv:doi>10.5121/ijnlc.2021.10201</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.5121/ijnlc.2021.10201" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2511.10664v1</id>
+    <title>Evaluating Modern Large Language Models on Low-Resource and Morphologically Rich Languages:A Cross-Lingual Benchmark Across Cantonese, Japanese, and Turkish</title>
+    <updated>2025-11-05T22:09:53Z</updated>
+    <link href="https://arxiv.org/abs/2511.10664v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2511.10664v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) have achieved impressive results in high-resource languages like English, yet their effectiveness in low-resource and morphologically rich languages remains underexplored. In this paper, we present a comprehensive evaluation of seven cutting-edge LLMs -- including GPT-4o, GPT-4, Claude~3.5~Sonnet, LLaMA~3.1, Mistral~Large~2, LLaMA-2~Chat~13B, and Mistral~7B~Instruct -- on a new cross-lingual benchmark covering \textbf{Cantonese, Japanese, and Turkish}. Our benchmark spans four diverse tasks: open-domain question answering, document summarization, English-to-X translation, and culturally grounded dialogue. We combine \textbf{human evaluations} (rating fluency, factual accuracy, and cultural appropriateness) with automated metrics (e.g., BLEU, ROUGE) to assess model performance.
+  Our results reveal that while the largest proprietary models (GPT-4o, GPT-4, Claude~3.5) generally lead across languages and tasks, significant gaps persist in culturally nuanced understanding and morphological generalization. Notably, GPT-4o demonstrates robust multilingual performance even on cross-lingual tasks, and Claude~3.5~Sonnet achieves competitive accuracy on knowledge and reasoning benchmarks. However, all models struggle to some extent with the unique linguistic challenges of each language, such as Turkish agglutinative morphology and Cantonese colloquialisms. Smaller open-source models (LLaMA-2~13B, Mistral~7B) lag substantially in fluency and accuracy, highlighting the resource disparity. We provide detailed quantitative results, qualitative error analysis, and discuss implications for developing more culturally aware and linguistically generalizable LLMs. Our benchmark and evaluation data are released to foster reproducibility and further research.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-11-05T22:09:53Z</published>
+    <arxiv:comment>This paper requires XeLaTeX for proper Unicode rendering of Japanese and Cantonese text</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Chengxuan Xia</name>
+    </author>
+    <author>
+      <name>Qianye Wu</name>
+    </author>
+    <author>
+      <name>Hongbin Guan</name>
+    </author>
+    <author>
+      <name>Sixuan Tian</name>
+    </author>
+    <author>
+      <name>Yilun Hao</name>
+    </author>
+    <author>
+      <name>Xiaoyu Wu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/cs/9912006v1</id>
+    <title>Resolution of Verb Ellipsis in Japanese Sentence using Surface Expressions and Examples</title>
+    <updated>1999-12-13T05:19:46Z</updated>
+    <link href="https://arxiv.org/abs/cs/9912006v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/cs/9912006v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Verbs are sometimes omitted in Japanese sentences. It is necessary to recover omitted verbs for purposes of language understanding, machine translation, and conversational processing. This paper describes a practical way to recover omitted verbs by using surface expressions and examples. We experimented the resolution of verb ellipses by using this information, and obtained a recall rate of 73% and a precision rate of 66% on test sentences.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>1999-12-13T05:19:46Z</published>
+    <arxiv:comment>6 pages, 0 figures. Computation and Language</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Natural Language Processing Pacific Rim Symposium 1997 (NLPRS'97), Cape Panwa Hotel, Phuket, Thailand, December 2-4, 1997 p75-80</arxiv:journal_ref>
+    <author>
+      <name>M. Murata</name>
+      <arxiv:affiliation>Kyoto University</arxiv:affiliation>
+    </author>
+    <author>
+      <name>M. Nagao</name>
+      <arxiv:affiliation>Kyoto University</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1501.03191v1</id>
+    <title>Annotating Cognates and Etymological Origin in Turkic Languages</title>
+    <updated>2015-01-13T22:14:57Z</updated>
+    <link href="https://arxiv.org/abs/1501.03191v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1501.03191v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Turkic languages exhibit extensive and diverse etymological relationships among lexical items. These relationships make the Turkic languages promising for exploring automated translation lexicon induction by leveraging cognate and other etymological information. However, due to the extent and diversity of the types of relationships between words, it is not clear how to annotate such information. In this paper, we present a methodology for annotating cognates and etymological origin in Turkic languages. Our method strives to balance the amount of research effort the annotator expends with the utility of the annotations for supporting research on improving automated translation lexicon induction.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-01-13T22:14:57Z</published>
+    <arxiv:comment>5 pages, 8 tables; appeared in Proceedings of the First Workshop on Language Resources and Technologies for Turkic Languages at the Eighth International Conference on Language Resources and Evaluation (LREC'12), pages 47-51, Istanbul, Turkey, May 2012. European Language Resources Association</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>In Proceedings of the First Workshop on Language Resources and Technologies for Turkic Languages at LREC'12, pages 47-51, Istanbul, Turkey, May 2012. European Language Resources Association</arxiv:journal_ref>
+    <author>
+      <name>Benjamin S. Mericli</name>
+    </author>
+    <author>
+      <name>Michael Bloodgood</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2409.02228v1</id>
+    <title>Unforgettable Generalization in Language Models</title>
+    <updated>2024-09-03T18:55:54Z</updated>
+    <link href="https://arxiv.org/abs/2409.02228v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2409.02228v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>When language models (LMs) are trained to forget (or "unlearn'') a skill, how precisely does their behavior change? We study the behavior of transformer LMs in which tasks have been forgotten via fine-tuning on randomized labels. Such LMs learn to generate near-random predictions for individual examples in the "training'' set used for forgetting. Across tasks, however, LMs exhibit extreme variability in whether LM predictions change on examples outside the training set. In some tasks (like entailment classification), forgetting generalizes robustly, and causes models to produce uninformative predictions on new task instances; in other tasks (like physical commonsense reasoning and scientific question answering) forgetting affects only the training examples, and models continue to perform the "forgotten'' task accurately even for examples very similar to those that appeared in the training set. Dataset difficulty is not predictive of whether a behavior can be forgotten; instead, generalization in forgetting is (weakly) predicted by the confidence of LMs' initial task predictions and the variability of LM representations of training data, with low confidence and low variability both associated with greater generalization. Perhaps most surprisingly, random-label forgetting appears to be somewhat insensitive to the contents of the training set: for example, models trained on science questions with random labels continue to answer other science questions accurately, but begin to produce random labels on entailment classification tasks. Finally, we show that even generalizable forgetting is shallow: linear probes trained on LMs' representations can still perform tasks reliably after forgetting. Our results highlight the difficulty and unpredictability of performing targeted skill removal from models via fine-tuning.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-09-03T18:55:54Z</published>
+    <arxiv:comment>18 pages, 9 figures, published in First Conference on Language Modeling 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <arxiv:journal_ref>First Conference on Language Modeling (2024)</arxiv:journal_ref>
+    <author>
+      <name>Eric Zhang</name>
+    </author>
+    <author>
+      <name>Leshem Chosen</name>
+    </author>
+    <author>
+      <name>Jacob Andreas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2505.00013v1</id>
+    <title>Performance Evaluation of Emotion Classification in Japanese Using RoBERTa and DeBERTa</title>
+    <updated>2025-04-22T07:51:37Z</updated>
+    <link href="https://arxiv.org/abs/2505.00013v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2505.00013v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Background Practical applications such as social media monitoring and customer-feedback analysis require accurate emotion detection for Japanese text, yet resource scarcity and class imbalance hinder model performance.
+  Objective This study aims to build a high-accuracy model for predicting the presence or absence of eight Plutchik emotions in Japanese sentences.
+  Methods Using the WRIME corpus, we transform reader-averaged intensity scores into binary labels and fine-tune four pre-trained language models (BERT, RoBERTa, DeBERTa-v3-base, DeBERTa-v3-large). For context, we also assess two large language models (TinySwallow-1.5B-Instruct and ChatGPT-4o). Accuracy and F1-score serve as evaluation metrics.
+  Results DeBERTa-v3-large attains the best mean accuracy (0.860) and F1-score (0.662), outperforming all other models. It maintains robust F1 across both high-frequency emotions (e.g., Joy, Anticipation) and low-frequency emotions (e.g., Anger, Trust). The LLMs lag, with ChatGPT-4o and TinySwallow-1.5B-Instruct scoring 0.527 and 0.292 in mean F1, respectively.
+  Conclusion The fine-tuned DeBERTa-v3-large model currently offers the most reliable solution for binary emotion classification in Japanese. We release this model as a pip-installable package (pip install deberta-emotion-predictor). Future work should augment data for rare emotions, reduce model size, and explore prompt engineering to improve LLM performance.
+  This manuscript is under review for possible publication in New Generation Computing.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-04-22T07:51:37Z</published>
+    <arxiv:comment>14 pages, 3 tables, 3 appendices. Submitted to New Generation Computing. Includes comparisons between fine-tuned PLMs and LLMs on Japanese emotion classification. Code available at https://pypi.org/project/deberta-emotion-predictor/</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Yoichi Takenaka</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2307.14850v6</id>
+    <title>Turkish Native Language Identification V2</title>
+    <updated>2025-11-07T13:46:02Z</updated>
+    <link href="https://arxiv.org/abs/2307.14850v6" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2307.14850v6" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents the first application of Native Language Identification (NLI) for the Turkish language. NLI is the task of automatically identifying an individual's native language (L1) based on their writing or speech in a non-native language (L2). While most NLI research has focused on L2 English, our study extends this scope to L2 Turkish by analyzing a corpus of texts written by native speakers of Albanian, Arabic and Persian. We leverage a cleaned version of the Turkish Learner Corpus and demonstrate the effectiveness of syntactic features, comparing a structural Part-of-Speech n-gram model to a hybrid model that retains function words. Our models achieve promising results, and we analyze the most predictive features to reveal L1-specific transfer effects. We make our data and code publicly available for further study.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-07-27T13:28:31Z</published>
+    <arxiv:comment>Turkish Native Language Identification V2: L1 Influence of Arabic, Persian, and Albanian</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>In Proceedings of the 6th International Conference on Natural Language and Speech Processing (ICNLSP 2023)</arxiv:journal_ref>
+    <author>
+      <name>Ahmet Yavuz Uluslu</name>
+    </author>
+    <author>
+      <name>Gerold Schneider</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.00030v1</id>
+    <title>Modeling Language Change in Historical Corpora: The Case of Portuguese</title>
+    <updated>2016-09-30T20:57:01Z</updated>
+    <link href="https://arxiv.org/abs/1610.00030v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1610.00030v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a number of experiments to model changes in a historical Portuguese corpus composed of literary texts for the purpose of temporal text classification. Algorithms were trained to classify texts with respect to their publication date taking into account lexical variation represented as word n-grams, and morphosyntactic variation represented by part-of-speech (POS) distribution. We report results of 99.8% accuracy using word unigram features with a Support Vector Machines classifier to predict the publication date of documents in time intervals of both one century and half a century. A feature analysis is performed to investigate the most informative features for this task and how they are linked to language change.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-09-30T20:57:01Z</published>
+    <arxiv:comment>Proceedings of Language Resources and Evaluation (LREC)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <arxiv:journal_ref>Proceedings of Language Resources and Evaluation (LREC). Portoroz, Slovenia. pp. 4098-4104 (2016)</arxiv:journal_ref>
+    <author>
+      <name>Marcos Zampieri</name>
+    </author>
+    <author>
+      <name>Shervin Malmasi</name>
+    </author>
+    <author>
+      <name>Mark Dras</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.14620v1</id>
+    <title>JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction</title>
+    <updated>2025-12-16T17:33:00Z</updated>
+    <link href="https://arxiv.org/abs/2512.14620v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.14620v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper introduces JMMMU-Pro, an image-based Japanese Multi-discipline Multimodal Understanding Benchmark, and Vibe Benchmark Construction, a scalable construction method. Following the evolution from MMMU to MMMU-Pro, JMMMU-Pro extends JMMMU by composing the question image and question text into a single image, thereby creating a benchmark that requires integrated visual-textual understanding through visual perception. To build JMMMU-Pro, we propose Vibe Benchmark Construction, a methodology in which an image generative model (e.g., Nano Banana Pro) produces candidate visual questions, and humans verify the outputs and, when necessary, regenerate with adjusted prompts to ensure quality. By leveraging Nano Banana Pro's highly realistic image generation capabilities and its ability to embed clean Japanese text, we construct a high-quality benchmark at low cost, covering a wide range of background and layout designs. Experimental results show that all open-source LMMs struggle substantially with JMMMU-Pro, underscoring JMMMU-Pro as an important benchmark for guiding future efforts in the open-source community. We believe that JMMMU-Pro provides a more rigorous evaluation tool for assessing the Japanese capabilities of LMMs and that our Vibe Benchmark Construction also offers an efficient guideline for future development of image-based VQA benchmarks.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-16T17:33:00Z</published>
+    <arxiv:comment>Project page: https://mmmu-japanese-benchmark.github.io/JMMMU_Pro/</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Atsuyuki Miyai</name>
+    </author>
+    <author>
+      <name>Shota Onohara</name>
+    </author>
+    <author>
+      <name>Jeonghun Baek</name>
+    </author>
+    <author>
+      <name>Kiyoharu Aizawa</name>
+    </author>
+  </entry>
+</feed>

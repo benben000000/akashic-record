@@ -1,0 +1,147 @@
+/* assets/css/style.css */
+
+/* 
+ * iOS Aesthetics - Design Tokens 
+ * Font: Inter (via Google Fonts in index.php)
+ */
+
+:root {
+    --ios-bg: #F2F2F7;
+    --ios-card-bg: rgba(255, 255, 255, 0.72);
+    --ios-card-border: rgba(255, 255, 255, 0.5);
+    --ios-shadow: 0 4px 24px -1px rgba(0, 0, 0, 0.05);
+    --ios-blue: #007AFF;
+    --ios-text-primary: #1C1C1E;
+    --ios-text-secondary: #8E8E93;
+    --blur-val: 20px;
+}
+
+body {
+    background-color: var(--ios-bg);
+    color: var(--ios-text-primary);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+
+/* Glassmorphism Utilities */
+.glass {
+    background: var(--ios-card-bg);
+    backdrop-filter: blur(var(--blur-val));
+    -webkit-backdrop-filter: blur(var(--blur-val));
+    border: 1px solid var(--ios-card-border);
+}
+
+.glass-panel {
+    background: rgba(255, 255, 255, 0.85);
+    /* Slightly more opaque for content */
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+    box-shadow: var(--ios-shadow);
+    border-radius: 20px;
+}
+
+/* Custom Scrollbar (Subtle) */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Scrollbar hidden but functional */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Animations */
+
+/* Simple, standard transition (No GPU heavy lifts) */
+.hover-lift {
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+    will-change: auto;
+    /* Let browser decide, avoid memory hogging */
+}
+
+.hover-lift:hover {
+    background-color: rgba(255, 255, 255, 0.95);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Heart Animation */
+@keyframes heartBounce {
+    0% {
+        transform: scale(1);
+    }
+
+    40% {
+        transform: scale(1.2);
+    }
+
+    70% {
+        transform: scale(0.9);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.animate-heart {
+    animation: heartBounce 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Search Bar Specifics */
+.search-input {
+    background: rgba(118, 118, 128, 0.12);
+    transition: all 0.2s ease;
+}
+
+.search-input:focus {
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 0 2px var(--ios-blue);
+}
+
+/* Text Truncation */
+.line-clamp-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Skeleton Loading Pulse - Kept simple */
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: .5;
+    }
+}
+
+.skeleton {
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}

@@ -1,0 +1,1374 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OFUBAAAAYAAJ",
+      "etag": "gPCZIfsf1RM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OFUBAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Training for Foreign Service",
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044079807855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Business education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OFUBAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OFUBAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=OFUBAAAAYAAJ&pg=PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OFUBAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OFUBAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OFUBAAAAYAAJ&rdid=book-OFUBAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Training_for_Foreign_Service.epub?id=OFUBAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OFUBAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS PSYCHOLOGY\u003c/b\u003e AND ETHICS . By JAMES E. LOUGH . Professor of Experimental Psychology and Method , School of Pedagogy , New York University . The study of psychology and ethics is rapidly gaining recognition as funda- mental or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1zRFAQAAMAAJ",
+      "etag": "e9XiEwfx1CU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1zRFAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Salaries of Administrative Officers and Their Assistants in School Systems of Cities of 25,000 Inhabitants Or More",
+        "authors": [
+          "Florence Cornelia Fox",
+          "John Charles Gebhart",
+          "Music Teachers National Association",
+          "National Committee on Mathematical Requirements",
+          "Percival Hall",
+          "Rollo La Verne Lyman",
+          "Sophia Christena Gleim",
+          "Walter Sylvanus Deffenbaugh",
+          "Wortley Fuller Rudd",
+          "Philip Frederic Fackenthall"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112048375809"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1014,
+        "printType": "BOOK",
+        "categories": [
+          "Business education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1zRFAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1zRFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=1zRFAQAAMAAJ&pg=RA15-PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1zRFAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1zRFAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1zRFAQAAMAAJ&rdid=book-1zRFAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Salaries_of_Administrative_Officers_and.epub?id=1zRFAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1zRFAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS PSYCHOLOGY\u003c/b\u003e AND ETHICS . By JAMES E. LOUGH . Professor of Experimental Psychology and Method , School of Pedagogy , New York University . The study of psychology and ethics is rapidly gaining recognition as funda- mental or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EK5xktQY6KsC",
+      "etag": "nYU/+aoPZSE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EK5xktQY6KsC",
+      "volumeInfo": {
+        "title": "Bulletin - Bureau of Education",
+        "authors": [
+          "United States. Bureau of Education"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105126758718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1004,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EK5xktQY6KsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EK5xktQY6KsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=EK5xktQY6KsC&pg=RA14-PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EK5xktQY6KsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EK5xktQY6KsC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=EK5xktQY6KsC&rdid=book-EK5xktQY6KsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Bulletin_Bureau_of_Education.epub?id=EK5xktQY6KsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EK5xktQY6KsC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS PSYCHOLOGY\u003c/b\u003e AND ETHICS . By JAMES E. LOUGH . Professor of Experimental Psychology and Method , School of Pedagogy , New York University . The study of psychology and ethics is rapidly gaining recognition as funda- mental or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsjNAAAAMAAJ",
+      "etag": "E5rBrb1kL2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsjNAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Magazine of Business",
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015010780008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 816,
+        "printType": "BOOK",
+        "categories": [
+          "Business"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RsjNAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RsjNAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=RsjNAAAAMAAJ&pg=PA258&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RsjNAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RsjNAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=RsjNAAAAMAAJ&rdid=book-RsjNAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Magazine_of_Business.epub?id=RsjNAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Magazine_of_Business.pdf?id=RsjNAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0Y6SUBKP1cluHpiBrSvi2ojCpGig&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsjNAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ebusiness psychology\u003c/b\u003e and will be very glad to receive any suggestions from readers of SYSTEM on this subject ; and to advise them in the appli- cation of these principles to their own businesses . SYSTEM&#39;S purpose in publishing these&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kXoiAQAAMAAJ",
+      "etag": "vlwWMhfwkaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kXoiAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Johns Hopkins University Circular",
+        "authors": [
+          "Johns Hopkins University"
+        ],
+        "publishedDate": "1916",
+        "description": "Includes University catalogues, President's report, Financial report, registers, announcement material, etc.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015076386609"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1408,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kXoiAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kXoiAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=kXoiAQAAMAAJ&pg=RA2-PA130&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kXoiAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kXoiAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=kXoiAQAAMAAJ&rdid=book-kXoiAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Johns_Hopkins_University_Circular.epub?id=kXoiAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Johns_Hopkins_University_Circular.pdf?id=kXoiAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0O8R4vk0DX_OJHiwKDNejOY7aUzw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kXoiAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBusiness Psychology\u003c/b\u003e . Money &amp; Banking ; \u003cb\u003eBusiness Psychology\u003c/b\u003e . Salesmanship and Adv . 3609 Park Heights Av . Life Insurance . MARY THOMAS MCCURLEY . 2730 N. Charles St. \u003cb\u003eBusiness Psychology\u003c/b\u003e . 1413 N. Central Av . RAYMOND ARCHIE PHEBUS&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bSZFAQAAMAAJ",
+      "etag": "kCMD20Dg98c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bSZFAQAAMAAJ",
+      "volumeInfo": {
+        "title": "General Catalogue",
+        "authors": [
+          "Boston University"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112110835136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1704,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bSZFAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bSZFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=bSZFAQAAMAAJ&pg=RA2-PA155&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bSZFAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bSZFAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=bSZFAQAAMAAJ&rdid=book-bSZFAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/General_Catalogue.epub?id=bSZFAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bSZFAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... business problems in psychology . The technique of laboratory work ; problems in sensation , perception , memory , and similar topics . Laboratory materials provided by the College without extra fee . S - 14 . \u003cb\u003eBusiness Psychology\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pguM02TVTjMC",
+      "etag": "DV5kLYmJBVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pguM02TVTjMC",
+      "volumeInfo": {
+        "title": "Journal of Applied Psychology",
+        "authors": [
+          "Granville Stanley Hall"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108035394181"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 834,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pguM02TVTjMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pguM02TVTjMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=pguM02TVTjMC&pg=PA385&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pguM02TVTjMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pguM02TVTjMC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=pguM02TVTjMC&rdid=book-pguM02TVTjMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal_of_Applied_Psychology.epub?id=pguM02TVTjMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pguM02TVTjMC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBusiness Psychology\u003c/b\u003e . Chicago , LaSalle Extension University , 1917. pp . XI and 296 . This book is a good presentation of psychology and its results as applied applied to industry and commerce . It begins by showing the place of psychology&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1wANAAAAIAAJ",
+      "etag": "m6WvVWOfkIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1wANAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Foundations of Normal and Abnormal Psychology",
+        "authors": [
+          "Boris Sidis"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019996589"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1wANAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1wANAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=1wANAAAAIAAJ&pg=PR5&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1wANAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1wANAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1wANAAAAIAAJ&rdid=book-1wANAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Foundations_of_Normal_and_Abnormal_P.epub?id=1wANAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Foundations_of_Normal_and_Abnormal_P.pdf?id=1wANAAAAIAAJ&hl=&output=pdf&sig=ACfU3U1ghXSq1B9Lpk4Z0FfsOUVSWpEN5w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1wANAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ebusiness psychology\u003c/b\u003e for the reason that such claims are nothing but a snare and delusion . Of course I do not expect that this warning of mine as to the misleading character of applied psychology will be taken graciously . There is at&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BxcUAAAAIAAJ",
+      "etag": "MZMtle7PAOk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BxcUAAAAIAAJ",
+      "volumeInfo": {
+        "title": "University Register",
+        "subtitle": "Preliminary Issue",
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433076015480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BxcUAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BxcUAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=BxcUAAAAIAAJ&pg=RA3-PA130&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BxcUAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BxcUAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BxcUAAAAIAAJ&rdid=book-BxcUAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/University_Register.epub?id=BxcUAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BxcUAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBusiness Psychology\u003c/b\u003e . Money &amp; Banking ; \u003cb\u003eBusiness Psychology\u003c/b\u003e . Salesmanship and Adv . 3609 Park Heights Av . Life Insurance . MARY THOMAS MCCURLEY . 2730 N. Charles St. \u003cb\u003eBusiness Psychology\u003c/b\u003e . JOHN J. PFAFF . 1413 N. Central Av&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0rEKAAAAIAAJ",
+      "etag": "Q9jYK6voxAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0rEKAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Statistics of Land-grant Colleges and Universities",
+        "authors": [
+          "United States. Office of Education"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015005641504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1188,
+        "printType": "BOOK",
+        "categories": [
+          "Agricultural colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.14.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0rEKAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0rEKAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=0rEKAAAAIAAJ&pg=PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0rEKAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0rEKAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0rEKAAAAIAAJ&rdid=book-0rEKAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Statistics_of_Land_grant_Colleges_and_Un.epub?id=0rEKAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Statistics_of_Land_grant_Colleges_and_Un.pdf?id=0rEKAAAAIAAJ&hl=&output=pdf&sig=ACfU3U1L96D9MZ_Mrknr-ozwWroiT3MFKg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0rEKAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS PSYCHOLOGY\u003c/b\u003e AND ETHICS . By JAMES E. LOUGH . Professor of Experimental Psychology and Method , School of Pedagogy , New York University . The study of psychology and ethics is rapidly gaining recognition as funda- mental or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2GNKVTB50_UC",
+      "etag": "rD3mLFo0Mo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2GNKVTB50_UC",
+      "volumeInfo": {
+        "title": "Bulletin",
+        "subtitle": "(United States. Bureau of Education) - Bureau of Education",
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PURD:32754080703527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 760,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2GNKVTB50_UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2GNKVTB50_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=2GNKVTB50_UC&pg=RA6-PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2GNKVTB50_UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2GNKVTB50_UC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2GNKVTB50_UC&rdid=book-2GNKVTB50_UC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Bulletin.epub?id=2GNKVTB50_UC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2GNKVTB50_UC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS PSYCHOLOGY\u003c/b\u003e AND ETHICS . By JAMES E. LOUGH . Professor of Experimental Psychology and Method , School of Pedagogy , New York University . The study of psychology and ethics is rapidly gaining recognition as funda- mental or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0xUoAAAAYAAJ",
+      "etag": "veh6tE6HXB4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0xUoAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Annual Convention",
+        "authors": [
+          "National Association of Corporation Schools (U.S.)"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101064647553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 902,
+        "printType": "BOOK",
+        "categories": [
+          "Corporations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0xUoAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0xUoAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=0xUoAAAAYAAJ&pg=PA416&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0xUoAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0xUoAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0xUoAAAAYAAJ&rdid=book-0xUoAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Annual_Convention.epub?id=0xUoAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Annual_Convention.pdf?id=0xUoAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1xi9rFBhoKyRzufZ7WJZtq1MdT1A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0xUoAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS\u003c/b\u003e MEN Atkinson , W. W. The \u003cb\u003ePsychology\u003c/b\u003e of Salesmanship . 1913 . Elizabeth Towne Co. , Holyoke , Mass ... \u003cb\u003eBusiness\u003c/b\u003e . 1909. Harper Bros. , N. Y. Dresser , H. W. Human Efficiency ; A \u003cb\u003ePsychological\u003c/b\u003e Study of Modern Problems . 1912&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5lZLAAAAYAAJ",
+      "etag": "2x7qMOhN77A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5lZLAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bulletin",
+        "authors": [
+          "United States. Office of Education"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924061141382"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 876,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5lZLAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5lZLAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=5lZLAAAAYAAJ&pg=RA13-PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5lZLAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5lZLAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=5lZLAAAAYAAJ&rdid=book-5lZLAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Bulletin.epub?id=5lZLAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Bulletin.pdf?id=5lZLAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1Q5hKefqMXYrcAj4cdKdTNb_pPSg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5lZLAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBUSINESS PSYCHOLOGY\u003c/b\u003e AND ETHICS . By JAMES E. LOUGH . Professor of Experimental Psychology and Method , School of Pedagogy , New York University . The study of psychology and ethics is rapidly gaining recognition as funda- mental or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6y6t8QmsM-AC",
+      "etag": "AqXW3WqtYMI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6y6t8QmsM-AC",
+      "volumeInfo": {
+        "title": "School of the Liberal Arts",
+        "authors": [
+          "University of Pittsburgh"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112105896457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Universities and colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6y6t8QmsM-AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6y6t8QmsM-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=6y6t8QmsM-AC&pg=RA2-PA49&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6y6t8QmsM-AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6y6t8QmsM-AC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=6y6t8QmsM-AC&rdid=book-6y6t8QmsM-AC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/School_of_the_Liberal_Arts.epub?id=6y6t8QmsM-AC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6y6t8QmsM-AC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "University of Pittsburgh. 15 , 16. \u003cb\u003ePSYCHOLOGY\u003c/b\u003e APPLIED TO \u003cb\u003eBUSINESS\u003c/b\u003e 1 &amp; 2 Sem . 2 cr . ea . ( a ) A study of the Principles of \u003cb\u003ePsychology\u003c/b\u003e . ( b ) Applications of these \u003cb\u003epsychological\u003c/b\u003e principles to \u003cb\u003ebusiness\u003c/b\u003e practices . Given in the Evening&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "234QAAAAYAAJ",
+      "etag": "+cc8cvjDDwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/234QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Annals of the American Academy of Political and Social Science",
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044106249097"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 928,
+        "printType": "BOOK",
+        "categories": [
+          "Political science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=234QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=234QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=234QAAAAYAAJ&pg=PA306&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=234QAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=234QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=234QAAAAYAAJ&rdid=book-234QAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Annals_of_the_American_Academy_of_Politi.epub?id=234QAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Annals_of_the_American_Academy_of_Politi.pdf?id=234QAAAAYAAJ&hl=&output=pdf&sig=ACfU3U25fnct5Rw59HXwQGKzg1EyW_0IVA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=234QAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003epsychology\u003c/b\u003e directly to the needs and the interests of the \u003cb\u003ebusiness\u003c/b\u003e world . In his preface , Professor Münsterberg deprecates the fact that so much of our \u003cb\u003ebusiness\u003c/b\u003e literature has been written in the merely popular and snappy style&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jai7Bm7WwokC",
+      "etag": "GsdVPaeOESQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jai7Bm7WwokC",
+      "volumeInfo": {
+        "title": "Announcements",
+        "authors": [
+          "Northwestern University (Evanston, Ill.). School of Commerce"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112105882028"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jai7Bm7WwokC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jai7Bm7WwokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=jai7Bm7WwokC&pg=PA13&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jai7Bm7WwokC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jai7Bm7WwokC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=jai7Bm7WwokC&rdid=book-jai7Bm7WwokC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Announcements.epub?id=jai7Bm7WwokC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jai7Bm7WwokC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Business Organization Commercial Organization \u003cb\u003eBusiness Psychology\u003c/b\u003e Business Law Transportation Rate - making Seminar Elective Labor Problems Municipal Government Sociology Required SECOND YEAR Business Organization Commercial&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SyRRAQAAMAAJ",
+      "etag": "gzL2QNHHNps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SyRRAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Philippine Journal of Education",
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:097507726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SyRRAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SyRRAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=SyRRAQAAMAAJ&pg=PA35&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SyRRAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SyRRAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=SyRRAQAAMAAJ&rdid=book-SyRRAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Philippine_Journal_of_Education.epub?id=SyRRAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SyRRAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ebusiness psychology\u003c/b\u003e , along these lines , would seem a desirable part of a general course in business administration . The requirements of the specialist in \u003cb\u003ebusiness psychology\u003c/b\u003e are , perhaps , sufficiently indicated by those of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ydAsAQAAMAAJ",
+      "etag": "uuOU8sHSv0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ydAsAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Psychological Index",
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:L0053865440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ydAsAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ydAsAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=ydAsAQAAMAAJ&pg=RA1-PA77&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ydAsAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ydAsAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ydAsAQAAMAAJ&rdid=book-ydAsAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Psychological_Index.epub?id=ydAsAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Psychological_Index.pdf?id=ydAsAQAAMAAJ&hl=&output=pdf&sig=ACfU3U3iweB75Xehr4c3MDpNjdmYM78r7w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ydAsAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "1153. HENDERSCHOTT , F. C. \u003cb\u003ePsychology\u003c/b\u003e and \u003cb\u003ebusiness\u003c/b\u003e . J. of Appl . Psychol . , 1917 , 1 , 214-219 . 1154. HOLLINGworth , H. L. , &amp; POFFENBERGER , A. T. , JR . Ap- plied \u003cb\u003epsychology\u003c/b\u003e . New York : Appleton , 1917. Pp . xiii + 337 . 1155&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lYa-OAyueoEC",
+      "etag": "hVVmlJ599CA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lYa-OAyueoEC",
+      "volumeInfo": {
+        "title": "The Business Educator",
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858045070616"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "categories": [
+          "Business education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lYa-OAyueoEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lYa-OAyueoEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=lYa-OAyueoEC&pg=RA8-PA24&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lYa-OAyueoEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lYa-OAyueoEC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lYa-OAyueoEC&rdid=book-lYa-OAyueoEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Business_Educator.epub?id=lYa-OAyueoEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lYa-OAyueoEC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... business man talks to a customer on paper . It is the easy place to begin in a corres- pondence course ; it is the most nat- ural way of teaching and illustrating the secrets of \u003cb\u003ebusiness psychology\u003c/b\u003e . But if you are doing retail advertis&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wcg-AQAAMAAJ",
+      "etag": "18KUp8LYRcI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wcg-AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Circulars",
+        "authors": [
+          "Johns Hopkins University"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435057724478"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1374,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wcg-AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wcg-AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=wcg-AQAAMAAJ&pg=RA2-PA130&dq=business+psychology&hl=&as_brr=7&as_pt=ALLTYPES&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wcg-AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wcg-AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wcg-AQAAMAAJ&rdid=book-wcg-AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Circulars.epub?id=wcg-AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wcg-AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eBusiness Psychology\u003c/b\u003e . Money &amp; Banking ; \u003cb\u003eBusiness Psychology\u003c/b\u003e . Salesmanship and Adv . 3609 Park Heights Av . Life Insurance . 2321 Jefferson St. Owings Mills . 1824 E. Lafayette Av . 2450 Maryland Av . 2811 St. Paul St. 15 N. Bond St&nbsp;..."
+      }
+    }
+  ]
+}

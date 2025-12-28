@@ -1,0 +1,1373 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "oBwCAAAAYAAJ",
+      "etag": "5oRG2Kn0hEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oBwCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "An Introduction to Neurology",
+        "authors": [
+          "Charles Judson Herrick"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HC4LY4"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": [
+          "Nervous system"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oBwCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oBwCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=oBwCAAAAYAAJ&pg=PA13&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oBwCAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oBwCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=oBwCAAAAYAAJ&rdid=book-oBwCAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/An_Introduction_to_Neurology.epub?id=oBwCAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/An_Introduction_to_Neurology.pdf?id=oBwCAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2En8UIxNEVWI3rHrT5zPHQJdum_Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oBwCAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurological\u003c/b\u003e terms . ) HERRICK , C. JUDSON , and CROSBY , ELIZABETH . 1918. A Laboratory Outline of \u003cb\u003eNeurology\u003c/b\u003e , Philadelphia , W. B. Saunders Co. ( Dissection of the dogfish , sheep , and human brains , and directions for study of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-RtEIWKFUhQC",
+      "etag": "0A0vFGC+ZX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-RtEIWKFUhQC",
+      "volumeInfo": {
+        "title": "Review of Neurology and Psychiatry",
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:U183024421529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1018,
+        "printType": "BOOK",
+        "categories": [
+          "Neurology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-RtEIWKFUhQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-RtEIWKFUhQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=-RtEIWKFUhQC&pg=PA655&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-RtEIWKFUhQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-RtEIWKFUhQC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-RtEIWKFUhQC&rdid=book--RtEIWKFUhQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Review_of_Neurology_and_Psychiatry.epub?id=-RtEIWKFUhQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-RtEIWKFUhQC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurology\u003c/b\u003e and psychiatry , and laments his failure to find any references to the subject in Italian medical literature . Merzbacher&#39;s self - imposed mission of scientific evangelist will doubtless amuse the Italian \u003cb\u003eneurologists\u003c/b\u003e , to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qxygAAAAMAAJ",
+      "etag": "ckT2jGXC6qw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qxygAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Review of Neurology and Psychiatry",
+        "authors": [
+          "Alexander Bruce",
+          "Alexander Ninian Bruce"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015073429055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 882,
+        "printType": "BOOK",
+        "categories": [
+          "Nervous system"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qxygAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qxygAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=qxygAAAAMAAJ&pg=PA219&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qxygAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qxygAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qxygAAAAMAAJ&rdid=book-qxygAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Review_of_Neurology_and_Psychiatry.epub?id=qxygAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qxygAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNeurological\u003c/b\u003e Diagnosis . - Arrested meningitis tuberculosa . Present symptoms : Very asymmetrical scalp . Patient is of strong constitution , never suffers from headache , hops on either leg . Knee jerks not to be elicited . Is somewhat&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gPh8g5WojGIC",
+      "etag": "A9eSK7eC2a0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gPh8g5WojGIC",
+      "volumeInfo": {
+        "title": "Neurological and Sensory Disease: Film Guide, 1963",
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105216546817"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Neurology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gPh8g5WojGIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gPh8g5WojGIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=gPh8g5WojGIC&pg=PA143&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gPh8g5WojGIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gPh8g5WojGIC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gPh8g5WojGIC&rdid=book-gPh8g5WojGIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Neurological_and_Sensory_Disease_Film_Gu.epub?id=gPh8g5WojGIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gPh8g5WojGIC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNEUROLOGY\u003c/b\u003e - Neurophysiology &amp; Electroencephalography Movement - significance of the activity of the normal infant \u003cb\u003eNEUROLOGY\u003c/b\u003e - \u003cb\u003eNeurological\u003c/b\u003e Examination Movements of the soft palate ( Die bewegungen des weichen gaumens ) SPEECH - Speech&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SzqsAAAAIAAJ",
+      "etag": "VXA/nBDIqoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SzqsAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Neurological and Sensory Disease, Film Guide, 1966",
+        "subtitle": "Prepared for the Neurological and Sensory Disease Service Program",
+        "authors": [
+          "United States. Public Health Service. Audiovisual Facility"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4399713"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Neurology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SzqsAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SzqsAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=SzqsAAAAIAAJ&pg=PA59&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SzqsAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SzqsAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=SzqsAAAAIAAJ&rdid=book-SzqsAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Neurological_and_Sensory_Disease_Film_Gu.epub?id=SzqsAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SzqsAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurology NEUROLOGY\u003c/b\u003e - Neurophysiology Astrocytoma of cerebellum \u003cb\u003eNEUROLOGY\u003c/b\u003e - Neoplasm of Nervous System Brain stimulation in the monkey , technique and result \u003cb\u003eNEUROLOGY\u003c/b\u003e - \u003cb\u003eNeurologic\u003c/b\u003e Basis of Behavior Cerebellopontine - angle tumors&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "63JBLOG_rkgC",
+      "etag": "iTbCa6ir6Fo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/63JBLOG_rkgC",
+      "volumeInfo": {
+        "title": "Neurological and Sensory Disease",
+        "subtitle": "Film Guide",
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:U183040181862"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Neurology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=63JBLOG_rkgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=63JBLOG_rkgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=63JBLOG_rkgC&pg=PA127&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=63JBLOG_rkgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=63JBLOG_rkgC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=63JBLOG_rkgC&rdid=book-63JBLOG_rkgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Neurological_and_Sensory_Disease.epub?id=63JBLOG_rkgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=63JBLOG_rkgC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNEUROLOGY\u003c/b\u003e - Speech Disorders &amp; Aphasia A case of athetoid infantile cerebral palsy with quick movements \u003cb\u003eNEUROLOGY\u003c/b\u003e - Movement Disorders A case of cerebellar ataxia \u003cb\u003eNEUROLOGY\u003c/b\u003e Movement Disorders A case of epidermoid carcinoma of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OopGAAAAYAAJ",
+      "etag": "8imwtn/i+Iw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OopGAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Archives of Neurology and Psychiatry",
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:3470110679"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1094,
+        "printType": "BOOK",
+        "categories": [
+          "Neurology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OopGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OopGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=OopGAAAAYAAJ&pg=PA786&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OopGAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OopGAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OopGAAAAYAAJ&rdid=book-OopGAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Archives_of_Neurology_and_Psychiatry.epub?id=OopGAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OopGAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurology\u003c/b\u003e , as observed personally by Dana . Nothing , apparently , could have interested the English members of the audience more , especially since few of them were acquainted in any detail with the growth of American \u003cb\u003eneurology\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nsIUAAAAYAAJ",
+      "etag": "rTLnCbg6WCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nsIUAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Journal of Comparative Neurology and Psychology",
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044106263650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative neurobiology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nsIUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nsIUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=nsIUAAAAYAAJ&pg=PA80-IA2&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nsIUAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nsIUAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nsIUAAAAYAAJ&rdid=book-nsIUAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Journal_of_Comparative_Neurology_and.epub?id=nsIUAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nsIUAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNeurology\u003c/b\u003e . 57 The International Commission on Brain Research . 62 Literary Notices . 65 THE JOURNAL OF COMPARATIVE \u003cb\u003eNEUROLOGY\u003c/b\u003e AND PSY- CHOLOGY is published bi - monthly . The annual volume of six numbers comprises about 500 pages , with&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YjusAAAAIAAJ",
+      "etag": "Xbi49PO6RfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YjusAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Neurology and Metaphysics",
+        "subtitle": "By Charles McCormick",
+        "authors": [
+          "Charles McCormick"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4399717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "categories": [
+          "Neurologic manifestations of general diseases"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YjusAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YjusAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=YjusAAAAIAAJ&pg=PA244&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YjusAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YjusAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YjusAAAAIAAJ&rdid=book-YjusAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Neurology_and_Metaphysics.epub?id=YjusAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Neurology_and_Metaphysics.pdf?id=YjusAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3RZaS27ssvA9PLGaqO0weq_S0oUA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YjusAAAAIAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By Charles McCormick Charles McCormick. \u003cb\u003eNEUROLOGY\u003c/b\u003e LIKE A PIANO . It is a Simple Proposition in the Abstract , but It Requires Patient Industry to Win . Wiseacres who undertake to practice \u003cb\u003eneurology\u003c/b\u003e or even that small branch of it known&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OMAUAAAAYAAJ",
+      "etag": "X/8qD19Db8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OMAUAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Journal of Comparative Neurology",
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044106263627"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative neurobiology"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OMAUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OMAUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=OMAUAAAAYAAJ&pg=PP10&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OMAUAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OMAUAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OMAUAAAAYAAJ&rdid=book-OMAUAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Journal_of_Comparative_Neurology.epub?id=OMAUAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/The_Journal_of_Comparative_Neurology.pdf?id=OMAUAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0jfQQ-k_UcVM4vBX4ZvrGmIymjDQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OMAUAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNeurological\u003c/b\u003e Laboratory of the University of Chicago . With Plate XVII ... On the Number and on the Relation Between Diameter and Distribution of the Nerve Fibers Innervating the Leg of the ... \u003cb\u003eNeurology\u003c/b\u003e of the Flat - Fish .. XXXVI."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x7_RuDUgxGUC",
+      "etag": "t/1xq1eZbjM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x7_RuDUgxGUC",
+      "volumeInfo": {
+        "title": "Neurological and Sensory Disease",
+        "subtitle": "Film Guide, 1966",
+        "authors": [
+          "United States. Public Health Service. Audiovisual Facility"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112067749611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Motion pictures"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x7_RuDUgxGUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x7_RuDUgxGUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=x7_RuDUgxGUC&pg=PA59&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x7_RuDUgxGUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x7_RuDUgxGUC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=x7_RuDUgxGUC&rdid=book-x7_RuDUgxGUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Neurological_and_Sensory_Disease.epub?id=x7_RuDUgxGUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x7_RuDUgxGUC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurology NEUROLOGY\u003c/b\u003e - Neurophysiology Astrocytoma of cerebellum \u003cb\u003eNEUROLOGY\u003c/b\u003e - Neoplasm of Nervous System Brain stimulation in the monkey , technique and result \u003cb\u003eNEUROLOGY\u003c/b\u003e - \u003cb\u003eNeurologic\u003c/b\u003e Basis of Behavior Cerebellopontine - angle tumors&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JLY0AQAAMAAJ",
+      "etag": "3hOjw0zbzz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JLY0AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Journal of Comparative Neurology",
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000060187864"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative neurobiology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JLY0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JLY0AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=JLY0AQAAMAAJ&pg=PA522&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JLY0AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JLY0AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=JLY0AQAAMAAJ&rdid=book-JLY0AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal_of_Comparative_Neurology.epub?id=JLY0AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal_of_Comparative_Neurology.pdf?id=JLY0AQAAMAAJ&hl=&output=pdf&sig=ACfU3U1fDSx7SczBeGrokqNbl8cxTUw3ww&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JLY0AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNEUROLOGICAL\u003c/b\u003e TERMINOLOGY . The appearance of Dr. LEWELLYS F. BARKER&#39;s manual of Anatomical Terminology1 suggests some reflections upon ... \u003cb\u003eNeurology\u003c/b\u003e and Psychology . *nomenclature of, *\u003cb\u003eNeurological\u003c/b\u003e terminology, \u003cb\u003eNeurological\u003c/b\u003e Terminology."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ho1IAAAAYAAJ",
+      "etag": "kGoOHsUpJM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ho1IAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Transactions of the American Neurological Association",
+        "subtitle": "Annual Meeting",
+        "authors": [
+          "American Neurological Association"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101076384427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "categories": [
+          "Nervous system"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ho1IAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ho1IAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=ho1IAAAAYAAJ&pg=PA182&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ho1IAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ho1IAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ho1IAAAAYAAJ&rdid=book-ho1IAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Transactions_of_the_American_Neurologica.epub?id=ho1IAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Transactions_of_the_American_Neurologica.pdf?id=ho1IAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2rA_kFWQOfQxayhlAHk-yqoYqIWw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ho1IAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Annual Meeting American \u003cb\u003eNeurological\u003c/b\u003e Association. Hurd on Mental Cases in General Hospitals - all emphasizing different aspects of advance in hospital provision and in teaching \u003cb\u003eneurology\u003c/b\u003e and psychiatry . There is , however , an intense&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NP1EAQAAMAAJ",
+      "etag": "jMlBN3Qgaq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NP1EAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Report - University of Illinois Board of Trustees",
+        "authors": [
+          "University of Illinois (System). Board of Trustees"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112048380171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 964,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NP1EAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NP1EAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=NP1EAQAAMAAJ&pg=PA500&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NP1EAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NP1EAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NP1EAQAAMAAJ&rdid=book-NP1EAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Report_University_of_Illinois_Board_of_T.epub?id=NP1EAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NP1EAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNEUROLOGY\u003c/b\u003e AND PSYCHIATRY . Senior \u003cb\u003eNeurology\u003c/b\u003e and Psychiatry , Didactic Teachers . Oscar A. King , M.D. , professor of \u003cb\u003eNeurology\u003c/b\u003e and Psychiatry and Clinical \u003cb\u003eNeurology\u003c/b\u003e and Psychiatry ( C. ) and head of Department of \u003cb\u003eNeurology\u003c/b\u003e and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fjFYAAAAMAAJ",
+      "etag": "l8N8pBCdjJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fjFYAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Alienist and Neurologist",
+        "subtitle": "A Quarterly Journal of Scientific, Clinical and Forensic Psychiatry and Neurology",
+        "authors": [
+          "Charles Hamilton Hughes"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015034729643"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 726,
+        "printType": "BOOK",
+        "categories": [
+          "Neurology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fjFYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fjFYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=fjFYAAAAMAAJ&pg=PT4&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fjFYAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fjFYAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fjFYAAAAMAAJ&rdid=book-fjFYAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Alienist_and_Neurologist.epub?id=fjFYAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Alienist_and_Neurologist.pdf?id=fjFYAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0wXA5cB-7oI7tl78CzIQ7uPXU8jw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fjFYAAAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Quarterly Journal of Scientific, Clinical and Forensic Psychiatry and \u003cb\u003eNeurology\u003c/b\u003e Charles Hamilton Hughes. THE ALIENIST \u003cb\u003eNEUROLOGIST\u003c/b\u003e . A Quarterly Journal of Scientific , Clinical and Forensic Psychiatry and \u003cb\u003eNeurology\u003c/b\u003e for the General&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z2sY7WHP54UC",
+      "etag": "ZCbGV7MZiPQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z2sY7WHP54UC",
+      "volumeInfo": {
+        "title": "Quarterly Bulletin of Northwestern University Medical School",
+        "authors": [
+          "Northwestern University (Evanston, Ill.). Medical School"
+        ],
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112056700823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Medicine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z2sY7WHP54UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z2sY7WHP54UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=Z2sY7WHP54UC&pg=PA274&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Z2sY7WHP54UC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Z2sY7WHP54UC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Z2sY7WHP54UC&rdid=book-Z2sY7WHP54UC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Quarterly_Bulletin_of_Northwestern_Unive.epub?id=Z2sY7WHP54UC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z2sY7WHP54UC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNeurology\u003c/b\u003e * \u003cb\u003eNeurology\u003c/b\u003e . Dispensary Dispensary . \u003cb\u003eNeurology\u003c/b\u003e . \u003cb\u003eNeurology\u003c/b\u003e . \u003cb\u003eNeurology\u003c/b\u003e Dispensary . Dispensary . Gynecology . Gynecology * * \u003cb\u003eNeurology\u003c/b\u003e . \u003cb\u003eNeurology\u003c/b\u003e * Dispensary . Dispensary . Eye &amp; Ear . 3 to 4 Colleg .. Ward . Wesley&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lIYD8KYsGkAC",
+      "etag": "wGH6b/pcsng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lIYD8KYsGkAC",
+      "volumeInfo": {
+        "title": "Journal of Nervous and Mental Disease",
+        "publishedDate": "1919",
+        "description": "July 1918-1943 include reports of various neurological and psychiatric societies.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112063825357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "categories": [
+          "Brain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lIYD8KYsGkAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lIYD8KYsGkAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=lIYD8KYsGkAC&pg=PA54&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lIYD8KYsGkAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lIYD8KYsGkAC"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lIYD8KYsGkAC&rdid=book-lIYD8KYsGkAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal_of_Nervous_and_Mental_Disease.epub?id=lIYD8KYsGkAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lIYD8KYsGkAC&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurologists\u003c/b\u003e most intimately was the develop- ment and advance of \u003cb\u003eneurology\u003c/b\u003e in this country , and it was to the oppor- tunity presented by combined and well organized effort that American \u003cb\u003eneurologists\u003c/b\u003e must address themselves . Assuming&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z441AQAAMAAJ",
+      "etag": "MCfX8TVf8is",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z441AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Journal of the American Medical Association",
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015020980952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1696,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic journals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "5.11.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z441AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z441AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=z441AQAAMAAJ&pg=PA575&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=z441AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=z441AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=z441AQAAMAAJ&rdid=book-z441AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal_of_the_American_Medical_Associat.epub?id=z441AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/Journal_of_the_American_Medical_Associat.pdf?id=z441AQAAMAAJ&hl=&output=pdf&sig=ACfU3U1-AmbHcqHuKKfHN4Qx3Aq35ZdNsw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z441AQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurologists\u003c/b\u003e can not get along without gynecology . We do not want it , and you can not get along without us , without borrowing information from \u003cb\u003eneurology\u003c/b\u003e ; nor can we without borrowing information from gynecology ; individual which no&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hk8SAAAAYAAJ",
+      "etag": "Tmo8wt4PgqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hk8SAAAAYAAJ",
+      "volumeInfo": {
+        "title": "International Clinics",
+        "subtitle": "A Quarterly of Clinical Lectures",
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HC2EM8"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "Clinical medicine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hk8SAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hk8SAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=Hk8SAAAAYAAJ&pg=PA179&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Hk8SAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Hk8SAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Hk8SAAAAYAAJ&rdid=book-Hk8SAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/International_Clinics.epub?id=Hk8SAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ph/books/download/International_Clinics.pdf?id=Hk8SAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3tknYjUnW3tJpQtuS8sI30pMmnYQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hk8SAAAAYAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eNeurology\u003c/b\u003e , Northwestern University Medical School ; Attending \u003cb\u003eNeurologist\u003c/b\u003e Wesley , Postgraduate , and Cook County Hospitals , Chicago TO ADEQUATELY recount the progress made in \u003cb\u003eneurology\u003c/b\u003e and psychiatry during the last twenty - five&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j81JAQAAMAAJ",
+      "etag": "CjzrkVLGC0Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j81JAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Science",
+        "authors": [
+          "John Michels"
+        ],
+        "publishedDate": "1906",
+        "description": "Vols. for 1911-13 contain the Proceedings of the Helminothological Society of Washington, ISSN 0018-0120, 1st-15th meeting.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D00245975X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 892,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j81JAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j81JAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ph/books?id=j81JAQAAMAAJ&pg=PA846&dq=neurology&hl=&as_brr=7&as_pt=ALLTYPES&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=j81JAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=j81JAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PH",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=j81JAQAAMAAJ&rdid=book-j81JAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PH",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ph/books/download/Science.epub?id=j81JAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j81JAQAAMAAJ&hl=&as_brr=7&as_pt=ALLTYPES&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eneurology\u003c/b\u003e ( both text - books and monographs ) has been notably weak . The technique of modern \u003cb\u003eneurological\u003c/b\u003e re- search is so very difficult and diversified and the mass of intricate anatomical detail which must be carried in mind during&nbsp;..."
+      }
+    }
+  ]
+}
