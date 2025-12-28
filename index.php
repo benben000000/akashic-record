@@ -110,6 +110,15 @@
                         <i data-lucide="plus" class="w-4 h-4"></i>
                     </button>
                 </div>
+                
+                <!-- Legal Links Row -->
+                <div class="flex justify-center space-x-6 mt-4 text-[10px] text-gray-400 font-medium uppercase tracking-widest opacity-80 hover:opacity-100 transition-opacity">
+                    <a href="legal.php" class="hover:text-ios-blue transition-colors">Terms</a>
+                    <span>•</span>
+                    <a href="legal.php" class="hover:text-ios-blue transition-colors">Privacy</a>
+                    <span>•</span>
+                    <a href="legal.php" class="hover:text-ios-blue transition-colors">DMCA / Copyright</a>
+                </div>
             </div>
 
             <!-- Results Grid -->
