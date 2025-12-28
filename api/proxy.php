@@ -12,6 +12,7 @@ $action = $_GET['action'] ?? '';
 $query  = $_GET['q'] ?? '';
 $id     = $_GET['id'] ?? '';
 $page   = $_GET['page'] ?? 1;
+$year   = $_GET['year'] ?? ''; // Year filter (e.g., 2023)
 
 // Base URLs
 const IA_SEARCH_BASE = 'https://archive.org/advancedsearch.php';
@@ -90,12 +91,18 @@ function fetchUrl($url) {
 switch ($action) {
     case 'search_books': // OpenLibrary
         // STRICT: has_fulltext:true ensures we only get readable books
-        $encodedQuery = urlencode($query . ' has_fulltext:true');
+        $qBuilder = $query . ' has_fulltext:true';
+        if ($year) {
+            // OpenLibrary Syntax: first_publish_year:[YYYY TO *]
+            $qBuilder .= " first_publish_year:[{$year} TO *]";
+        }
+        $encodedQuery = urlencode($qBuilder);
         $url = OL_SEARCH_BASE . "?q={$encodedQuery}&page={$page}&fields=title,author_name,cover_i,key,first_publish_year,ia,language,has_fulltext&limit=20";
         echo fetchUrl($url);
         break;
         
     case 'search_gutenberg': // Project Gutenberg (All free by definition)
+        // Gutenberg doesn't easily support date ranges in simple text search, keeping as is
         $encodedQuery = urlencode($query);
         $url = "https://gutendex.com/books?search={$encodedQuery}"; 
         echo fetchUrl($url);
@@ -103,6 +110,8 @@ switch ($action) {
 
     case 'search_arxiv': // arXiv (All free by definition)
         $encodedQuery = urlencode($query);
+        // arXiv Date Syntax isn't simple in "all:", skipping STRICT date for now to avoid breaking results
+        // but we can try to sort if possible, or leave broad.
         $start = ($page - 1) * 20;
         $url = "http://export.arxiv.org/api/query?search_query=all:{$encodedQuery}&start={$start}&max_results=20";
         $xmlData = fetchUrl($url);
@@ -115,32 +124,48 @@ switch ($action) {
         break;
 
     case 'search_general': // Internet Archive
-        // STRICT: Exclude lending library to avoid "Borrow" items
-        // q=... AND mediatype:(texts) AND -collection:lendinglibrary
-        $encodedQuery = urlencode($query . ' AND mediatype:(texts) AND -collection:lendinglibrary AND -collection:inlibrary');
+        // q=... AND mediatype:(texts) ...
+        $qBuilder = $query . ' AND mediatype:(texts) AND -collection:lendinglibrary AND -collection:inlibrary';
+        if ($year) {
+            // Internet Archive Syntax: date:[YYYY-01-01 TO *]
+            // actually 'date' or 'year' field. 'year' is safer for text.
+            // year:[YYYY TO 9999]
+            $qBuilder .= " AND year:[{$year} TO 9999]";
+        }
+        $encodedQuery = urlencode($qBuilder);
         $url = IA_SEARCH_BASE . "?q={$encodedQuery}&fl[]=identifier&fl[]=title&fl[]=mediatype&fl[]=creator&fl[]=year&fl[]=description&rows=20&page={$page}&output=json";
         echo fetchUrl($url);
         break;
 
     case 'search_google':
-        // Google Books API (Prioritize FREE Ebooks for 'Direct Access' feel)
+        // Google Books API 
         $encodedQuery = urlencode($query);
+        if ($year) {
+            // Google Books doesn't have a reliable "after:YYYY" in API q param without breaking some keyword matches,
+            // but we can try strictly modifying the query or handling it loosely. 
+            // Better strategy: Let Google be broad or use 'key' words. 
+            // Actually, "search+after:YYYY" works in UI, let's try appending.
+            // Note: URL encoding MUST happen after appending.
+            $encodedQuery = urlencode($query . " after:{$year}");
+        }
         $startIndex = ($page - 1) * 20;
-        // Added &filter=free-ebooks to ensure full view availability where possible
         $url = "https://www.googleapis.com/books/v1/volumes?q={$encodedQuery}&startIndex={$startIndex}&maxResults=20&printType=all&filter=free-ebooks";
         echo fetchUrl($url);
         break;
 
     case 'search_pubmed':
-        // PubMed E-utilities: 2-step process (Search IDs -> Fetch Summaries)
+        // PubMed E-utilities
         $base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils";
-        // STRICT: Add "free full text"[sb] filter
         $encodedQuery = urlencode($query . ' AND "free full text"[sb]');
         
-        // Step 1: Search for IDs (Added sort=relevance to fix "not close search" issue)
-        // retstart = ($page - 1) * 20
+        $dateParams = "";
+        if ($year) {
+            // mindate/maxdate support YYYY
+            $dateParams = "&mindate={$year}&maxdate=3000&datetype=pdat";
+        }
+        
         $retstart = ($page - 1) * 20;
-        $searchUrl = "{$base}/esearch.fcgi?db=pubmed&term={$encodedQuery}&retmode=json&retmax=20&retstart={$retstart}&sort=relevance";
+        $searchUrl = "{$base}/esearch.fcgi?db=pubmed&term={$encodedQuery}&retmode=json&retmax=20&retstart={$retstart}&sort=relevance{$dateParams}";
         $searchData = json_decode(fetchUrl($searchUrl), true);
         
         $ids = $searchData['esearchresult']['idlist'] ?? [];
@@ -150,7 +175,6 @@ switch ($action) {
             exit;
         }
         
-        // Step 2: Fetch Summaries for these IDs
         $idStr = implode(',', $ids);
         $summaryUrl = "{$base}/esummary.fcgi?db=pubmed&id={$idStr}&retmode=json";
         echo fetchUrl($summaryUrl);

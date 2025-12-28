@@ -14,6 +14,7 @@ class App {
             query: '',
             filter: 'all', // Default to all
             results: [],
+            yearFilter: '', // New Year Filter State
             page: 1,
             isLoading: false,
             favorites: JSON.parse(localStorage.getItem('uls_favorites') || '[]'),
@@ -112,7 +113,7 @@ class App {
             const actions = ['search_google', 'search_books', 'search_gutenberg', 'search_arxiv', 'search_pubmed'];
 
             const promises = actions.map(action =>
-                fetch(`api/proxy.php?action=${action}&q=${encodeURIComponent(this.state.query)}&page=${this.state.page}`)
+                fetch(`api/proxy.php?action=${action}&q=${encodeURIComponent(this.state.query)}&year=${this.state.yearFilter}&page=${this.state.page}`)
                     .then(r => r.ok ? r.json() : null)
                     .catch(() => null)
                     .then(data => ({ action, data }))
@@ -347,6 +348,13 @@ class App {
         });
 
         if (this.state.query) this.search();
+    }
+
+    setYearFilter(year) {
+        this.state.yearFilter = year;
+        if (this.state.query) {
+            this.search(); // Re-trigger search with new filter
+        }
     }
 
     setLoading(bool) {

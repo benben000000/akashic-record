@@ -97,7 +97,25 @@
                 </div>
 
                 <!-- Filters -->
-                <div class="flex flex-wrap justify-center gap-2 mt-6 max-w-3xl mx-auto">
+                <div class="flex flex-wrap justify-center gap-3 mt-6 max-w-3xl mx-auto items-center">
+                    <!-- Year Filter -->
+                    <div class="relative">
+                        <select onchange="app.setYearFilter(this.value)" 
+                                class="appearance-none bg-white/80 backdrop-blur-md border border-gray-200 text-gray-700 py-2 pl-4 pr-10 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer font-medium hover:bg-white transition-colors">
+                            <option value="">Any Time</option>
+                            <option value="2025">Since 2025</option>
+                            <option value="2024">Since 2024</option>
+                            <option value="2023">Since 2023</option>
+                            <option value="2020">Since 2020</option>
+                            <option value="2015">Since 2015</option>
+                        </select>
+                        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-gray-500">
+                            <i data-lucide="calendar" class="w-4 h-4"></i>
+                        </div>
+                    </div>
+                    
+                    <div class="w-px h-6 bg-gray-300 mx-1 hidden sm:block"></div>
+
                     <button onclick="app.setFilter('all')" class="filter-btn px-4 py-2 rounded-full text-sm font-medium bg-ios-blue text-white shadow-md transition-all active-filter" data-type="all">All Sources</button>
                     <button onclick="app.setFilter('books')" class="filter-btn px-4 py-2 rounded-full text-sm font-medium bg-white text-gray-500 hover:bg-gray-100 transition-all" data-type="books">Library</button>
                     <button onclick="app.setFilter('google')" class="filter-btn px-4 py-2 rounded-full text-sm font-medium bg-white text-gray-500 hover:bg-gray-100 transition-all" data-type="google">Google Books</button>
